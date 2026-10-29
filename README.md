@@ -1,5 +1,7 @@
 # kicad2ems-project
 
+![Architecture](img/kicad2ems-stack-map.svg)
+
 The whole [kicad2ems](https://github.com/lowprocess/kicad2ems) stack in one checkout: each package is a git
 submodule here, at the commit the others were last tested with.
 
