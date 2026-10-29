@@ -1,0 +1,32 @@
+[submodule "kicad2ems"]
+	path = kicad2ems
+	url = https://github.com/lowprocess/kicad2ems.git
+	branch = main
+[submodule "mom25d"]
+	path = mom25d
+	url = https://github.com/lowprocess/mom25d.git
+	branch = main
+[submodule "gfdtd"]
+	path = gfdtd
+	url = https://github.com/lowprocess/gfdtd.git
+	branch = main
+[submodule "kicad2ems-fdtd"]
+	path = kicad2ems-fdtd
+	url = https://github.com/lowprocess/kicad2ems-fdtd.git
+	branch = main
+[submodule "kicad2ems-gui"]
+	path = kicad2ems-gui
+	url = https://github.com/lowprocess/kicad2ems-gui.git
+	branch = main
+[submodule "kicad2ems-ipc"]
+	path = kicad2ems-ipc
+	url = https://github.com/lowprocess/kicad2ems-ipc.git
+	branch = main
+[submodule "dfsynth"]
+	path = dfsynth
+	url = https://github.com/lowprocess/dfsynth.git
+	branch = main
+[submodule "emsdev"]
+	path = emsdev
+	url = https://github.com/lowprocess/emsdev.git
+	branch = main
