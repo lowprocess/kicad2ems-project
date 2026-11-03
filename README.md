@@ -7,7 +7,7 @@ submodule here, at the commit the others were last tested with.
 
 | Repository | What it is |
 |---|---|
-| [kicad2ems](https://github.com/lowprocess/kicad2ems) | KiCad boards to EM solvers: the board model, the line model, the runs, the reports; `setup.sh` installs the stack |
+| [kicad2ems](https://github.com/lowprocess/kicad2ems) | KiCad boards to EM solvers: the board model, the line model, the runs, the reports; `install.py` installs the stack |
 | [mom25d](https://github.com/lowprocess/mom25d) | a 2.5D method-of-moments solver (layered Green's functions, GPU LU) |
 | [gfdtd](https://github.com/lowprocess/gfdtd) | a GPU-accelerated FDTD solver |
 | [kicad2ems-fdtd](https://github.com/lowprocess/kicad2ems-fdtd) | kicad2ems's openEMS and gfdtd solver plugins |
@@ -21,10 +21,10 @@ submodule here, at the commit the others were last tested with.
 ```bash
 git clone --recurse-submodules https://github.com/lowprocess/kicad2ems-project.git
 cd kicad2ems-project/kicad2ems
-./setup.sh                      # asks what to install; --yes takes the defaults
+./setup.sh                      # asks what to install; --yes takes the defaults (Windows: py install.py)
 ```
 
-`setup.sh` also makes the example boards, so `kicad2ems examples/demo_transition.toml` runs straight after it.
+The installer also makes the example boards, so `kicad2ems examples/demo_transition.toml` runs straight after it.
 
 ## Keeping it current
 

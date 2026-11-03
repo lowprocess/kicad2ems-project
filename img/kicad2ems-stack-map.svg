@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="844" viewBox="0 0 1000 844" role="img" aria-label="Block diagram: KiCad, kicad2ems-ipc, kicad2ems-gui and dfsynth drive the kicad2ems core through api.frontend; kicad2ems-fdtd and mom25d register as solver plugins through api.solver 2.0; kicad2ems-fdtd holds one FDTD model and runs it on openEMS or the standalone gfdtd engine; emsdev probes the machine for core, mom25d and gfdtd.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="844" viewBox="0 0 1000 844" role="img" aria-label="Block diagram: KiCad, kicad2ems-ipc, kicad2ems-gui and dfsynth drive the kicad2ems core through api.frontend; kicad2ems-fdtd and mom25d register as solver plugins through api.solver 2.2; kicad2ems-fdtd holds one FDTD model and runs it on openEMS or the standalone gfdtd engine; emsdev probes the machine for core, mom25d and gfdtd.">
   <title>kicad2ems stack map</title>
   <style>
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans+Condensed:wght@500;600&amp;family=IBM+Plex+Sans:wght@400;500&amp;display=swap");
@@ -139,7 +139,7 @@
 
       <!-- the one versioned door for solvers -->
       <rect class="port" x="40" y="464" width="680" height="6" rx="2"/>
-      <text class="lab api" x="730" y="490">kicad2ems.api.solver 2.0</text>
+      <text class="lab api" x="730" y="490">kicad2ems.api.solver 2.2</text>
 
       <!-- ===== Solver plugins ===== -->
       <text class="lab" x="20" y="528">SOLVER PLUGINS</text>
@@ -193,8 +193,8 @@
       <text class="s" x="324" y="824">standalone engine; no kicad2ems</text>
 
       <rect class="x" x="600" y="780" width="190" height="60" rx="4"/>
-      <text class="tx" x="616" y="806">CuPy · PyTorch</text>
-      <text class="tx" x="616" y="824">CUDA / ROCm</text>
+      <text class="tx" x="616" y="806">slangpy (Vulkan) · CuPy</text>
+      <text class="tx" x="616" y="824">any GPU · CUDA / ROCm</text>
 
       <path class="e" d="M174,704 L174,778" marker-end="url(#a)"/>
       <path class="e api" d="M426,704 L426,778" marker-end="url(#aa)"/>
