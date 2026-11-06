@@ -1,7 +1,8 @@
 # Power integrity and near field: where it stands, where it could go
 
-Notes from the work of 6–7 November 2026. Branches: mom25d `pdn` and `nearfield` (`nearfield` builds on `pdn`),
-kicad2ems-gui `pdn`, parent `pdn`. Nothing is merged to main. kicad2ems-palace is a local repo with no remote yet.
+Notes from the work of 6–7 November 2026. All of it was merged into main on 7 November: mom25d's `pdn` and
+`nearfield`, kicad2ems-gui's `pdn`, and the parent's `pdn`. The plan for the quasi-static solver's speed-up and
+integration is in kicad2ems's ROADMAP.md. kicad2ems-palace is a local repo with no remote yet.
 
 ## What exists
 
