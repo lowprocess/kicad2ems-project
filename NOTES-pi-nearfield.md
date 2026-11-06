@@ -83,6 +83,25 @@ kicad2ems-gui `pdn`, parent `pdn`. Nothing is merged to main. kicad2ems-palace i
   the 500 kHz harmonics for a 3 A trapezoid. It gives L, R, the dipole moment, H at 1, 3 and 10 mm, plane and
   volume dumps for the GUI, and the figures. Results below.
 
+### The buck demo's results
+
+Fundamental 500 kHz; the harmonics are weighted by a 3 A trapezoid (duty 0.33, so every third harmonic is about
+zero). Outputs are in `kicad2ems-studies/nearfield_demo/`.
+
+| | good | far | slot |
+|---|---|---|---|
+| Hot-loop copper L | 0.39 nH | 3.7 nH | 9.8 nH |
+| R (0.5 MHz) | 1.2 mΩ | 11.5 mΩ | 15.6 mΩ |
+| Dipole moment (0.5 MHz) | 14 A·mm² | 56 A·mm² | 73 A·mm² |
+| Peak \|H\| 10 mm above | 1.75 A/m | 4.8 A/m | 6.7 A/m |
+| Peak \|H\| 3 mm above | 47 A/m | 54 A/m | 60 A/m |
+
+- **What discriminates the layouts:** the loop's L and dipole moment, and H at 10 mm (2.7× and 3.8× the good
+  layout's). H at 1–3 mm is dominated by the parts' own current directly below, and differs little between them.
+- **What the maps show:** the plane's return current running under the VIN trace (far), and pulled round the slot's
+  end (slot).
+- **Run time:** each layout takes 1–1.5 min to solve and 1.6 min for the fields, out of 9 min for the whole demo.
+
 ## Known limits
 
 - **PDN**
