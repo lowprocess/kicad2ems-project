@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "commits": {
+    "pcbqs": "f36f3d729d2213a99390a7fdd772294f89cfe063",
+    "mom25d": "77509a598561e79c292e65369cec10c1816fc25a",
+    "kicad2ems-gui": "8e218624be24dcf9225473c1c1696d0836a92f86",
+    "kicad2ems": "d1ed5fa3d4166d31ed44dc48704a198701536c88"
+  },
+  "package": "https://github.com/lowprocess/pcbqs",
+  "companion_branch": "codex/pcbqs-split",
+  "tests": {
+    "pcbqs": 131,
+    "isolated_wheel_passed": 125,
+    "isolated_wheel_optional_skipped": 5,
+    "isolated_standalone": 4,
+    "mom25d": 92,
+    "frontend_and_installer": 69,
+    "core_fields_and_installer": 22
+  },
+  "timing": {
+    "before_s": [
+      30.461581749999823,
+      28.955293963999793,
+      29.006038889000592
+    ],
+    "after_s": [
+      28.851475994000793,
+      32.065189339000426,
+      28.84513717200025
+    ],
+    "median_before_s": 29.006038889000592,
+    "median_after_s": 28.851475994000793,
+    "relative_change": -0.005328645375925922,
+    "full52_s": 191.22571368699937
+  },
+  "parity": {
+    "maximum_waveform_relative_error": 0.0,
+    "port_impedance_relative_error": 0.0,
+    "branch_current_relative_error": 0.0,
+    "field_relative_error": 0.0
+  },
+  "protected": "MoM base/geo/sing/line/farfield/biot and native sources byte-identical; emsdev tracked files unchanged"
+}

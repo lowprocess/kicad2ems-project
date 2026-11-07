@@ -30,3 +30,7 @@
 	path = emsdev
 	url = https://github.com/lowprocess/emsdev.git
 	branch = main
+[submodule "pcbqs"]
+	path = pcbqs
+	url = git@github.com:lowprocess/pcbqs.git
+	branch = main
