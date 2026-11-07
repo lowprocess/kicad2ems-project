@@ -1,0 +1,6 @@
+mqs: reading board
+mqs: U702, +5V, capacitors C704, C705, C706
+mqs: 12,312 triangles on 6 layer(s), 14,790 edges, 125 via segments, 8 terminals
+mqs: openmp matrix fill, 8 worker(s), 5.17 s
+mqs: 3,803 loops; matrices in 14.9 s
+mqs: wrote benchmark-results/roadmap-2026-11-07/cm5-larger-crop/mqs.json

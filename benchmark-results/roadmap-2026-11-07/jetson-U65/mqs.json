@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "selection": {
+    "converter": "U65",
+    "vin": "VCC_IN",
+    "ground": "GND",
+    "capacitors": [
+      "C278"
+    ],
+    "values": {
+      "C278": 1.0000000000000001e-07
+    }
+  },
+  "settings": {
+    "converter": "U65",
+    "inductor": "",
+    "vin": "VCC_IN",
+    "ground": "GND",
+    "capacitors": "",
+    "cap_radius": 4.0,
+    "fsw": 500000.0,
+    "vin_volts": 0.0,
+    "vout": 0.0,
+    "duty": 0.33,
+    "current": 1.0,
+    "edge_time": 5e-09,
+    "harmonics": "1",
+    "heights": "3",
+    "scan_points": 7,
+    "field_tol": 0.02,
+    "margin": 2.0,
+    "dmax": 2.0,
+    "fine": 1.0,
+    "fill_backend": "openmp",
+    "fill_workers": 8,
+    "fill_chunk": 16384,
+    "fill_device": 0,
+    "esr": 0.003,
+    "esl": 4e-10,
+    "part_height": 0.5
+  },
+  "crop": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          174.31,
+          -73.72500000000001
+        ],
+        [
+          184.0025,
+          -73.72500000000001
+        ],
+        [
+          184.0025,
+          -66.14750000000001
+        ],
+        [
+          174.31,
+          -66.14750000000001
+        ],
+        [
+          174.31,
+          -73.72500000000001
+        ]
+      ]
+    ]
+  },
+  "frequencies_Hz": [
+    500000.0
+  ],
+  "harmonic_peak_A": [
+    0.5479597597724433
+  ],
+  "copper_R_ohm": [
+    0.0005953102096291462
+  ],
+  "copper_L_H": [
+    1.3907691656624954e-10
+  ],
+  "dipole_real_Am2": [
+    [
+      4.7771414715207785e-08,
+      5.079939541090144e-07,
+      4.602881588997578e-06
+    ]
+  ],
+  "dipole_imag_Am2": [
+    [
+      2.822317854818361e-08,
+      -2.3381040320726142e-08,
+      -9.19185747525853e-07
+    ]
+  ],
+  "heights_above_top_mm": [
+    3.0
+  ],
+  "peak_H_Am": [
+    [
+      7.976175898722722
+    ]
+  ],
+  "triangles": 7362,
+  "fill": {
+    "magnetic": {
+      "backend": "openmp",
+      "workers": 8,
+      "kernel_workers": 8,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": null,
+      "precision": "float64",
+      "triangles": 7362,
+      "outer_levels": 1,
+      "near": 3.0,
+      "observed_kernel_workers": 8,
+      "pairs": 27103203,
+      "analytic_pairs": 3441440,
+      "scalar_only": false,
+      "seconds": 2.274365534000026
+    }
+  },
+  "field_convergence": {
+    "refine": 2,
+    "converged": true,
+    "relative_change": [
+      [
+        0.008779353330149342
+      ]
+    ]
+  },
+  "notes": [
+    "Input-loop magnetic model; switch-node E and output-inductor leakage are excluded.",
+    "Pulse spectrum, ESR, ESL and part filament heights are explicit assumptions.",
+    "FFT convergence does not establish copper mesh or crop convergence."
+  ],
+  "seconds": {
+    "solve": 10.679663606000304,
+    "total": 11.07906736599989
+  },
+  "figures": [
+    "H_top_3mm.png",
+    "spectrum.png"
+  ]
+}

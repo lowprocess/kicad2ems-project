@@ -1,0 +1,76 @@
+{
+  "triangles": 2838,
+  "scalar_only": true,
+  "cases": [
+    {
+      "backend": "numpy",
+      "workers": 1,
+      "kernel_workers": 1,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": null,
+      "precision": "float64",
+      "triangles": 2838,
+      "outer_levels": 1,
+      "near": 3.0,
+      "pairs": 4028541,
+      "analytic_pairs": 167294,
+      "scalar_only": true,
+      "seconds": 1.492933064999761,
+      "seconds_median": 1.4927463300000454,
+      "seconds_samples": [
+        1.4893219260002297,
+        1.4927463300000454,
+        1.4930450380002185
+      ],
+      "max_relative_moment_error": 0.0
+    },
+    {
+      "backend": "openmp",
+      "workers": 8,
+      "kernel_workers": 8,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": null,
+      "precision": "float64",
+      "triangles": 2838,
+      "outer_levels": 1,
+      "near": 3.0,
+      "observed_kernel_workers": 8,
+      "pairs": 4028541,
+      "analytic_pairs": 167294,
+      "scalar_only": true,
+      "seconds": 0.20883026000001337,
+      "seconds_median": 0.20310968800004048,
+      "seconds_samples": [
+        0.20310968800004048,
+        0.20240228400007254,
+        0.20884069900012037
+      ],
+      "max_relative_moment_error": 3.062537831201245e-16
+    },
+    {
+      "backend": "cupy",
+      "workers": 1,
+      "kernel_workers": 1,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": 0,
+      "precision": "float64",
+      "triangles": 2838,
+      "outer_levels": 1,
+      "near": 3.0,
+      "pairs": 4028541,
+      "analytic_pairs": 167294,
+      "scalar_only": true,
+      "seconds": 0.45851745399977517,
+      "seconds_median": 0.4585380520002218,
+      "seconds_samples": [
+        0.8253840560000754,
+        0.4522611920001509,
+        0.4585380520002218
+      ],
+      "max_relative_moment_error": 3.0990234917229784e-16
+    }
+  ]
+}

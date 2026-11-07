@@ -1,0 +1,11 @@
+{
+  "triangles": 432,
+  "edges": 612,
+  "capacitance_only_s": 0.018584984999961307,
+  "capacitance_only_built_magnetic_matrices": false,
+  "first_solve_s": 0.09260637099998803,
+  "repeated_solve_s": 0.004902001999994354,
+  "additional_factorizations": 0,
+  "factor_cache_bytes": 17985456,
+  "excitation_linearity_relative_error": 0.0
+}

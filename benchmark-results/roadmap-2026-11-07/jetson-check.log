@@ -1,0 +1,50 @@
+mqs: reading board
+mqs: U11, VCC, capacitors C243
+mqs: 8,663 triangles on 10 layer(s), 11,002 edges, 198 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 3.01 s
+mqs: 4,389 loops; matrices in 8.1 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U11/mqs.json
+{'converter': 'U11', 'selection': {'converter': 'U11', 'vin': 'VCC', 'ground': 'GND', 'capacitors': ['C243'], 'values': {'C243': 1.0000000000000001e-07}}, 'triangles': 8663, 'edges': 11002, 'pilot': {'copper_R_ohm': [0.0006289830407947298], 'copper_L_H': [1.5216373589549507e-10], 'seconds': {'solve': 14.741301056999873, 'total': 15.383587163999891}}}
+mqs: reading board
+mqs: U12, VCC, capacitors C48
+mqs: 9,312 triangles on 10 layer(s), 11,922 edges, 225 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 3.43 s
+mqs: 5,031 loops; matrices in 11.3 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U12/mqs.json
+{'converter': 'U12', 'selection': {'converter': 'U12', 'vin': 'VCC', 'ground': 'GND', 'capacitors': ['C48'], 'values': {'C48': 1.0000000000000001e-07}}, 'triangles': 9312, 'edges': 11922, 'pilot': {'copper_R_ohm': [0.0006503295872694158], 'copper_L_H': [1.5717991097677918e-10], 'seconds': {'solve': 20.281220630999997, 'total': 20.698802623999654}}}
+{'converter': 'U13', 'selection': {'converter': 'U13', 'vin': 'VCC', 'ground': 'GND', 'capacitors': ['C46', 'C49'], 'values': {'C46': 2.2e-05, 'C49': 1.0000000000000001e-07}}, 'triangles': 10045, 'edges': 12986, 'pilot': {'copper_R_ohm': [0.0012584875811341208], 'copper_L_H': [4.0022572941139774e-10], 'seconds': {'solve': 21.001379283999995, 'total': 21.656629643000088}}}
+mqs: reading board
+mqs: U65, VCC_IN, capacitors C278
+mqs: 7,362 triangles on 10 layer(s), 9,188 edges, 144 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 2.27 s
+mqs: 3,404 loops; matrices in 5.7 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U65/mqs.json
+{'converter': 'U65', 'selection': {'converter': 'U65', 'vin': 'VCC_IN', 'ground': 'GND', 'capacitors': ['C278'], 'values': {'C278': 1.0000000000000001e-07}}, 'triangles': 7362, 'edges': 9188, 'pilot': {'copper_R_ohm': [0.0005953102096291462], 'copper_L_H': [1.3907691656624954e-10], 'seconds': {'solve': 10.679663606000304, 'total': 11.07906736599989}}}
+mqs: reading board
+mqs: U69, +5V, capacitors C35, C76
+mqs: 4,251 triangles on 10 layer(s), 5,360 edges, 81 via segments, 6 terminals
+mqs: openmp matrix fill, 8 worker(s), 0.91 s
+mqs: 1,990 loops; matrices in 2.1 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U69/mqs.json
+{'converter': 'U69', 'selection': {'converter': 'U69', 'vin': '+5V', 'ground': 'GND', 'capacitors': ['C35', 'C76'], 'values': {'C35': 2.2e-05, 'C76': 2.2e-05}}, 'triangles': 4251, 'edges': 5360, 'pilot': {'copper_R_ohm': [0.0014438166588731124], 'copper_L_H': [3.9811928321721277e-10], 'seconds': {'solve': 5.878411457999846, 'total': 6.270076383999822}}}
+mqs: reading board
+mqs: U7, +5V, capacitors C31, C32
+mqs: 3,720 triangles on 10 layer(s), 4,632 edges, 63 via segments, 6 terminals
+mqs: openmp matrix fill, 8 worker(s), 0.74 s
+mqs: 1,624 loops; matrices in 1.7 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U7/mqs.json
+{'converter': 'U7', 'selection': {'converter': 'U7', 'vin': '+5V', 'ground': 'GND', 'capacitors': ['C31', 'C32'], 'values': {'C31': 2.2e-05, 'C32': 2.2e-05}}, 'triangles': 3720, 'edges': 4632, 'pilot': {'copper_R_ohm': [0.0029640531247794723], 'copper_L_H': [6.181168669932735e-10], 'seconds': {'solve': 4.822860709999986, 'total': 6.361947793999661}}}
+mqs: reading board
+mqs: U75, VCC, capacitors C373, C374
+mqs: 7,755 triangles on 10 layer(s), 9,655 edges, 153 via segments, 6 terminals
+mqs: openmp matrix fill, 8 worker(s), 2.43 s
+mqs: 3,579 loops; matrices in 6.8 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U75/mqs.json
+{'converter': 'U75', 'selection': {'converter': 'U75', 'vin': 'VCC', 'ground': 'GND', 'capacitors': ['C373', 'C374'], 'values': {'C373': 2.2e-05, 'C374': 1.0000000000000001e-07}}, 'triangles': 7755, 'edges': 9655, 'pilot': {'copper_R_ohm': [0.0012385705771396894], 'copper_L_H': [3.846905167052073e-10], 'seconds': {'solve': 11.61782707500015, 'total': 12.0288104010001}}}
+mqs: reading board
+mqs: U8, VCC, capacitors C309, C51
+mqs: 6,457 triangles on 10 layer(s), 8,380 edges, 144 via segments, 6 terminals
+mqs: openmp matrix fill, 8 worker(s), 1.67 s
+mqs: 3,535 loops; matrices in 4.4 s
+mqs: wrote /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/jetson-U8/mqs.json
+{'converter': 'U8', 'selection': {'converter': 'U8', 'vin': 'VCC', 'ground': 'GND', 'capacitors': ['C309', 'C51'], 'values': {'C309': 2.2e-05, 'C51': 1.0000000000000001e-07}}, 'triangles': 6457, 'edges': 8380, 'pilot': {'copper_R_ohm': [0.0011720779932363602], 'copper_L_H': [3.7465983505839044e-10], 'seconds': {'solve': 9.11432650300003, 'total': 10.033489015000214}}}

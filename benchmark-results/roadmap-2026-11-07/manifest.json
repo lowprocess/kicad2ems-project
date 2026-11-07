@@ -1,0 +1,18 @@
+{
+  "python": "3.14.8",
+  "numpy": "2.4.6",
+  "cpu": "Intel Core i7-13700K",
+  "gpu": "AMD Radeon RX 7800 XT",
+  "cupy": "14.2.0 ROCm",
+  "source_revisions": {
+    "mom25d": "29d56b6d0436dd47d96178c8790d78444d138e94",
+    "kicad2ems": "57ae2d78be9bd332d1262db1b0a0bd4daa779a40",
+    "kicad2ems-gui": "546c38d387f78c9829a62ad41e6763bdc18e088e"
+  },
+  "source_hashes": {
+    "mom25d/src/mom25d/static_cupy.py": "02028073ed07cc149233972aa72024815f3d952359803f32fa4fd0a51d4176a7",
+    "mom25d/src/mom25d/static_cupy_kernels.py": "e1169bbee7be82aba6f7b6aa84674dcdc89eb803f7da3d6187f6ee3cdf30acf5",
+    "/usr/share/kicad/demos/jetson-agx-thor-baseboard/jetson-agx-thor-baseboard.kicad_pcb": "e61179b68ac151376f5552f91a8acc2aed46f0cc4cd9c771049490735cdbf3f8"
+  },
+  "note": "Source revisions are the pre-implementation base commits. Source hashes identify the tested implementation; the parent repository gitlinks pin the committed companion repositories."
+}

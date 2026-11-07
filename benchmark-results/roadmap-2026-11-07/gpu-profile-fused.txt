@@ -1,0 +1,46 @@
+         158503 function calls (158484 primitive calls) in 1.610 seconds
+
+   Ordered by: cumulative time
+   List reduced from 188 to 40 due to restriction <40>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.140    0.140    1.610    1.610 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static.py:10(static_moments)
+      821    0.001    0.000    1.457    0.002 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:57(bounded_map)
+      820    0.051    0.000    1.455    0.002 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static.py:37(evaluate)
+      820    0.024    0.000    0.997    0.001 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:259(evaluate)
+      820    0.003    0.000    0.909    0.001 /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/profile_gpu.py:21(evaluate)
+      820    0.016    0.000    0.905    0.001 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_cupy.py:59(evaluate)
+      820    0.757    0.001    0.829    0.001 /home/bt/projects/kicad2ems-project/benchmark-results/roadmap-2026-11-07/profile_gpu.py:17(download)
+      820    0.260    0.000    0.378    0.000 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:249(kinds)
+     8211    0.125    0.000    0.125    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+      820    0.001    0.000    0.114    0.000 {method 'sum' of 'numpy.ndarray' objects}
+      820    0.000    0.000    0.114    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/_methods.py:47(_sum)
+      820    0.001    0.000    0.071    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/cupy/__init__.py:826(asnumpy)
+      820    0.070    0.000    0.070    0.000 {method 'get' of 'cupy._core.core._ndarray_base' objects}
+     3296    0.001    0.000    0.056    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/cupy/_creation/from_data.py:59(asarray)
+     3296    0.053    0.000    0.055    0.000 {built-in method cupy._core.core.array}
+      820    0.001    0.000    0.045    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:958(isin)
+      820    0.032    0.000    0.044    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_arraysetops_impl.py:806(_isin)
+      820    0.005    0.000    0.026    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_function_base_impl.py:5050(meshgrid)
+     2460    0.012    0.000    0.016    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_stride_tricks_impl.py:373(_broadcast_to)
+      820    0.002    0.000    0.016    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_stride_tricks_impl.py:514(broadcast_arrays)
+        1    0.000    0.000    0.012    0.012 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:208(__init__)
+     2462    0.001    0.000    0.007    0.000 {method 'all' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.007    0.007 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:91(prepare)
+     2462    0.001    0.000    0.006    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/_methods.py:64(_all)
+        2    0.000    0.000    0.005    0.003 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/sing.py:65(_offplane_geometry)
+     3281    0.001    0.000    0.005    0.000 {method 'any' of 'numpy.ndarray' objects}
+      820    0.005    0.000    0.005    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/cupy/_creation/basic.py:15(empty)
+      820    0.000    0.000    0.005    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_stride_tricks_impl.py:400(broadcast_to)
+        1    0.000    0.000    0.005    0.005 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_backends.py:187(_cupy_factory)
+        1    0.000    0.000    0.005    0.005 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_cupy.py:41(__init__)
+        4    0.000    0.000    0.005    0.001 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/einsumfunc.py:1244(einsum)
+        4    0.005    0.001    0.005    0.001 {built-in method numpy._core._multiarray_umath.c_einsum}
+       16    0.000    0.000    0.005    0.000 /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/static_cupy.py:51(<genexpr>)
+     1640    0.002    0.000    0.004    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/fromnumeric.py:66(_wrapreduction)
+     2460    0.001    0.000    0.004    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/lib/_function_base_impl.py:5196(<genexpr>)
+     3281    0.001    0.000    0.004    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/_methods.py:55(_any)
+     1642    0.004    0.000    0.004    0.000 {method 'copy' of 'numpy.ndarray' objects}
+      820    0.001    0.000    0.004    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/fromnumeric.py:3149(min)
+      820    0.003    0.000    0.004    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/numeric.py:323(full)
+      820    0.002    0.000    0.003    0.000 /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/numpy/_core/numeric.py:97(zeros_like)

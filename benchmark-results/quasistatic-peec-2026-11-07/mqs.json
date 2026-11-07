@@ -1,0 +1,28 @@
+{
+  "triangles": 974,
+  "edges": 1423,
+  "hybrid_fill_s": 0.12303380499997729,
+  "fill": {
+    "backend": "openmp",
+    "workers": 8,
+    "kernel_workers": 8,
+    "tile_workers": 1,
+    "chunk": 16384,
+    "device": null,
+    "precision": "float64",
+    "triangles": 974,
+    "outer_levels": 1,
+    "near": 3.0,
+    "observed_kernel_workers": 8,
+    "pairs": 474825,
+    "analytic_pairs": 50813,
+    "scalar_only": false,
+    "seconds": 0.04280127000004086
+  },
+  "analytic_fill_s": 0.14939472699995804,
+  "inductance_relative_frobenius_error": 4.968383227649128e-05,
+  "assembly_and_sweep_s": 0.04833337599995957,
+  "fft_field_s": 0.022442114999989826,
+  "direct_field_s": 1.8477856439999414,
+  "field_relative_max_error": 0.003772256903155504
+}

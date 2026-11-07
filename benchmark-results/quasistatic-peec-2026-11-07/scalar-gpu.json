@@ -1,0 +1,29 @@
+{
+  "triangles": 2838,
+  "scalar_only": true,
+  "cases": [
+    {
+      "backend": "cupy",
+      "workers": 1,
+      "kernel_workers": 1,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": 0,
+      "precision": "float64",
+      "triangles": 2838,
+      "outer_levels": 1,
+      "near": 3.0,
+      "pairs": 4028541,
+      "analytic_pairs": 167294,
+      "scalar_only": true,
+      "seconds": 0.5864016559999072,
+      "seconds_median": 0.5864360959999431,
+      "seconds_samples": [
+        0.9976656329999969,
+        0.5827622350000183,
+        0.5864360959999431
+      ],
+      "max_relative_moment_error": 1.4918200438333358e-16
+    }
+  ]
+}

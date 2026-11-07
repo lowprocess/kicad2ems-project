@@ -1,0 +1,24 @@
+{
+  "evaluations": 820,
+  "evaluate_s": 2.975749549995271,
+  "queued_device_wait_s": 0.016474503997415013,
+  "download_s": 0.08073694100085049,
+  "downloads": 820,
+  "total_s": 3.7225720779997573,
+  "fill_info": {
+    "backend": "cupy",
+    "workers": 1,
+    "kernel_workers": 1,
+    "tile_workers": 1,
+    "chunk": 16384,
+    "device": 0,
+    "precision": "float64",
+    "triangles": 5083,
+    "outer_levels": 1,
+    "near": 3.0,
+    "pairs": 12920986,
+    "analytic_pairs": 265126,
+    "scalar_only": false,
+    "seconds": 3.7225272009995933
+  }
+}

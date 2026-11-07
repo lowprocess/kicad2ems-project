@@ -1,0 +1,6 @@
+mqs: reading board
+mqs: U702, +5V, capacitors C704, C705, C706
+mqs: 9,736 triangles on 6 layer(s), 11,709 edges, 85 via segments, 8 terminals
+mqs: cupy matrix fill, 1 worker(s), 6.46 s
+mqs: 2,914 loops; matrices in 12.9 s
+mqs: wrote benchmark-results/roadmap-2026-11-07/cm5-gpu-cli/mqs.json

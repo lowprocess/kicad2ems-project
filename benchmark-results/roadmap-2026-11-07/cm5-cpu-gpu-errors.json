@@ -1,0 +1,10 @@
+{
+  "copper_R_ohm": 1.4494044038341526e-15,
+  "copper_L_H": 4.245926134236277e-15,
+  "peak_H_Am": 2.8921440834791027e-15,
+  "dipole_real_Am2": 4.114777481028522e-14,
+  "dipole_imag_Am2": 3.1349259690777946e-15,
+  "dump_H_topp1mm_fd.npz": 0.0,
+  "dump_H_topp3mm_fd.npz": 0.0,
+  "dump_H_volume_fd.npz": 0.0
+}

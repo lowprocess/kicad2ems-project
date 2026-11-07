@@ -1,0 +1,112 @@
+[
+  {
+    "mesh": "current",
+    "backend": "openmp",
+    "samples": [
+      0.11409623899999133,
+      0.10294183299993165,
+      0.10154116400008206
+    ],
+    "median_s": 0.10294183299993165,
+    "relative_error": 0,
+    "info": {
+      "backend": "openmp",
+      "workers": 8,
+      "kernel_workers": 8,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": null,
+      "precision": "float64",
+      "triangles": 1650,
+      "outer_levels": 1,
+      "near": 3.0,
+      "observed_kernel_workers": 8,
+      "pairs": 1362075,
+      "analytic_pairs": 147392,
+      "scalar_only": false,
+      "seconds": 0.10152960100003838
+    }
+  },
+  {
+    "mesh": "current",
+    "backend": "cupy",
+    "samples": [
+      0.5780664130002151,
+      0.19874811899990164,
+      0.19919228900016606
+    ],
+    "median_s": 0.19919228900016606,
+    "relative_error": 4.896776940808067e-16,
+    "info": {
+      "backend": "cupy",
+      "workers": 1,
+      "kernel_workers": 1,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": 0,
+      "precision": "float64",
+      "triangles": 1650,
+      "outer_levels": 1,
+      "near": 3.0,
+      "pairs": 1362075,
+      "analytic_pairs": 147392,
+      "scalar_only": false,
+      "seconds": 0.19916983199982496
+    }
+  },
+  {
+    "mesh": "isotropic-fine",
+    "backend": "openmp",
+    "samples": [
+      0.7523935479998727,
+      0.7602143700000852,
+      0.7161966520002352
+    ],
+    "median_s": 0.7523935479998727,
+    "relative_error": 0,
+    "info": {
+      "backend": "openmp",
+      "workers": 8,
+      "kernel_workers": 8,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": null,
+      "precision": "float64",
+      "triangles": 5083,
+      "outer_levels": 1,
+      "near": 3.0,
+      "observed_kernel_workers": 8,
+      "pairs": 12920986,
+      "analytic_pairs": 265126,
+      "scalar_only": false,
+      "seconds": 0.7161835749998318
+    }
+  },
+  {
+    "mesh": "isotropic-fine",
+    "backend": "cupy",
+    "samples": [
+      1.5643008540000665,
+      1.5524126459999934,
+      1.5532145910001418
+    ],
+    "median_s": 1.5532145910001418,
+    "relative_error": 1.5824953333026404e-16,
+    "info": {
+      "backend": "cupy",
+      "workers": 1,
+      "kernel_workers": 1,
+      "tile_workers": 1,
+      "chunk": 16384,
+      "device": 0,
+      "precision": "float64",
+      "triangles": 5083,
+      "outer_levels": 1,
+      "near": 3.0,
+      "pairs": 12920986,
+      "analytic_pairs": 265126,
+      "scalar_only": false,
+      "seconds": 1.5531902540001283
+    }
+  }
+]
