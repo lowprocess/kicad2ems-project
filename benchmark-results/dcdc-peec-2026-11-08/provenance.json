@@ -1,0 +1,31 @@
+{
+  "python": "3.14.8",
+  "pcbqs_commit": "3f4152b3ac7489e7302794a323de565b5135f953",
+  "simulation_functions_ast_sha256": {
+    "harmonic_amps": "2f71c679beaafc9d98f0ca44e809ffe6645277128eaeeb222c3bcd51a4222794",
+    "layout": "ae5d8fc0ecba59f1491135ab7b78d48c6968ae7fab8340ddc920c62d82db3916",
+    "build_model": "ebf5881872a8a1b4369e9998bf55b6efd7597c1418cf7fc0cb20d9054ed2478b",
+    "electrical_metrics": "86a19659ebd838953933facc01a6bd76e6bee1731a8cd1132347432f22121c6c",
+    "run_case": "3c7ac2516abf6b620e6e189e513859b453e9fafc13e9b01864cad9a0d83f8fa7",
+    "write_dumps": "cd6507c436b4b3b2610323990524b052a2f8aa4629840a9d5997339190bdb13d"
+  },
+  "numerical_modules_sha256": {
+    "mqs.py": "db436535d1e757e95ba8eecea8d684629266fc59590405ff65b4c01f36d05ed5",
+    "peec.py": "4cd3995e237b5d50caca40922a7fcdfaf348a2c9525b79ee223e1e02409dd174",
+    "conductor.py": "586149972e173169b3afcf7b3db0bb4a5199da4379046fcd741b5a677ed01887",
+    "electrostatic.py": "8d8114b2bb4939ae685ae1e7d4f6731e7babcc6a8460e37d701707db76d19de5",
+    "static.py": "9cf90f1606c1ba6d64b8fabce73b3400930f89a016bbd3834a26ecbe535651ee",
+    "static_backends.py": "eb72979af6cdae503b604f8dc070d23d2f8547b5ee5a03f59b0c42900f0c6604"
+  },
+  "command": "OPENBLAS_NUM_THREADS=4 OMP_NUM_THREADS=8 MPLBACKEND=Agg kicad2ems/.venv/bin/python -u pcbqs/tools/nearfield_demo.py benchmark-results/dcdc-peec-2026-11-08/full",
+  "cpu": "Intel Core i7-13700K",
+  "fill_backend": "openmp",
+  "fill_workers": 8,
+  "blas_threads": 4,
+  "final_driver_sha256": "19951c4977b05b233105117d75b294f6419bdac874a97fe1b071dd39693f28d9",
+  "validation_scripts_sha256": {
+    "validate_fields.py": "11f95635e7ee10477034e37bea4e79c0b0cae64d17519ba3b0f2cfc9c930a2b1",
+    "mesh_sensitivity.py": "b6b9731ec08c504e8baef3920a6703cbf54127b82d1a47f0c13bf9c3f3d2280f",
+    "report.py": "2f399f5ca485f25dbc5e3f781e34aa49e236cf5074f7443436fd5a047490f983"
+  }
+}

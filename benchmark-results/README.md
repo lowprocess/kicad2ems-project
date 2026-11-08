@@ -18,6 +18,7 @@ now use `pcbqs`.
 - [Circuit runtime profiling](wpthb-profile-2026-11-07/README.md)
 - [Independent pcbqs split](pcbqs-split-2026-11-07/README.md)
 - [Simulation schematic editor](schematic-editor-2026-11-07/README.md)
+- [Three-layout DC-DC PEEC and conductor-loss comparison](dcdc-peec-2026-11-08/README.md)
 
 Raw ngspice output, field grids, compressed solver arrays/caches, source archive
 snapshots and package wheels are retained locally and ignored by Git. Some raw

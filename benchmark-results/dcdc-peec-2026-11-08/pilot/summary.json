@@ -1,0 +1,384 @@
+{
+  "good": {
+    "peec_slab1": {
+      "port_R_ohm": [
+        0.0041252885456954155,
+        0.007085536028409321
+      ],
+      "port_X_ohm": [
+        -0.029258993248358147,
+        0.13950122756497885
+      ],
+      "copper_R_ohm": [
+        0.0011252891887277067,
+        0.00408532653088446
+      ],
+      "copper_magnetic_L_H": [
+        3.857454911804558e-10,
+        3.211685777444098e-10
+      ],
+      "copper_internal_L_H": [
+        3.2944900248748186e-11,
+        2.1717839994779686e-11
+      ],
+      "capacitor_ESR_R_ohm": [
+        0.002999999290189118,
+        0.003000155483216102
+      ],
+      "dielectric_R_ohm": [
+        6.677868969342759e-11,
+        5.401430780179481e-08
+      ],
+      "power_balance_relative": [
+        2.4052523170677317e-14,
+        1.3506528899410314e-13
+      ],
+      "charge_continuity_relative": [
+        1.3563896921963237e-08,
+        6.346233028041555e-11
+      ],
+      "frequencies_Hz": [
+        500000.0,
+        30000000.0
+      ],
+      "seconds": 23.97995380500106,
+      "triangles": 4140,
+      "edges": 6028,
+      "vias": 4,
+      "loops": 2044,
+      "fill": {
+        "magnetic": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 8,
+          "tile_workers": 1,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 8,
+          "pairs": 8571870,
+          "analytic_pairs": 290168,
+          "scalar_only": false,
+          "seconds": 0.5192994730005012
+        },
+        "capacitance": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 1,
+          "tile_workers": 8,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 1,
+          "image_terms": 427,
+          "scalar_only": true,
+          "seconds": 15.441996552999626
+        }
+      },
+      "harmonic_copper_loss_W": [
+        0.001520456478295893,
+        6.636600419679206e-07
+      ],
+      "selected_harmonic_copper_loss_W": 0.0015211201383378609,
+      "floating_capacitance_F": {
+        "real": 1.2570574164042374e-12,
+        "imag": -2.342604144783937e-14
+      },
+      "maxwell_capacitance_F": {
+        "real": [
+          [
+            2.7435980054148675e-12,
+            -1.2549908408097311e-12
+          ],
+          [
+            -1.2549908408097311e-12,
+            1.2570602891989804e-12
+          ]
+        ],
+        "imag": [
+          [
+            -2.898150439416509e-14,
+            2.3432764788252146e-14
+          ],
+          [
+            2.3432764788252146e-14,
+            -2.3426012018244582e-14
+          ]
+        ],
+        "terminals": {
+          "U1.VIN": 1,
+          "U1.PGND": 0,
+          "C1.1": 1,
+          "C1.2": 0
+        }
+      }
+    },
+    "peec_slab2": {
+      "port_R_ohm": [
+        0.004135130030771614,
+        0.004952301222740362
+      ],
+      "port_X_ohm": [
+        -0.029326341928696088,
+        0.13706042778320313
+      ],
+      "copper_R_ohm": [
+        0.0011351306746906404,
+        0.0019520952839709748
+      ],
+      "copper_magnetic_L_H": [
+        3.889243386120994e-10,
+        3.201820587007566e-10
+      ],
+      "copper_internal_L_H": [
+        8.32830198376575e-12,
+        9.75534450849188e-12
+      ],
+      "capacitor_ESR_R_ohm": [
+        0.002999999289098156,
+        0.0030001534484864695
+      ],
+      "dielectric_R_ohm": [
+        6.698250378750919e-11,
+        5.249028351925984e-08
+      ],
+      "power_balance_relative": [
+        7.592081047220776e-14,
+        1.2150820833559418e-13
+      ],
+      "charge_continuity_relative": [
+        1.2676377139073176e-08,
+        6.132227217744028e-11
+      ],
+      "frequencies_Hz": [
+        500000.0,
+        30000000.0
+      ],
+      "seconds": 6.5085081689994695,
+      "triangles": 4140,
+      "edges": 6028,
+      "vias": 4,
+      "loops": 2044,
+      "fill": {
+        "magnetic": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 8,
+          "tile_workers": 1,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 8,
+          "pairs": 8571870,
+          "analytic_pairs": 290168,
+          "scalar_only": false,
+          "seconds": 0.5192994730005012
+        },
+        "capacitance": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 1,
+          "tile_workers": 8,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 1,
+          "image_terms": 427,
+          "scalar_only": true,
+          "seconds": 15.441996552999626
+        }
+      },
+      "harmonic_copper_loss_W": [
+        0.001533753994381797,
+        3.171172801712571e-07
+      ],
+      "selected_harmonic_copper_loss_W": 0.0015340711116619684
+    },
+    "peec_dc": {
+      "port_R_ohm": [
+        0.004138940052969125,
+        0.004506646644587597
+      ],
+      "port_X_ohm": [
+        -0.029348621979119725,
+        0.13518423061647328
+      ],
+      "copper_R_ohm": [
+        0.0011389406971825953,
+        0.0015064434095888705
+      ],
+      "copper_magnetic_L_H": [
+        3.901606802648513e-10,
+        3.199837549718757e-10
+      ],
+      "copper_internal_L_H": [
+        0.0,
+        0.0
+      ],
+      "capacitor_ESR_R_ohm": [
+        0.0029999992887358913,
+        0.0030001518656821067
+      ],
+      "dielectric_R_ohm": [
+        6.705042622289937e-11,
+        5.136931627451518e-08
+      ],
+      "power_balance_relative": [
+        5.138748764150532e-14,
+        7.672739726691631e-14
+      ],
+      "charge_continuity_relative": [
+        1.376732483242048e-08,
+        5.711653153064246e-11
+      ],
+      "frequencies_Hz": [
+        500000.0,
+        30000000.0
+      ],
+      "seconds": 6.590177028001563,
+      "triangles": 4140,
+      "edges": 6028,
+      "vias": 4,
+      "loops": 2044,
+      "fill": {
+        "magnetic": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 8,
+          "tile_workers": 1,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 8,
+          "pairs": 8571870,
+          "analytic_pairs": 290168,
+          "scalar_only": false,
+          "seconds": 0.5192994730005012
+        },
+        "capacitance": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 1,
+          "tile_workers": 8,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 1,
+          "image_terms": 427,
+          "scalar_only": true,
+          "seconds": 15.441996552999626
+        }
+      },
+      "harmonic_copper_loss_W": [
+        0.0015389019807291072,
+        2.447212698598173e-07
+      ],
+      "selected_harmonic_copper_loss_W": 0.001539146701998967
+    },
+    "mqs_dc": {
+      "port_R_ohm": [
+        0.004138940869852881,
+        0.004506395364341402
+      ],
+      "port_X_ohm": [
+        -0.029348625482550204,
+        0.1351814583455256
+      ],
+      "copper_R_ohm": [
+        0.001138940869852881,
+        0.0015063953643414045
+      ],
+      "copper_magnetic_L_H": [
+        3.9016072723252273e-10,
+        3.199743876587831e-10
+      ],
+      "copper_internal_L_H": [
+        0.0,
+        0.0
+      ],
+      "capacitor_ESR_R_ohm": [
+        0.003,
+        0.003
+      ],
+      "dielectric_R_ohm": [
+        0.0,
+        0.0
+      ],
+      "power_balance_relative": [
+        0.0,
+        4.811837776439563e-16
+      ],
+      "charge_continuity_relative": [
+        0.0,
+        0.0
+      ],
+      "frequencies_Hz": [
+        500000.0,
+        30000000.0
+      ],
+      "seconds": 0.6203268640001625,
+      "triangles": 4140,
+      "edges": 6028,
+      "vias": 4,
+      "loops": 2044,
+      "fill": {
+        "magnetic": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 8,
+          "tile_workers": 1,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 8,
+          "pairs": 8571870,
+          "analytic_pairs": 290168,
+          "scalar_only": false,
+          "seconds": 0.5192994730005012
+        },
+        "capacitance": {
+          "backend": "openmp",
+          "workers": 8,
+          "kernel_workers": 1,
+          "tile_workers": 8,
+          "chunk": 16384,
+          "device": null,
+          "precision": "float64",
+          "triangles": 4140,
+          "outer_levels": 1,
+          "near": 3.0,
+          "observed_kernel_workers": 1,
+          "image_terms": 427,
+          "scalar_only": true,
+          "seconds": 15.441996552999626
+        }
+      },
+      "harmonic_copper_loss_W": [
+        0.0015389022140359383,
+        2.44713464924102e-07
+      ],
+      "selected_harmonic_copper_loss_W": 0.0015391469275008623
+    }
+  }
+}

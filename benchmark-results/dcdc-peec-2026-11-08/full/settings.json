@@ -1,0 +1,31 @@
+{
+  "fsw_Hz": 500000,
+  "duty": 0.33,
+  "edge_s": 5e-09,
+  "peak_current_A": 3.0,
+  "harmonics": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    20,
+    60
+  ],
+  "dmax_mm": 1.2,
+  "fine_mm": 0.4,
+  "dielectric": "stack",
+  "copper_thickness_m": 3.5e-05,
+  "conductor_primary": "one-sided slab",
+  "proximity": "lateral redistribution solved; thickness proximity assumed, not resolved",
+  "sigma_Sm": 58000000.0,
+  "workers": 8,
+  "backend": "openmp",
+  "total_seconds": 498,
+  "total_seconds_source": "Approximate original-run wall time: run.log file birth to final write, one-second resolution.",
+  "numerical_comparison_complete": true,
+  "initial_figure_export_failed": "Disconnected GND MultiPolygon; fixed renderer and regenerated plots with --plot-only without repeating numerical solves.",
+  "note": "Selected-harmonic AC copper loss excludes DC and uncomputed harmonics. One/two face comparison is a model sensitivity, not a rigorous bound."
+}

@@ -1,0 +1,6 @@
+mqs: 4,140 triangles on 2 layer(s), 6,028 edges, 4 via segments, 4 terminals
+good direct/FFT maximum relative field error 0.00027053944551552647
+mqs: 5,326 triangles on 2 layer(s), 7,789 edges, 4 via segments, 4 terminals
+far direct/FFT maximum relative field error 0.0006386690989049509
+mqs: 5,588 triangles on 2 layer(s), 8,127 edges, 4 via segments, 4 terminals
+slot direct/FFT maximum relative field error 0.0026702261679799316

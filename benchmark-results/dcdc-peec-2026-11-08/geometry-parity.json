@@ -1,0 +1,23 @@
+{
+  "original_repository": "https://github.com/lowprocess/mom25d",
+  "original_revision": "77509a598561e79c292e65369cec10c1816fc25a",
+  "original_path": "tools/nearfield_demo.py",
+  "original_sha256": "85ec68f0bfe6de35cf694cb6a0992c2893d971447d58b9b9c4d194ce42b0d367",
+  "layouts": {
+    "good": {
+      "board_sha256": "6485d3eb2ee71ceb18bfa00dc8a0aa8c1f8c202ee8f0f055dd92f5f980ffe5df",
+      "geometry_identical": true,
+      "terminal_geometry_identical": true
+    },
+    "far": {
+      "board_sha256": "833590f9b43d4f324b68048fd477a09cbe0d192dca7e853e4d9c7ceefdcf6702",
+      "geometry_identical": true,
+      "terminal_geometry_identical": true
+    },
+    "slot": {
+      "board_sha256": "151c071c0977a45469f6d71d23b4efc00aa1f7963be60428d48abe03670fe7cb",
+      "geometry_identical": true,
+      "terminal_geometry_identical": true
+    }
+  }
+}

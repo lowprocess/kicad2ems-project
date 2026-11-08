@@ -1,0 +1,69 @@
+{
+  "case": "slot",
+  "coarse_fine_mm": 0.4,
+  "refined_fine_mm": 0.3,
+  "frequencies_Hz": [
+    500000.0,
+    30000000.0
+  ],
+  "triangles": 8573,
+  "edges": 12524,
+  "mesh": {
+    "In1.Cu": {
+      "triangles": 8294,
+      "max_edge_mm": 1.81431543042163,
+      "min_angle_deg": 10.209302021441797
+    },
+    "F.Cu": {
+      "triangles": 279,
+      "max_edge_mm": 0.9999999999999991,
+      "min_angle_deg": 16.33308895512779
+    }
+  },
+  "copper_R_ohm": [
+    0.01528233682062596,
+    0.05192588813221831
+  ],
+  "copper_R_relative_change": [
+    0.0024031687518326628,
+    0.01638127268526901
+  ],
+  "copper_energy_L_H": [
+    1.0143954473233355e-08,
+    9.156199056758523e-09
+  ],
+  "copper_L_relative_change": [
+    -0.003964406659467068,
+    -0.007786958486616147
+  ],
+  "floating_capacitance_F": 1.729774346248744e-12,
+  "capacitance_relative_change": 0.0028678056051480993,
+  "H3mm_peak_relative_change": [
+    -0.009245321246274973,
+    -0.016952448921430663
+  ],
+  "H3mm_complex_relative_max_change": [
+    0.03212957583035642,
+    0.03698435101246953
+  ],
+  "field_grid_convergence": {
+    "refine": 2,
+    "converged": true,
+    "relative_change": [
+      [
+        0.016448712673925673,
+        0.017839849152294158
+      ]
+    ]
+  },
+  "power_balance_relative": [
+    1.1415049248749394e-12,
+    1.1456339772705895e-12
+  ],
+  "charge_continuity_relative": [
+    9.511122405822337e-08,
+    2.6214962823543358e-11
+  ],
+  "seconds": 97.61158757599878,
+  "field_change_note": "Fixed output sample points, with independently converged FFT deposition grids; H changes include mesh and deposition differences."
+}

@@ -1,0 +1,62 @@
+good: peec_slab1 starting
+mqs: 4,140 triangles on 2 layer(s), 6,028 edges, 4 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 0.53 s
+mqs: 2,044 loops; matrices in 17.3 s
+good: peec_slab1 completed in 43.68 s; Rcu at first/last = 1.125/4.085 mOhm
+good: peec_slab2 starting
+mqs: 4,140 triangles on 2 layer(s), 6,028 edges, 4 via segments, 4 terminals
+mqs: 2,044 loops; matrices in 0.0 s
+good: peec_slab2 completed in 26.34 s; Rcu at first/last = 1.135/1.952 mOhm
+good: peec_dc starting
+mqs: 4,140 triangles on 2 layer(s), 6,028 edges, 4 via segments, 4 terminals
+mqs: 2,044 loops; matrices in 0.0 s
+good: peec_dc completed in 25.40 s; Rcu at first/last = 1.139/1.506 mOhm
+good: mqs_dc starting
+mqs: 4,140 triangles on 2 layer(s), 6,028 edges, 4 via segments, 4 terminals
+mqs: 2,044 loops; matrices in 0.2 s
+good: mqs_dc completed in 2.14 s; Rcu at first/last = 1.139/1.506 mOhm
+far: peec_slab1 starting
+mqs: 5,326 triangles on 2 layer(s), 7,789 edges, 4 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 0.82 s
+mqs: 2,620 loops; matrices in 23.9 s
+far: peec_slab1 completed in 75.38 s; Rcu at first/last = 11.38/35.46 mOhm
+far: peec_slab2 starting
+mqs: 5,326 triangles on 2 layer(s), 7,789 edges, 4 via segments, 4 terminals
+mqs: 2,620 loops; matrices in 0.0 s
+far: peec_slab2 completed in 51.73 s; Rcu at first/last = 11.45/16.58 mOhm
+far: peec_dc starting
+mqs: 5,326 triangles on 2 layer(s), 7,789 edges, 4 via segments, 4 terminals
+mqs: 2,620 loops; matrices in 0.0 s
+far: peec_dc completed in 50.21 s; Rcu at first/last = 11.48/12.56 mOhm
+far: mqs_dc starting
+mqs: 5,326 triangles on 2 layer(s), 7,789 edges, 4 via segments, 4 terminals
+mqs: 2,620 loops; matrices in 0.3 s
+far: mqs_dc completed in 3.88 s; Rcu at first/last = 11.48/12.56 mOhm
+slot: peec_slab1 starting
+mqs: 5,588 triangles on 2 layer(s), 8,127 edges, 4 via segments, 4 terminals
+mqs: openmp matrix fill, 8 worker(s), 0.93 s
+mqs: 2,696 loops; matrices in 25.6 s
+slot: peec_slab1 completed in 83.57 s; Rcu at first/last = 15.25/51.09 mOhm
+slot: peec_slab2 starting
+mqs: 5,588 triangles on 2 layer(s), 8,127 edges, 4 via segments, 4 terminals
+mqs: 2,696 loops; matrices in 0.0 s
+slot: peec_slab2 completed in 57.97 s; Rcu at first/last = 15.43/24.08 mOhm
+slot: peec_dc starting
+mqs: 5,588 triangles on 2 layer(s), 8,127 edges, 4 via segments, 4 terminals
+mqs: 2,696 loops; matrices in 0.0 s
+slot: peec_dc completed in 56.03 s; Rcu at first/last = 15.5/18.37 mOhm
+slot: mqs_dc starting
+mqs: 5,588 triangles on 2 layer(s), 8,127 edges, 4 via segments, 4 terminals
+mqs: 2,696 loops; matrices in 0.3 s
+slot: mqs_dc completed in 4.23 s; Rcu at first/last = 15.5/18.36 mOhm
+Traceback (most recent call last):
+  File "/home/bt/projects/kicad2ems-project/pcbqs/tools/nearfield_demo.py", line 365, in <module>
+    sigma_Sm=5.8e7,workers=args.workers,backend=args.backend,total_seconds=time.perf_counter()-started,
+    ^^
+  File "/home/bt/projects/kicad2ems-project/pcbqs/tools/nearfield_demo.py", line 355, in main
+    figures(results,fields,args.out);return
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bt/projects/kicad2ems-project/pcbqs/tools/nearfield_demo.py", line 310, in figures
+    for layer,color in [('F.Cu','#ee7b30'),('In1.Cu','#777777')]:
+                                              ^^^^^^^^^^
+AttributeError: 'MultiPolygon' object has no attribute 'exterior'
