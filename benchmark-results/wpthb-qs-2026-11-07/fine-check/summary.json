@@ -1,0 +1,218 @@
+{
+  "kind": "Normalized switching-state QS characterization, not phase-shift steady-state simulation",
+  "source_sha256": "a4e90edf5341a439254c6739ed352c1cd26cafba53291d1a8860f342ec83eba5",
+  "frequencies_Hz": [
+    100000.0
+  ],
+  "mesh": {
+    "triangles": 14169,
+    "edges": 19144,
+    "vias": 267,
+    "crop_mm": [
+      139.0,
+      -60.5,
+      164.79999999999998,
+      -31.0
+    ],
+    "mesh_s": 0.186346049000349,
+    "dmax_mm": 3.0,
+    "fine_mm": 1.4,
+    "dense_work_estimate_GB": 15.220163616,
+    "layers": {
+      "B.Cu": {
+        "triangles": 3255,
+        "max_edge_mm": 2.937926000000033,
+        "min_angle_deg": 0.3112385748425827
+      },
+      "In2.Cu": {
+        "triangles": 3255,
+        "max_edge_mm": 2.6999322222222304,
+        "min_angle_deg": 0.2686023030593943
+      },
+      "In1.Cu": {
+        "triangles": 3296,
+        "max_edge_mm": 2.95000000000001,
+        "min_angle_deg": 0.2686023030593943
+      },
+      "F.Cu": {
+        "triangles": 4363,
+        "max_edge_mm": 4.176122603564209,
+        "min_angle_deg": 0.27760908217549646
+      }
+    }
+  },
+  "drive": "1 A peak phasor through external coil port TP15 (A) -> TP14 (B) in every state",
+  "assumptions": {
+    "on_channel_R_ohm": 0,
+    "off_channels": "open; no Coss or diode conduction",
+    "capacitor_ESR_ohm": 0,
+    "capacitor_ESL_H": 0,
+    "L3_DCR_ohm": 0,
+    "part_filament_height_mm": 0,
+    "conductor_loss": "two-face slab; vias DC",
+    "coil_L_H": 2.4e-05,
+    "coil_R_ohm": 0.12161003820347586,
+    "coil_R_model": "constant small-signal total series loss anchored by Q=155 at 125 kHz; receiver absent",
+    "field_scope": "PCB sheets/vias and local lumped-part filaments; external coil/source filament excluded",
+    "bus_voltage_V": 24.0,
+    "phase_shift_deg": null,
+    "receiver_reflected_impedance": null,
+    "copper_model": "imported sheet-plane stack z; nominal foil 35 um",
+    "input_boundary": "local VHB capacitor bank; upstream L3/VBUS/bulk network excluded from crop"
+  },
+  "states": {
+    "diagonal_Q2_Q3": {
+      "on_channels": [
+        "Q2",
+        "Q3"
+      ],
+      "loop_count": 8913,
+      "solve_s": 28.733663607999915,
+      "field_s": 0.6039983070004382,
+      "copper_R_ohm": [
+        0.00387088558767269
+      ],
+      "copper_L_H": [
+        4.7774719406104e-09
+      ],
+      "board_network_Z_ohm": {
+        "real": [
+          0.0037339567710235003
+        ],
+        "imag": [
+          -16.111198037969935
+        ]
+      },
+      "board_plus_coil_Z_ohm": {
+        "real": [
+          0.12534399497449936
+        ],
+        "imag": [
+          -1.0315533007389277
+        ]
+      },
+      "peak_H_Am_per_A": [
+        [
+          111.38409801851087,
+          25.758858136475705,
+          11.51026689182169
+        ]
+      ],
+      "KCL_max_A": 4.4297396115302415e-16,
+      "FFT_grid": {
+        "refine": 8,
+        "converged": true,
+        "relative_change": [
+          [
+            0.006503983763333214
+          ],
+          [
+            0.0016283839738630945
+          ],
+          [
+            0.0007733560816639455
+          ]
+        ]
+      },
+      "direct_peak_relative_error": 0.001380773512918222,
+      "part_currents_per_A": {
+        "C19": {
+          "real": [
+            0.023798314045345603
+          ],
+          "imag": [
+            1.4760862274611265e-05
+          ]
+        },
+        "C20": {
+          "real": [
+            0.23822919788947614
+          ],
+          "imag": [
+            -0.00022083945778789908
+          ]
+        },
+        "C21": {
+          "real": [
+            0.23818239453964246
+          ],
+          "imag": [
+            -0.00018616455220342708
+          ]
+        },
+        "C22": {
+          "real": [
+            0.23806267716456264
+          ],
+          "imag": [
+            3.283745318392986e-05
+          ]
+        },
+        "C23": {
+          "real": [
+            0.23795312477919336
+          ],
+          "imag": [
+            0.0002944870657224252
+          ]
+        },
+        "C24": {
+          "real": [
+            0.023774291581779843
+          ],
+          "imag": [
+            6.491862881035985e-05
+          ]
+        },
+        "C25": {
+          "real": [
+            -0.33333471717485363
+          ],
+          "imag": [
+            3.326260580431104e-06
+          ]
+        },
+        "C27": {
+          "real": [
+            -0.33333345169417855
+          ],
+          "imag": [
+            2.1994925996022563e-07
+          ]
+        },
+        "C30": {
+          "real": [
+            -0.3333318311309678
+          ],
+          "imag": [
+            -3.54620984039133e-06
+          ]
+        },
+        "Q2": {
+          "real": [
+            1.0
+          ],
+          "imag": [
+            0.0
+          ]
+        },
+        "Q3": {
+          "real": [
+            1.0
+          ],
+          "imag": [
+            0.0
+          ]
+        },
+        "COIL_PORT": {
+          "real": [
+            1.0
+          ],
+          "imag": [
+            0.0
+          ]
+        }
+      }
+    }
+  }
+}

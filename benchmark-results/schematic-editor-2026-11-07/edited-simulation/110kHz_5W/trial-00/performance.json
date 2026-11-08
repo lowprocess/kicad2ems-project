@@ -1,0 +1,15 @@
+{
+  "ngspice_wall_s": 4.660286903999804,
+  "postprocess_wall_s": 0.07715065699994739,
+  "linear_solver": "klu",
+  "method": "gear",
+  "ngspice_threads": 1,
+  "analysis_s": 4.38795,
+  "load_s": 1.01443,
+  "factor_s": 1.39263,
+  "solve_s": 0.72488,
+  "equations": 143.0,
+  "iterations": 884744.0,
+  "accepted_steps": 273429.0,
+  "rejected_steps": 107252.0
+}

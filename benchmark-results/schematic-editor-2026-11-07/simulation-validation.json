@@ -1,0 +1,12 @@
+{
+  "load_power_W": 4.97823,
+  "target_W": 5,
+  "relative_power_error": -0.004354000000000013,
+  "primary_C_F": 1.1299999999999999e-07,
+  "secondary_C_F": 1.0000000000000002e-07,
+  "periodic_error": 0.0035538770964210395,
+  "layout_change_reused_cached_case": true,
+  "log": [
+    "Reusing 110 kHz / 5 W"
+  ]
+}

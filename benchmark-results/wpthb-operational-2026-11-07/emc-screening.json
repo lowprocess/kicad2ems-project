@@ -1,0 +1,466 @@
+{
+  "scope": "Magnetic near-field coupling screen; not a conducted/radiated compliance assessment",
+  "operating_point": {
+    "VHB_V": 24,
+    "fsw_Hz": 110000.0,
+    "phase_deg": 90
+  },
+  "height_above_top_mm": 1,
+  "harmonics": [
+    {
+      "harmonic": 1,
+      "frequency_Hz": 110000.0,
+      "spatial_peak_H_Am": 778.5289792098437,
+      "x_mm": 149.75,
+      "y_mm": -37.14583333333333
+    },
+    {
+      "harmonic": 2,
+      "frequency_Hz": 220000.0,
+      "spatial_peak_H_Am": 440.9340667086384,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 3,
+      "frequency_Hz": 330000.0,
+      "spatial_peak_H_Am": 9.29802812035534,
+      "x_mm": 150.825,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 4,
+      "frequency_Hz": 440000.0,
+      "spatial_peak_H_Am": 169.441916770446,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 5,
+      "frequency_Hz": 550000.0,
+      "spatial_peak_H_Am": 3.027227615251283,
+      "x_mm": 150.825,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 6,
+      "frequency_Hz": 660000.0,
+      "spatial_peak_H_Am": 104.59497320459576,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 7,
+      "frequency_Hz": 770000.0,
+      "spatial_peak_H_Am": 1.4753302365422392,
+      "x_mm": 150.825,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 8,
+      "frequency_Hz": 880000.0,
+      "spatial_peak_H_Am": 79.87477718892958,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 9,
+      "frequency_Hz": 990000.0,
+      "spatial_peak_H_Am": 0.885112040592519,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 10,
+      "frequency_Hz": 1100000.0,
+      "spatial_peak_H_Am": 61.56646060317148,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 11,
+      "frequency_Hz": 1210000.0,
+      "spatial_peak_H_Am": 0.5843344054369263,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 12,
+      "frequency_Hz": 1320000.0,
+      "spatial_peak_H_Am": 66.22103298280257,
+      "x_mm": 160.5,
+      "y_mm": -44.52083333333333
+    },
+    {
+      "harmonic": 13,
+      "frequency_Hz": 1430000.0,
+      "spatial_peak_H_Am": 0.41673960882098765,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 14,
+      "frequency_Hz": 1540000.0,
+      "spatial_peak_H_Am": 44.111771594902486,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 15,
+      "frequency_Hz": 1650000.0,
+      "spatial_peak_H_Am": 0.3086558722422748,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 16,
+      "frequency_Hz": 1760000.0,
+      "spatial_peak_H_Am": 65.16831903682824,
+      "x_mm": 160.5,
+      "y_mm": -44.52083333333333
+    },
+    {
+      "harmonic": 17,
+      "frequency_Hz": 1870000.0,
+      "spatial_peak_H_Am": 0.23939936740579257,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 18,
+      "frequency_Hz": 1980000.0,
+      "spatial_peak_H_Am": 34.685203811318964,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 19,
+      "frequency_Hz": 2090000.0,
+      "spatial_peak_H_Am": 0.18895850550963955,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 20,
+      "frequency_Hz": 2200000.0,
+      "spatial_peak_H_Am": 35.7646179548826,
+      "x_mm": 160.5,
+      "y_mm": -44.52083333333333
+    },
+    {
+      "harmonic": 21,
+      "frequency_Hz": 2310000.0,
+      "spatial_peak_H_Am": 0.15417068570779063,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 22,
+      "frequency_Hz": 2420000.0,
+      "spatial_peak_H_Am": 28.802887874796003,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 23,
+      "frequency_Hz": 2530000.0,
+      "spatial_peak_H_Am": 0.1261574714300987,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 24,
+      "frequency_Hz": 2640000.0,
+      "spatial_peak_H_Am": 27.234215571027445,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 25,
+      "frequency_Hz": 2750000.0,
+      "spatial_peak_H_Am": 0.10638774855489329,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 26,
+      "frequency_Hz": 2860000.0,
+      "spatial_peak_H_Am": 24.830668416348658,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 27,
+      "frequency_Hz": 2970000.0,
+      "spatial_peak_H_Am": 0.08908548040959068,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 28,
+      "frequency_Hz": 3080000.0,
+      "spatial_peak_H_Am": 23.84399630109801,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 29,
+      "frequency_Hz": 3190000.0,
+      "spatial_peak_H_Am": 0.07686412108848525,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 30,
+      "frequency_Hz": 3300000.0,
+      "spatial_peak_H_Am": 22.00520557963135,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 31,
+      "frequency_Hz": 3410000.0,
+      "spatial_peak_H_Am": 0.0653205384516921,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 32,
+      "frequency_Hz": 3520000.0,
+      "spatial_peak_H_Am": 21.386292902458308,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 33,
+      "frequency_Hz": 3630000.0,
+      "spatial_peak_H_Am": 0.05728657517636196,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 34,
+      "frequency_Hz": 3740000.0,
+      "spatial_peak_H_Am": 19.92546162811867,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 35,
+      "frequency_Hz": 3850000.0,
+      "spatial_peak_H_Am": 0.04911150583425614,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 36,
+      "frequency_Hz": 3960000.0,
+      "spatial_peak_H_Am": 19.5577305969441,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 37,
+      "frequency_Hz": 4070000.0,
+      "spatial_peak_H_Am": 0.04357356503522332,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 38,
+      "frequency_Hz": 4180000.0,
+      "spatial_peak_H_Am": 18.36126031451607,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 39,
+      "frequency_Hz": 4290000.0,
+      "spatial_peak_H_Am": 0.03749682860425371,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 40,
+      "frequency_Hz": 4400000.0,
+      "spatial_peak_H_Am": 18.177506211207394,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 41,
+      "frequency_Hz": 4510000.0,
+      "spatial_peak_H_Am": 0.03352875877666664,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 42,
+      "frequency_Hz": 4620000.0,
+      "spatial_peak_H_Am": 17.171749259534696,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 43,
+      "frequency_Hz": 4730000.0,
+      "spatial_peak_H_Am": 0.028822779256135786,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 44,
+      "frequency_Hz": 4840000.0,
+      "spatial_peak_H_Am": 17.13233468693575,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 45,
+      "frequency_Hz": 4950000.0,
+      "spatial_peak_H_Am": 0.025882516995930537,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 46,
+      "frequency_Hz": 5060000.0,
+      "spatial_peak_H_Am": 16.267626647894875,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 47,
+      "frequency_Hz": 5170000.0,
+      "spatial_peak_H_Am": 0.022104163125177087,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 48,
+      "frequency_Hz": 5280000.0,
+      "spatial_peak_H_Am": 16.349356277324162,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 49,
+      "frequency_Hz": 5390000.0,
+      "spatial_peak_H_Am": 0.019856246251838513,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 50,
+      "frequency_Hz": 5500000.0,
+      "spatial_peak_H_Am": 15.596293063984978,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 51,
+      "frequency_Hz": 5610000.0,
+      "spatial_peak_H_Am": 0.016720805135347263,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 52,
+      "frequency_Hz": 5720000.0,
+      "spatial_peak_H_Am": 15.783819758911617,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 53,
+      "frequency_Hz": 5830000.0,
+      "spatial_peak_H_Am": 0.014946649518807923,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 54,
+      "frequency_Hz": 5940000.0,
+      "spatial_peak_H_Am": 15.676975709144267,
+      "x_mm": 160.5,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 55,
+      "frequency_Hz": 6050000.0,
+      "spatial_peak_H_Am": 0.012261040323661463,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 56,
+      "frequency_Hz": 6160000.0,
+      "spatial_peak_H_Am": 15.41634943723917,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 57,
+      "frequency_Hz": 6270000.0,
+      "spatial_peak_H_Am": 0.010812024608803804,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 58,
+      "frequency_Hz": 6380000.0,
+      "spatial_peak_H_Am": 19.573411082200742,
+      "x_mm": 160.5,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 59,
+      "frequency_Hz": 6490000.0,
+      "spatial_peak_H_Am": 0.008762233034675779,
+      "x_mm": 160.5,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 60,
+      "frequency_Hz": 6600000.0,
+      "spatial_peak_H_Am": 15.229442776776779,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 61,
+      "frequency_Hz": 6710000.0,
+      "spatial_peak_H_Am": 0.007222022416907453,
+      "x_mm": 149.75,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 62,
+      "frequency_Hz": 6820000.0,
+      "spatial_peak_H_Am": 19.084872834360063,
+      "x_mm": 160.5,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 63,
+      "frequency_Hz": 6930000.0,
+      "spatial_peak_H_Am": 0.00539113925700501,
+      "x_mm": 155.125,
+      "y_mm": -40.83333333333333
+    },
+    {
+      "harmonic": 64,
+      "frequency_Hz": 7040000.0,
+      "spatial_peak_H_Am": 22.52219036110081,
+      "x_mm": 160.5,
+      "y_mm": -40.83333333333333
+    }
+  ],
+  "limitations": [
+    "External coil, receiver, feed harness and enclosure absent",
+    "No distributed electric-field or common-mode displacement current solution",
+    "Ideal switches, no Coss/deadtime/diode commutation or realistic rise/fall times",
+    "Harmonic comparison: 41.4% global component-peak difference including edges; 8.76% away from edges",
+    "No input filter/LISN model, detector bandwidth or applicable emission standard"
+  ]
+}

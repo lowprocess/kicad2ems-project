@@ -1,0 +1,75 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: transient power circuit
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using KLU as Direct Linear Solver
+Operating point simulation skipped by 'uic',
+  now using transient initial conditions.
+ Reference value :  1.79509e-05
+ Reference value :  3.43184e-05
+ Reference value :  5.01837e-05
+ Reference value :  6.67482e-05
+ Reference value :  8.46738e-05
+ Reference value :  1.05548e-04
+ Reference value :  1.23463e-04
+ Reference value :  1.44503e-04
+ Reference value :  1.62447e-04
+ Reference value :  1.83286e-04
+ Reference value :  2.01253e-04
+ Reference value :  2.22301e-04
+ Reference value :  2.40252e-04
+ Reference value :  2.61334e-04
+ Reference value :  2.81220e-04
+ Reference value :  3.01247e-04
+ Reference value :  3.22298e-04
+ Reference value :  3.40272e-04
+ Reference value :  3.61920e-04
+ Reference value :  3.79488e-04
+ Reference value :  4.01235e-04
+ Reference value :  4.22289e-04
+ Reference value :  4.40234e-04
+ Reference value :  4.61308e-04
+ Reference value :  4.83353e-04
+ Reference value :  5.01326e-04
+ Reference value :  5.22364e-04
+ Reference value :  5.44416e-04
+ Reference value :  5.62395e-04
+No. of Data Rows : 444201
+m0                  =  1.09575e+01 from=  5.66667e-04 to=  5.77778e-04
+m1                  =  9.98924e+00 from=  5.66667e-04 to=  5.77778e-04
+m2                  =  1.78679e+00 from=  5.66667e-04 to=  5.77778e-04
+m3                  =  1.24539e+00 from=  5.66667e-04 to=  5.77778e-04
+m4                  =  2.31415e+00 at=  5.76945e-04
+m5                  =  3.84568e+00 from=  5.66667e-04 to=  5.77778e-04
+m6                  =  8.95670e-03 from=  5.66667e-04 to=  5.77778e-04
+m7                  =  1.04225e-02 from=  5.66667e-04 to=  5.77778e-04
+m8                  =  -3.89970e-06 from=  5.66667e-04 to=  5.77778e-04
+m9                  =  3.30109e-05 from=  5.66667e-04 to=  5.77778e-04
+m10                 =  4.42433e-03 from=  5.66667e-04 to=  5.77778e-04
+m11                 =  4.42433e-03 from=  5.66667e-04 to=  5.77778e-04
+m12                 =  4.42433e-03 from=  5.66667e-04 to=  5.77778e-04
+m13                 =  4.42433e-03 from=  5.66667e-04 to=  5.77778e-04
+m14                 =  3.30109e-05 from=  5.66667e-04 to=  5.77778e-04
+m15                 =  4.65664e-03 from=  5.66667e-04 to=  5.77778e-04
+m16                 =  4.65664e-03 from=  5.66667e-04 to=  5.77778e-04
+m17                 =  4.65664e-03 from=  5.66667e-04 to=  5.77778e-04
+m18                 =  1.04225e-03 from=  5.66667e-04 to=  5.77778e-04
+m19                 =  5.98648e-03 from=  5.66667e-04 to=  5.77778e-04
+m20                 =  2.63120e-03 from=  5.66667e-04 to=  5.77778e-04
+m21                 =  2.63120e-03 from=  5.66667e-04 to=  5.77778e-04
+m22                 =  2.63120e-03 from=  5.66667e-04 to=  5.77778e-04
+m23                 =  2.63120e-03 from=  5.66667e-04 to=  5.77778e-04
+m24                 =  2.73205e-02 from=  5.66667e-04 to=  5.77778e-04
+m25                 =  1.31528e-01 from=  5.66667e-04 to=  5.77778e-04
+m26                 =  2.73174e-02 from=  5.66667e-04 to=  5.77778e-04
+m27                 =  1.31508e-01 from=  5.66667e-04 to=  5.77778e-04
+m28                 =  1.05801e+01 from=  5.66667e-04 to=  5.77778e-04
+m29                 =  -1.00131e+01 from=  5.66667e-04 to=  5.77778e-04
+m30                 =  2.38767e-02 from=  5.66667e-04 to=  5.77778e-04
+m31                 =  9.98924e+00 from=  5.66667e-04 to=  5.77778e-04
+ngspice-47 done
+

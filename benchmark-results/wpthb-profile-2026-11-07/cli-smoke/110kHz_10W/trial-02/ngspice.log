@@ -1,0 +1,108 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: transient power circuit
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using KLU as Direct Linear Solver
+Operating point simulation skipped by 'uic',
+  now using transient initial conditions.
+ Reference value :  1.81497e-05
+ Reference value :  3.30845e-05
+ Reference value :  5.00647e-05
+ Reference value :  6.49813e-05
+ Reference value :  8.19867e-05
+ Reference value :  9.99717e-05
+ Reference value :  1.14899e-04
+ Reference value :  1.31883e-04
+ Reference value :  1.46797e-04
+ Reference value :  1.63798e-04
+ Reference value :  1.81790e-04
+ Reference value :  1.96729e-04
+ Reference value :  2.13724e-04
+ Reference value :  2.28652e-04
+ Reference value :  2.45666e-04
+ Reference value :  2.63639e-04
+ Reference value :  2.78573e-04
+No. of Data Rows : 277695
+m0                  =  1.08361e+01 from=  2.81818e-04 to=  2.90909e-04
+m1                  =  9.98647e+00 from=  2.81818e-04 to=  2.90909e-04
+m2                  =  1.28676e+00 from=  2.81818e-04 to=  2.90909e-04
+m3                  =  1.20370e+00 from=  2.81818e-04 to=  2.90909e-04
+m4                  =  2.18543e+00 at=  2.87605e-04
+m5                  =  3.14119e+00 from=  2.81818e-04 to=  2.90909e-04
+m6                  =  1.07236e-02 from=  2.81818e-04 to=  2.90909e-04
+m7                  =  1.01934e-02 from=  2.81818e-04 to=  2.90909e-04
+m8                  =  -6.43045e-05 from=  2.81818e-04 to=  2.90909e-04
+m9                  =  1.02002e-03 from=  2.81818e-04 to=  2.90909e-04
+m10                 =  1.19841e-02 from=  2.81818e-04 to=  2.90909e-04
+m11                 =  1.19841e-02 from=  2.81818e-04 to=  2.90909e-04
+m12                 =  1.19841e-02 from=  2.81818e-04 to=  2.90909e-04
+m13                 =  1.19841e-02 from=  2.81818e-04 to=  2.90909e-04
+m14                 =  1.02002e-03 from=  2.81818e-04 to=  2.90909e-04
+m15                 =  2.63444e-03 from=  2.81818e-04 to=  2.90909e-04
+m16                 =  2.63444e-03 from=  2.81818e-04 to=  2.90909e-04
+m17                 =  2.63444e-03 from=  2.81818e-04 to=  2.90909e-04
+m18                 =  1.01934e-03 from=  2.81818e-04 to=  2.90909e-04
+m19                 =  2.28292e-03 from=  2.81818e-04 to=  2.90909e-04
+m20                 =  4.21519e-02 from=  2.81818e-04 to=  2.90909e-04
+m21                 =  4.21519e-02 from=  2.81818e-04 to=  2.90909e-04
+m22                 =  4.21519e-02 from=  2.81818e-04 to=  2.90909e-04
+m23                 =  4.21519e-02 from=  2.81818e-04 to=  2.90909e-04
+m24                 =  2.61285e-02 from=  2.81818e-04 to=  2.90909e-04
+m25                 =  8.01598e-02 from=  2.81818e-04 to=  2.90909e-04
+m26                 =  2.61293e-02 from=  2.81818e-04 to=  2.90909e-04
+m27                 =  8.01608e-02 from=  2.81818e-04 to=  2.90909e-04
+m28                 =  1.03836e+01 from=  2.81818e-04 to=  2.90909e-04
+m29                 =  -1.00083e+01 from=  2.81818e-04 to=  2.90909e-04
+m30                 =  2.18680e-02 from=  2.81818e-04 to=  2.90909e-04
+m31                 =  9.98647e+00 from=  2.81818e-04 to=  2.90909e-04
+Total elapsed time (seconds) = 4.678 
+Total DRAM available = 31918.082 MB.
+DRAM currently available = 19628.598 MB.
+Maximum ngspice program size =  351.793 MB.
+Current ngspice program size =  333.727 MB.
+
+Shared ngspice pages =   15.004 MB.
+Text (code) pages =    6.422 MB.
+Stack = 0 bytes.
+Library pages =  318.535 MB.
+
+Number of lines in the deck = 113
+Netlist loading time = 0.000337349
+Subckt and Param expansion time = 0.000161226
+Netlist parsing time = 0.000132967
+
+Nominal temperature = 27
+Operating temperature = 27
+Total iterations = 899400
+Transient iterations = 899400
+Circuit Equations = 143
+Circuit original non-zeroes = 428
+Circuit fill-in non-zeroes = 208
+Circuit total non-zeroes = 636
+Transient timepoints = 387252
+Accepted timepoints = 277696
+Rejected timepoints = 109556
+Total analysis time (seconds) = 4.41686
+Matrix load time = 1.03205
+Matrix synchronize time = 0
+Matrix reorder time = 3.0579E-05
+Matrix factor time = 1.35289
+Matrix solve time = 0.730206
+Transient analysis time = 4.41665
+Transient load time = 1.03204
+Transient sync time = 0
+Transient factor time = 1.35289
+Transient solve time = 0.730206
+Transient trunc time = 0.65407
+Transient iterations for the last time point = 0
+AC analysis time = 0
+AC load time = 0
+AC sync time = 0
+AC factor time = 0
+AC solve time = 0
+ngspice-47 done
+

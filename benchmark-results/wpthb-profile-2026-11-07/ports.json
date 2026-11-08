@@ -1,0 +1,38 @@
+{
+  "mesh_s": 0.19882969399986905,
+  "assembly_s": 21.83508897700085,
+  "matrix_shape": [
+    8648,
+    8648
+  ],
+  "rhs_shape": [
+    8648,
+    24
+  ],
+  "dtype": "complex128",
+  "cpu_1_solve_s": 12.57025025099938,
+  "cpu_4_solve_s": 4.14441757700115,
+  "cpu_8_solve_s": 3.1018548979991465,
+  "GPU": "AMD Radeon RX 7800 XT",
+  "HIP": true,
+  "gpu_library_warmup_s": 1.2337258040024608,
+  "gpu_upload_s": 0.04699325300316559,
+  "gpu_solve_0_s": 3.492519904000801,
+  "gpu_solve_1_s": 3.4756813060012064,
+  "gpu_download_s": 0.0003591720014810562,
+  "relative_solution_error": 9.872613358270291e-12,
+  "relative_impedance_error": 1.7850761120963828e-13,
+  "cpu_residual": 1.8812919333172673e-13,
+  "gpu_residual": 1.0818912494703486e-15,
+  "gpu_e2e_s": 3.5398723290054477,
+  "gpu_mixed_factor_s": 0.5143925569973362,
+  "gpu_mixed_refine_s": 1.0561415019983542,
+  "gpu_mixed_residuals": [
+    6.898650309252525e-07,
+    6.592870105343529e-11,
+    1.2721055615921617e-14
+  ],
+  "gpu_mixed_relative_solution_error": 9.918406606577846e-12,
+  "gpu_mixed_relative_impedance_error": 1.8434537587792752e-13,
+  "gpu_mixed_e2e_s": 1.617527311998856
+}

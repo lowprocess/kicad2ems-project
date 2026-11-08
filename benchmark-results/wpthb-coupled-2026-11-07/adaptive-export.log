@@ -1,0 +1,24 @@
+Adaptive replay 90000Adaptive replay  590000 30 fine  Adaptive replayfine False 90000
+False 10
+Adaptive replay 90000 20  fine False
+fine False
+Adaptive DONE 90000 5 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 192.48345557399807}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/90kHz_5W
+Adaptive replay 110000 5 fine False
+Adaptive DONE 90000 20 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 193.35098080700118}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/90kHz_20W
+Adaptive replay 110000 10 fine False
+Adaptive DONE 90000 30 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 199.49685033100104}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/90kHz_30W
+Adaptive replay 110000 20 fine False
+Adaptive DONE 90000 10 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 203.15975459200126}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/90kHz_10W
+Adaptive replay 110000 30 fine True
+Adaptive DONE 110000 5 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 185.511310332}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_5W
+Adaptive DONE 110000 30 {'physical_netlist_unchanged': True, 'half_maximum_timestep': True, 'relative_measure_changes': {'load_power_W': 5.348952273984623e-05, 'input_power_W': 4.397440689519611e-05, 'primary_rms_A': 1.3567477850980452e-05, 'secondary_rms_A': 2.4001536098467528e-05}, 'seconds': 188.7280114919995}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_30W
+Adaptive DONE 110000 20 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 192.64191888200003}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_20W
+Adaptive DONE 110000 10 {'physical_netlist_unchanged': True, 'half_maximum_timestep': False, 'relative_measure_changes': {'load_power_W': 0.0, 'input_power_W': 0.0, 'primary_rms_A': 0.0, 'secondary_rms_A': 0.0}, 'seconds': 211.63305313599994}
+Ready: /home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_10W

@@ -1,0 +1,201 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: transient power circuit
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+n2                                           0
+n3                                           0
+n4                                 1.88859e-30
+n5                                 1.88859e-30
+n6                                 1.88859e-30
+n7                                           0
+n9                                           0
+n10                                          0
+n8                                  3.2106e-30
+n11                                          0
+n12                                          0
+n13                                          0
+n14                                          0
+n15                                          0
+n16                                          0
+n17                                          0
+n18                                          0
+n19                                          0
+n20                                          0
+n21                                          0
+n22                                          0
+n23                                          0
+n24                                          0
+n25                                          0
+n27                                -3.2734e-18
+n26                                -3.2734e-18
+n29                                -3.2734e-18
+n30                                -3.2734e-18
+n28                               -3.37462e-18
+n31                                -3.2734e-18
+n32                                -3.2734e-18
+n33                                -3.2734e-18
+n34                                -3.2734e-18
+n35                                -3.2734e-18
+n36                                -3.2734e-18
+n37                                1.88859e-30
+n38                                2.07745e-30
+n39                                2.07745e-30
+n40                                 3.2106e-30
+n41                                2.07745e-30
+n42                                2.07745e-30
+n43                                2.07745e-30
+n44                                2.07745e-30
+n45                                2.07745e-30
+n46                                2.07745e-30
+n47                                2.07745e-30
+n48                                2.07745e-30
+n49                                2.07745e-30
+n50                                2.07745e-30
+n51                                2.07745e-30
+n52                                2.07745e-30
+n53                                 3.2106e-30
+n56                                -3.2734e-18
+n54                                -3.2734e-18
+n55                                -3.2734e-18
+n57                                 3.2106e-30
+n58                                -3.2734e-18
+n59                                 3.2106e-30
+n61                               -3.37462e-18
+n60                               -3.37462e-18
+n62                                 3.2106e-30
+n63                               -3.37462e-18
+n64                                -3.2734e-18
+n66                                          0
+n65                                          0
+n67                                -3.2734e-18
+n68                                          0
+n69                               -3.37462e-18
+n71                                          0
+n70                                          0
+n72                               -3.37462e-18
+n73                                          0
+n74                                -3.2734e-18
+n75                                -3.2734e-18
+n77                                          0
+n79                                          0
+n78                                          0
+n80                                          0
+n82                                          0
+n83                                          0
+n81                                          0
+n84                                          0
+l_csecondary_series#branch                   0
+l_secondary#branch                           0
+l_primary#branch                   3.90956e-29
+l_q4_s#branch                     -1.30883e-29
+l_q4_d#branch                      9.71369e-30
+l_q3_s#branch                     -3.47609e-29
+l_q3_d#branch                      3.14875e-29
+l_q2_s#branch                      3.78456e-30
+l_q2_d#branch                     -1.05285e-29
+l_q1_s#branch                      2.07017e-29
+l_q1_d#branch                     -2.72434e-29
+l_ca4_series#branch                2.07392e-42
+l_ca3_series#branch                2.08513e-42
+l_ca2_series#branch                2.08513e-42
+l_ca1_series#branch                2.08513e-42
+l_l3#branch                       -3.77718e-29
+l_c30_series#branch                -3.2294e-30
+l_c27_series#branch                -3.2294e-30
+l_c25_series#branch                -3.2294e-30
+l_c24_series#branch                          0
+l_c23_series#branch                          0
+l_c22_series#branch                          0
+l_c21_series#branch                          0
+l_c20_series#branch                          0
+l_c19_series#branch                          0
+l_lsource#branch                  -3.77718e-29
+v_load#branch                                0
+v_csecondary#branch                          0
+v_secondary#branch                           0
+v_primary#branch                   3.25467e-29
+vg_q4#branch                                 0
+v_q4#branch                        6.33909e-30
+vg_q3#branch                                 0
+v_q3#branch                         2.8214e-29
+vg_q2#branch                       6.74923e-30
+v_q2#branch                       -1.05285e-29
+vg_q1#branch                       6.54662e-30
+v_q1#branch                       -2.72434e-29
+v_ca4#branch                       6.23298e-42
+v_ca3#branch                       6.23298e-42
+v_ca2#branch                       6.23298e-42
+v_ca1#branch                       6.23298e-42
+v_l3#branch                       -3.77718e-29
+v_r9#branch                       -3.77718e-29
+v_c30#branch                      -9.71285e-30
+v_c27#branch                      -9.71285e-30
+v_c25#branch                      -9.71285e-30
+v_c24#branch                                 0
+v_c23#branch                                 0
+v_c22#branch                                 0
+v_c21#branch                                 0
+v_c20#branch                                 0
+v_c19#branch                                 0
+v_lsource#branch                  -3.77718e-29
+v_rsource#branch                  -3.77718e-29
+vsup#branch                        3.77718e-29
+
+ Reference value :  3.87488e-05
+ Reference value :  7.73924e-05
+No. of Data Rows : 29316
+m0                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m1                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m4                  =  0.00000e+00 at=  0.00000e+00
+m5                  =  0.00000e+00 from=  6.57877e-04 to=  6.70777e-04
+m6                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m7                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m8                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m9                  =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m10                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m11                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m12                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m13                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m14                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m15                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m16                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m17                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m18                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m19                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m20                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m21                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m22                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m23                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m24                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m25                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m26                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m27                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m28                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m29                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m30                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+m31                 =  0.00000e+00 from=  6.57877e-04 to=  7.74473e-05
+ngspice-47 done
+
+doAnalyses: TRAN:  Timestep too small; time = 7.74473e-05, timestep = 6.29861e-20: trouble with node "n27"
+
+
+tran simulation(s) aborted
+
+Error: measure  m2  rms(TRIG) : out of interval
+ meas tran m2 rms measure2 from=0.00065787743383281154 to=0.00067077699135894512 failed!
+
+
+Error: measure  m3  rms(TRIG) : out of interval
+ meas tran m3 rms measure3 from=0.00065787743383281154 to=0.00067077699135894512 failed!
+

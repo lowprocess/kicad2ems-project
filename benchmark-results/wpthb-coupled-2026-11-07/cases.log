@@ -1,0 +1,56 @@
+[90k/5W] 90 kHz / 5 W: phase 36.542°, 32 cycles
+[90k/10W] 90 kHz / 10 W: phase 52.638°, 32 cycles
+[90k/30W] 90 kHz / 30 W: phase 100.338°, 32 cycles
+[90k/20W] 90 kHz / 20 W: phase 77.661°, 32 cycles
+[90k/30W] 90 kHz / 30 W: phase 104.310°, 32 cycles
+[90k/5W] 90 kHz / 5 W: phase 39.853°, 32 cycles
+[90k/10W] 90 kHz / 10 W: phase 56.001°, 32 cycles
+[90k/20W] 90 kHz / 20 W: phase 81.328°, 32 cycles
+[90k/30W] 90 kHz / 30 W: phase 103.905°, 32 cycles
+[90k/5W] 90 kHz / 5 W: phase 39.554°, 32 cycles
+[90k/20W] 90 kHz / 20 W: phase 81.328°, 52 cycles
+[90k/10W] 90 kHz / 10 W: phase 55.788°, 32 cycles
+[90k/30W] 90 kHz / 30 W: phase 103.905°, 52 cycles
+[90k/5W] 90 kHz / 5 W: phase 39.554°, 52 cycles
+[90k/10W] 90 kHz / 10 W: phase 55.788°, 52 cycles
+[90k/20W] 90 kHz / 20 W: phase 81.328°, 32 cycles
+[90k/30W] 90 kHz / 30 W: phase 103.905°, 32 cycles
+[90k/5W] 90 kHz / 5 W: phase 39.554°, 32 cycles
+[90k/10W] 90 kHz / 10 W: phase 55.788°, 32 cycles
+[90k/20W] 90 kHz / 20 W: phase 81.328°, 52 cycles
+[90k/5W] 90 kHz / 5 W: phase 39.554°, 52 cycles
+[90k/30W] 90 kHz / 30 W: phase 103.905°, 52 cycles
+[90k/10W] 90 kHz / 10 W: phase 55.788°, 52 cycles
+[90k/30W] DONE 336.5s; P=29.9937 W; phase=103.905; primary=2.4566 A RMS
+[110k/5W] 110 kHz / 5 W: phase 32.410°, 32 cycles
+[90k/20W] DONE 341.7s; P=20.0815 W; phase=81.328; primary=2.0180 A RMS
+[110k/10W] 110 kHz / 10 W: phase 46.491°, 32 cycles
+[110k/5W] 110 kHz / 5 W: phase 36.822°, 32 cycles
+[90k/5W] DONE 345.6s; P=4.9949 W; phase=39.554; primary=1.0215 A RMS
+[110k/20W] 110 kHz / 20 W: phase 67.856°, 32 cycles
+[110k/10W] 110 kHz / 10 W: phase 50.883°, 32 cycles
+[110k/5W] 110 kHz / 5 W: phase 36.236°, 32 cycles
+[110k/20W] 110 kHz / 20 W: phase 72.421°, 32 cycles
+[110k/10W] 110 kHz / 10 W: phase 50.463°, 32 cycles
+[110k/5W] 110 kHz / 5 W: phase 36.236°, 52 cycles
+[110k/20W] 110 kHz / 20 W: phase 72.093°, 32 cycles
+[90k/10W] DONE 356.5s; P=9.9984 W; phase=55.788; primary=1.4353 A RMS
+[110k/30W] 110 kHz / 30 W: phase 86.249°, 32 cycles
+[110k/10W] 110 kHz / 10 W: phase 50.463°, 52 cycles
+[110k/20W] 110 kHz / 20 W: phase 72.093°, 52 cycles
+[110k/30W] 110 kHz / 30 W: phase 91.134°, 32 cycles
+[110k/5W] 110 kHz / 5 W: phase 36.236°, 32 cycles
+[110k/10W] 110 kHz / 10 W: phase 50.463°, 32 cycles
+[110k/30W] 110 kHz / 30 W: phase 90.817°, 32 cycles
+[110k/20W] 110 kHz / 20 W: phase 72.093°, 32 cycles
+[110k/30W] 110 kHz / 30 W: phase 90.817°, 52 cycles
+[110k/30W] 110 kHz / 30 W: phase 90.817°, 32 cycles
+[110k/5W] 110 kHz / 5 W: phase 36.236°, 52 cycles
+[110k/20W] 110 kHz / 20 W: phase 72.093°, 52 cycles
+[110k/10W] 110 kHz / 10 W: phase 50.463°, 52 cycles
+[110k/30W] 110 kHz / 30 W: phase 90.817°, 52 cycles
+[110k/5W] DONE 346.7s; P=4.9772 W; phase=36.236; primary=0.9119 A RMS
+[110k/10W] DONE 344.2s; P=9.9731 W; phase=50.463; primary=1.2858 A RMS
+[110k/20W] DONE 341.0s; P=19.9497 W; phase=72.093; primary=1.8104 A RMS
+[110k/30W] DONE 349.5s; P=29.9124 W; phase=90.817; primary=2.2112 A RMS
+All cases completed.

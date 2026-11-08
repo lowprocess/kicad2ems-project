@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "checks": [
+    "8 power targets within 0.5%",
+    "final-cycle repeatability below 0.5%",
+    "terminal power balance below 0.01%",
+    "positive-semidefinite passive copper realization",
+    "independent harmonic equivalent error below 4%",
+    "adaptive-spectrum finite data",
+    "FFT field-grid convergence",
+    "64-frame real-vector reconstruction and VTK round-trip",
+    "half-timestep electrical sensitivity below 0.1%"
+  ],
+  "cases": [
+    {
+      "frequency_Hz": 90000,
+      "target_W": 5,
+      "power_error": 0.0010260000000000824,
+      "display_sample_spectrum_relative_error": 0.08967471712993194,
+      "field_peak_Am": 103.51922784045966,
+      "omitted_AC_current_energy_fraction": 0.1061227383198966
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 10,
+      "power_error": 0.0001620000000001065,
+      "display_sample_spectrum_relative_error": 0.054541271431375854,
+      "field_peak_Am": 139.99505073304354,
+      "omitted_AC_current_energy_fraction": 0.07514006757970369
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 20,
+      "power_error": 0.004074999999999829,
+      "display_sample_spectrum_relative_error": 0.020706357487753405,
+      "field_peak_Am": 214.85571660333045,
+      "omitted_AC_current_energy_fraction": 0.05807472560360717
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 30,
+      "power_error": 0.00020999999999993246,
+      "display_sample_spectrum_relative_error": 0.027716487039746992,
+      "field_peak_Am": 281.28385887293865,
+      "omitted_AC_current_energy_fraction": 0.05166995651633096
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 5,
+      "power_error": 0.0045680000000001275,
+      "display_sample_spectrum_relative_error": 0.2309295314636635,
+      "field_peak_Am": 107.02946854908701,
+      "omitted_AC_current_energy_fraction": 0.13570432703436636
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 10,
+      "power_error": 0.0026930000000000565,
+      "display_sample_spectrum_relative_error": 0.15522268107923912,
+      "field_peak_Am": 156.72011927716412,
+      "omitted_AC_current_energy_fraction": 0.09160351829440824
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 20,
+      "power_error": 0.002515000000000045,
+      "display_sample_spectrum_relative_error": 0.08727671875658892,
+      "field_peak_Am": 225.52796314046216,
+      "omitted_AC_current_energy_fraction": 0.06062772298774939
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 30,
+      "power_error": 0.0029199999999999227,
+      "display_sample_spectrum_relative_error": 0.06911537555836385,
+      "field_peak_Am": 270.6597602457263,
+      "omitted_AC_current_energy_fraction": 0.0456760664320074
+    }
+  ]
+}

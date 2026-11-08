@@ -1,0 +1,4533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/bt/Desktop/wpthb/wpthb.kicad_sch</source>
+    <date>2026-11-07T12:25:04</date>
+    <tool>Eeschema 10.0.7-1.fc44</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>wpthb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3a142d1-2baf-4c7b-9efb-877b3fcce055</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10uF 25V 20% X5R</description>
+      <fields>
+        <field name="MPN">C0805C106K3PAC7210</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 25V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C0805C106K3PAC7210"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35e82cc-5d10-4d09-9860-779a895cbcd6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10uF 25V 20% X5R</description>
+      <fields>
+        <field name="MPN">C0805C106K3PAC7210</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 25V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C0805C106K3PAC7210"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eb68a6a-33e8-4695-8d1f-a7fff9228ae5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0e06927-4656-4d79-9188-080c38bbd27e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34f12a97-03e6-4102-aeab-0b65364d9488</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c979cf2e-c67d-415a-8765-657d756b9e46</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f76c1fb6-dda8-483a-9543-f1df2d8a42af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc0db3b6-d11a-4f65-9709-9e52fb607e32</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ed61128-6e40-43e3-b4bd-aa12d2eda1cc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e7e90a-c811-4fb9-aebd-a3a806b42046</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ae3d920-8285-4d05-a79b-c2f03439a4a8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e1ae043-bbe5-4e62-9f3c-e6b2fa4b4c72</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10uF 25V 20% X5R</description>
+      <fields>
+        <field name="MPN">C0805C106K3PAC7210</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 25V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C0805C106K3PAC7210"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d47ea927-bd84-4b71-8900-3592f144ff4f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10uF 25V 20% X5R</description>
+      <fields>
+        <field name="MPN">C0805C106K3PAC7210</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 25V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C0805C106K3PAC7210"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bf0f0cb-e6ea-48f9-adbd-2ce3c69c7cb0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd1dff1a-587c-4ad7-af4b-0875242e0e8d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11e08913-a76e-4c34-b31a-e1f2873bf382</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C17">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <description>33nF 630V 5% C0G</description>
+      <fields>
+        <field name="MPN">C4532NP02J333J200KA</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">33nF 630V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C4532NP02J333J200KA"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d3f248b-0cdc-4a5a-afa9-595870a87a0d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C18">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9bffcb5-a394-458b-b9c1-0ddb3ffce206</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C19">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b635f11f-5fbf-4fa4-ab8a-34d6a587f2d1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4d8f0ea-689f-455f-98f2-0745c9b89756</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>838225f0-c466-4f06-bbbe-149974919607</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C22">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c175fd5-b85a-4260-80df-6c515dbe9166</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C23">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <description>10uF 50V 20% X5R</description>
+      <fields>
+        <field name="MPN">CGA5L3X5R1H106M160AB </field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 50V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="CGA5L3X5R1H106M160AB "/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0fec553-ed16-4629-85b8-e820cc335fdd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C24">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>1uF 50V 10% X5R</description>
+      <fields>
+        <field name="MPN">GRM219R61H105KA73J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1uF 50V 10% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM219R61H105KA73J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97660d8f-4ed2-400f-962f-b5ca44fd824b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C25">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <description>33nF 630V 5% C0G</description>
+      <fields>
+        <field name="MPN">C4532NP02J333J200KA</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">33nF 630V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C4532NP02J333J200KA"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a95d80f-df1b-49c3-b565-2810e76ff65a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C26">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>1nF 100V 5% C0G</description>
+      <fields>
+        <field name="MPN">GRM1555C2A102JE01J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1nF 100V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM1555C2A102JE01J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e269020e-0061-4006-bac8-d8e31e398051</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C27">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <description>33nF 630V 5% C0G</description>
+      <fields>
+        <field name="MPN">C4532NP02J333J200KA</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">33nF 630V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C4532NP02J333J200KA"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8aa6c31-771e-4457-989e-4b23b368e72f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C28">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>1nF 100V 5% C0G</description>
+      <fields>
+        <field name="MPN">GRM1555C2A102JE01J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1nF 100V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM1555C2A102JE01J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>041718a8-edcd-4656-ad89-9e51750edb7c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>945253bb-07f2-4c93-9c98-a21037852d7c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C30">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <description>33nF 630V 5% C0G</description>
+      <fields>
+        <field name="MPN">C4532NP02J333J200KA</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_1812_4532Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">33nF 630V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C4532NP02J333J200KA"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bf26094-75a3-497e-af5a-493055031f73</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb8f10ab-5165-49fd-8ad2-2394a8ae69ca</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fac25ac0-1c2d-4e67-9cd0-05b5d8f37fec</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C33">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f3007f7-65b4-4b2c-b4a5-8a3451c7ecb6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C34">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10uF 25V 20% X5R</description>
+      <fields>
+        <field name="MPN">C0805C106K3PAC7210</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uF 25V 20% X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="C0805C106K3PAC7210"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa174206-24cb-4c8e-b2c7-d8e8021ad22e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd5d5ecd-81fd-430d-80b3-50379e7f4412</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C36">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>0.1uF 10% 100V X5R</description>
+      <fields>
+        <field name="MPN">GRM155R62A104KE14D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">0.1uF 10% 100V X5R</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM155R62A104KE14D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf9aba7f-6099-45da-be42-df89955ca275</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C37">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <description>10pF 630V 1% C0G</description>
+      <fields>
+        <field name="MPN">GRM21A5C2J100FWA1D</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10pF 630V 1% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM21A5C2J100FWA1D"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ef3a67-9700-4642-8d10-6df5d0571aeb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C38">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <description>1nF 100V 5% C0G</description>
+      <fields>
+        <field name="MPN">GRM1555C2A102JE01J</field>
+        <field name="Manufacturer">Murata</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">1nF 100V 5% C0G</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="GRM1555C2A102JE01J"/>
+      <property name="Manufacturer" value="Murata"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>087b1e78-8d76-4490-bccb-7d00a0bcb80d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CA1">
+      <value>22u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <description>47uF 63V 20% Aluminium Polymer</description>
+      <fields>
+        <field name="MPN">A7C5KN476M1JAAS045</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">capacitor/THT/other</field>
+        <field name="Footprint">Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">47uF 63V 20% Aluminium Polymer</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="MPN" value="A7C5KN476M1JAAS045"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="capacitor/THT/other"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2daaa7ad-ad7e-40c8-88f5-21ffd3006076</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CA2">
+      <value>22u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <description>47uF 63V 20% Aluminium Polymer</description>
+      <fields>
+        <field name="MPN">A7C5KN476M1JAAS045</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">capacitor/THT/other</field>
+        <field name="Footprint">Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">47uF 63V 20% Aluminium Polymer</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="MPN" value="A7C5KN476M1JAAS045"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="capacitor/THT/other"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23b996e7-d1a3-410f-be40-b433bdc51a7b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CA3">
+      <value>22u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <description>47uF 63V 20% Aluminium Polymer</description>
+      <fields>
+        <field name="MPN">A7C5KN476M1JAAS045</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">capacitor/THT/other</field>
+        <field name="Footprint">Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">47uF 63V 20% Aluminium Polymer</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="MPN" value="A7C5KN476M1JAAS045"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="capacitor/THT/other"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>352555e9-e516-4c3d-993e-3cb7c3fdbd75</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CA4">
+      <value>22u</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <description>47uF 63V 20% Aluminium Polymer</description>
+      <fields>
+        <field name="MPN">A7C5KN476M1JAAS045</field>
+        <field name="Manufacturer">Kemet</field>
+        <field name="KiLib_Generator">capacitor/THT/other</field>
+        <field name="Footprint">Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">47uF 63V 20% Aluminium Polymer</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="MPN" value="A7C5KN476M1JAAS045"/>
+      <property name="Manufacturer" value="Kemet"/>
+      <property name="KiLib_Generator" value="capacitor/THT/other"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>494cd8f8-5925-4eea-9738-e4dda2c6764d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CE1">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.9</footprint>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="KiLib_Generator">capacitor/SMD/elec_round_polarized</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x5.9</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="KiLib_Generator" value="capacitor/SMD/elec_round_polarized"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4127e200-6362-41a4-9a46-58064adcad66</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CE2">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.9</footprint>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="KiLib_Generator">capacitor/SMD/elec_round_polarized</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x5.9</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="KiLib_Generator" value="capacitor/SMD/elec_round_polarized"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfe0eda7-0e25-4bc1-9444-3de8a6461508</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CE3">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.9</footprint>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="KiLib_Generator">capacitor/SMD/elec_round_polarized</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x5.9</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="KiLib_Generator" value="capacitor/SMD/elec_round_polarized"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a95f9cdd-96b1-40ed-9fb9-62c0133b09a8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="CE4">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.9</footprint>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="KiLib_Generator">capacitor/SMD/elec_round_polarized</field>
+        <field name="Footprint">Capacitor_SMD:CP_Elec_6.3x5.9</field>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="KiLib_Generator" value="capacitor/SMD/elec_round_polarized"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52cf9ba3-cbe7-4c66-93a9-56da5ccef8be</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>STAT1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="MPN">LTST-C190GKT </field>
+        <field name="Manufacturer">LITEON </field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode, small symbol, filled shape</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="MPN" value="LTST-C190GKT "/>
+      <property name="Manufacturer" value="LITEON "/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fbfe1fd-443a-45a1-91ce-6d801d4ad62a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>STAT0</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="MPN"> LTST-C190GKT </field>
+        <field name="Manufacturer">LITEON</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode, small symbol, filled shape</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="MPN" value=" LTST-C190GKT "/>
+      <property name="Manufacturer" value="LITEON"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a102cac-967c-4505-98d6-d2f55f480ee3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>FAULT</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="MPN"> LTST-C190KRKT </field>
+        <field name="Manufacturer">LITEON</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode, small symbol, filled shape</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="MPN" value=" LTST-C190KRKT "/>
+      <property name="Manufacturer" value="LITEON"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1be817a-4f55-4390-8ac0-9ae0bfd2d732</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>BAS70-04FILM</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <description>Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</description>
+      <fields>
+        <field name="MPN">BAS70-04FILM</field>
+        <field name="Manufacturer">ST</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+        <field name="Description">Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"/>
+      <property name="MPN" value="BAS70-04FILM"/>
+      <property name="Manufacturer" value="ST"/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a5f7fd8-fa0d-463b-a6b7-93406a1be4d2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>BAS70-04FILM</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <description>Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</description>
+      <fields>
+        <field name="MPN">BAS70-04FILM</field>
+        <field name="Manufacturer">ST</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+        <field name="Description">Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54S" description="Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323"/>
+      <property name="MPN" value="BAS70-04FILM"/>
+      <property name="Manufacturer" value="ST"/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="schottky diode"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36dcf687-81d8-4b77-ae8f-1193e48f05b3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>SWD_DBG</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD</footprint>
+      <datasheet>http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</datasheet>
+      <description>Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface</description>
+      <fields>
+        <field name="MPN"> FTSH-105-01-F-DV </field>
+        <field name="Manufacturer">Samtec</field>
+        <field name="KiLib_Generator">connector/pin_header_socket</field>
+        <field name="Footprint">Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD</field>
+        <field name="Datasheet">http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</field>
+        <field name="Description">Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_ARM_JTAG_SWD_10" description="Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface"/>
+      <property name="MPN" value=" FTSH-105-01-F-DV "/>
+      <property name="Manufacturer" value="Samtec"/>
+      <property name="KiLib_Generator" value="connector/pin_header_socket"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="Cortex Debug Connector ARM SWD JTAG"/>
+      <property name="ki_fp_filters" value="PinHeader?2x05?P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>def1b186-9deb-493f-9666-02068decf586</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="10"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="6"/>
+            <pin num="8"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x04_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="KiLib_Generator">connector/pin_header_socket</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x04_Odd_Even" description="Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="KiLib_Generator" value="connector/pin_header_socket"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3593fd71-0eb1-4db1-bf8b-e72ac226f481</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>COIL_TSENSE</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="KiLib_Generator">connector/pin_header_socket</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="KiLib_Generator" value="connector/pin_header_socket"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9edf8e5-781a-4ee6-8cbf-f161664beac5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_1210_3225Metric</footprint>
+      <description>10uH 1210 10% 540mA 173mOhm</description>
+      <fields>
+        <field name="MPN">LSQCA322525T100KR</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Inductor_SMD:L_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uH 1210 10% 540mA 173mOhm</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="MPN" value="LSQCA322525T100KR"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b04fc406-b460-479a-be79-7725c6776895</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L2">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_1210_3225Metric</footprint>
+      <description>10uH 1210 10% 540mA 173mOhm</description>
+      <fields>
+        <field name="MPN">LSQCA322525T100KR</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Inductor_SMD:L_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10uH 1210 10% 540mA 173mOhm</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="MPN" value="LSQCA322525T100KR"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6395d083-92b5-49ba-ba8a-7ed9da62d8fb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L3">
+      <value>5.6u</value>
+      <footprint>Inductor_SMD:L_Pulse_PA4332</footprint>
+      <description>Inductor, small symbol</description>
+      <fields>
+        <field name="MPN">74438357047</field>
+        <field name="Manufacturer">Wurth Electronik</field>
+        <field name="KiLib_Generator">inductor/SMD</field>
+        <field name="Footprint">Inductor_SMD:L_Pulse_PA4332</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="MPN" value="74438357047"/>
+      <property name="Manufacturer" value="Wurth Electronik"/>
+      <property name="KiLib_Generator" value="inductor/SMD"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fdc96dd-4480-4d8e-ba51-a6eb8c6ea05b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q1">
+      <value>MCG8D2N06YL-TP</value>
+      <footprint>Package_SON:Diodes_PowerDI3333-8</footprint>
+      <description>N-MOSFET transistor</description>
+      <fields>
+        <field name="MPN">NTTFS5D6N08XLTAG </field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET transistor</field>
+      </fields>
+      <libsource lib="local" part="MCG8D2N06YL-TP" description="N-MOSFET transistor"/>
+      <property name="MPN" value="NTTFS5D6N08XLTAG "/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="NMOS N-MOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8566d23-ae64-4b56-bb21-456daa168dc8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q2">
+      <value>MCG8D2N06YL-TP</value>
+      <footprint>Package_SON:Diodes_PowerDI3333-8</footprint>
+      <description>N-MOSFET transistor</description>
+      <fields>
+        <field name="MPN">NTTFS5D6N08XLTAG </field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET transistor</field>
+      </fields>
+      <libsource lib="local" part="MCG8D2N06YL-TP" description="N-MOSFET transistor"/>
+      <property name="MPN" value="NTTFS5D6N08XLTAG "/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="NMOS N-MOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>672f8599-4263-46fa-9bc2-efd96a7cf292</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q3">
+      <value>MCG8D2N06YL-TP</value>
+      <footprint>Package_SON:Diodes_PowerDI3333-8</footprint>
+      <description>N-MOSFET transistor</description>
+      <fields>
+        <field name="MPN">NTTFS5D6N08XLTAG </field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET transistor</field>
+      </fields>
+      <libsource lib="local" part="MCG8D2N06YL-TP" description="N-MOSFET transistor"/>
+      <property name="MPN" value="NTTFS5D6N08XLTAG "/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="NMOS N-MOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83781cdf-8ee3-47ac-96f6-aaa44666e484</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q4">
+      <value>MCG8D2N06YL-TP</value>
+      <footprint>Package_SON:Diodes_PowerDI3333-8</footprint>
+      <description>N-MOSFET transistor</description>
+      <fields>
+        <field name="MPN">NTTFS5D6N08XLTAG </field>
+        <field name="Manufacturer">onsemi</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET transistor</field>
+      </fields>
+      <libsource lib="local" part="MCG8D2N06YL-TP" description="N-MOSFET transistor"/>
+      <property name="MPN" value="NTTFS5D6N08XLTAG "/>
+      <property name="Manufacturer" value="onsemi"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="NMOS N-MOS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b3fde47-91b9-45c0-bdcc-c1f24bea5e4f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="4"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 22K</description>
+      <fields>
+        <field name="IPN">RES-0402A-022K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0722KL</field>
+        <field name="Resistance">22K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 22K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-022K" description="0402 22K"/>
+      <property name="IPN" value="RES-0402A-022K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0722KL"/>
+      <property name="Resistance" value="22K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6afdddd-a004-45a8-bcbe-ad8815b31e73</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 1K</description>
+      <fields>
+        <field name="IPN">RES-0402A-01K0</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-071KL</field>
+        <field name="Resistance">1K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 1K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-01K0" description="0402 1K"/>
+      <property name="IPN" value="RES-0402A-01K0"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-071KL"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>913a48f8-48d5-48f0-a07c-e68c9c66fb21</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 1K</description>
+      <fields>
+        <field name="IPN">RES-0402A-01K0</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-071KL</field>
+        <field name="Resistance">1K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 1K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-01K0" description="0402 1K"/>
+      <property name="IPN" value="RES-0402A-01K0"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-071KL"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4af402ac-8e46-4a2e-83f5-34948734291d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 1K</description>
+      <fields>
+        <field name="IPN">RES-0402A-01K0</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-071KL</field>
+        <field name="Resistance">1K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 1K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-01K0" description="0402 1K"/>
+      <property name="IPN" value="RES-0402A-01K0"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-071KL"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f0e0c94-2d55-47ee-a8dc-9f8a96273a52</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <description>Jumper</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Jumper</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fe7d54f-7d07-45f1-84db-6c722b1dd9c6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>68K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 68K</description>
+      <fields>
+        <field name="IPN">RES-0402A-068K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0768KL</field>
+        <field name="Resistance">68K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 68K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-068K" description="0402 68K"/>
+      <property name="IPN" value="RES-0402A-068K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0768KL"/>
+      <property name="Resistance" value="68K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f94d774-83e7-4d7d-8f6a-e193182df89f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 10K</description>
+      <fields>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-010K" description="0402 10K"/>
+      <property name="IPN" value="RES-0402A-010K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Resistance" value="10K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c7e5271-d7e8-41dd-bae8-d0bdfa2f4196</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 10K</description>
+      <fields>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-010K" description="0402 10K"/>
+      <property name="IPN" value="RES-0402A-010K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Resistance" value="10K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54135de0-45b8-46e2-a95e-54cd79c8fa5c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>5m</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="MPN"> LVT12R0050FER </field>
+        <field name="Manufacturer">Ohmite</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MPN" value=" LVT12R0050FER "/>
+      <property name="Manufacturer" value="Ohmite"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8368dc7f-a016-4307-887b-7d35d9a90e6e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R10">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 22K</description>
+      <fields>
+        <field name="IPN">RES-0402A-022K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0722KL</field>
+        <field name="Resistance">22K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 22K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-022K" description="0402 22K"/>
+      <property name="IPN" value="RES-0402A-022K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0722KL"/>
+      <property name="Resistance" value="22K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c891db6-f0b8-4c55-8d04-f0d6ac8d9ff3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R11">
+      <value>300K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 300K</description>
+      <fields>
+        <field name="IPN">RES-0402A-300K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07300KL</field>
+        <field name="Resistance">300K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 300K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-300K" description="0402 300K"/>
+      <property name="IPN" value="RES-0402A-300K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07300KL"/>
+      <property name="Resistance" value="300K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85eace3a-5eec-49ee-b86d-daaf947d5654</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 22K</description>
+      <fields>
+        <field name="IPN">RES-0402A-022K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0722KL</field>
+        <field name="Resistance">22K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 22K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-022K" description="0402 22K"/>
+      <property name="IPN" value="RES-0402A-022K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0722KL"/>
+      <property name="Resistance" value="22K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc17ae11-cc44-4466-b30f-a391b4c08a7c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>0</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <description>Jumper</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Jumper</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88222feb-f4d0-4058-a5a6-1c7a0ce11f29</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>300K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 300K</description>
+      <fields>
+        <field name="IPN">RES-0402A-300K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07300KL</field>
+        <field name="Resistance">300K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 300K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-300K" description="0402 300K"/>
+      <property name="IPN" value="RES-0402A-300K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07300KL"/>
+      <property name="Resistance" value="300K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>131282fc-3acb-49df-bdf1-fd74ae9abb2b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 10K</description>
+      <fields>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-010K" description="0402 10K"/>
+      <property name="IPN" value="RES-0402A-010K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Resistance" value="10K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a97d383-3223-44e3-8338-808f34db672b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R16">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 100K</description>
+      <fields>
+        <field name="IPN">RES-0402A-100K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100KL</field>
+        <field name="Resistance">100K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-100K" description="0402 100K"/>
+      <property name="IPN" value="RES-0402A-100K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07100KL"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd17810-3c5c-487b-b0a8-c78c768e2d3d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R17">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 10K</description>
+      <fields>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-010K" description="0402 10K"/>
+      <property name="IPN" value="RES-0402A-010K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Resistance" value="10K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d99d86d1-f0c9-4af8-944c-b883ac4aecb4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R18">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 10K</description>
+      <fields>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-010K" description="0402 10K"/>
+      <property name="IPN" value="RES-0402A-010K"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Resistance" value="10K"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68977c1a-043e-40b1-9d4e-f324ce79c46c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R19">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 100R</description>
+      <fields>
+        <field name="IPN">RES-0402A-100R</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100RL</field>
+        <field name="Resistance">100R</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100R</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-100R" description="0402 100R"/>
+      <property name="IPN" value="RES-0402A-100R"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07100RL"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdcf1ade-0934-4f05-8e47-16ca338c628e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R20">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 100R</description>
+      <fields>
+        <field name="IPN">RES-0402A-100R</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100RL</field>
+        <field name="Resistance">100R</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100R</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-100R" description="0402 100R"/>
+      <property name="IPN" value="RES-0402A-100R"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07100RL"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae9a1601-03b4-415a-92f3-6c0ac343db20</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R21">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 100R</description>
+      <fields>
+        <field name="IPN">RES-0402A-100R</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100RL</field>
+        <field name="Resistance">100R</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100R</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-100R" description="0402 100R"/>
+      <property name="IPN" value="RES-0402A-100R"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07100RL"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c1f1d62-a44e-4e60-8dbe-c33fd2e6ae52</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R22">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://www.farnell.com/datasheets/3795017.pdf</datasheet>
+      <description>0402 100R</description>
+      <fields>
+        <field name="IPN">RES-0402A-100R</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100RL</field>
+        <field name="Resistance">100R</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100R</field>
+      </fields>
+      <libsource lib="#tec_db" part="resistor/RES-0402A-100R" description="0402 100R"/>
+      <property name="IPN" value="RES-0402A-100R"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="MPN" value="RC0402FR-07100RL"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Power" value="62.5mW"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="Resistor_SMD:R_0402_1005Metric"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1c80def-47f2-4a13-b8ac-e6d3409841e4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TH1">
+      <value>Thermistor_NTC</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <description>10k 0402 1% NTC 3435K</description>
+      <fields>
+        <field name="MPN">NTCG103JF103FTDS</field>
+        <field name="Manufacturer">TDK</field>
+        <field name="KiLib_Generator">SMD_2terminal_chip_molded</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">10k 0402 1% NTC 3435K</field>
+      </fields>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="MPN" value="NTCG103JF103FTDS"/>
+      <property name="Manufacturer" value="TDK"/>
+      <property name="KiLib_Generator" value="SMD_2terminal_chip_molded"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="thermistor NTC resistor sensor RTD"/>
+      <property name="ki_fp_filters" value="R_* RV_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84f5f94f-50d6-4652-a79f-679db9a9f72a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP1">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_4.0x4.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_4.0x4.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5ffab22-32be-483b-a883-d96d64612350</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP2">
+      <value>VIN</value>
+      <footprint>TestPoint:TestPoint_Pad_4.0x4.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_4.0x4.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03b39168-2ba1-42dd-9fe7-2024cbcfd482</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP3">
+      <value>3V3_GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17cb92d7-7d33-4d45-bada-a47e41a37faa</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP4">
+      <value>12V_EN</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718b0a07-11e3-4689-8495-62b3daf36cf9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP5">
+      <value>12V_GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82bbca5a-efa2-4045-870d-03e0866d3297</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP6">
+      <value>VHB_GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df43aade-1e44-4fbc-972c-66aecb3e424d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP7">
+      <value>VHB</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eda16e3d-7321-49d1-8d09-42fcb5cdd954</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP8">
+      <value>COIL_VENV</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c21f0c-7304-4c99-8497-f13cebdb8985</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP9">
+      <value>VBUS_GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdc9f37b-70e5-454b-85cb-067fd76c954d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP10">
+      <value>VBUS</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f004128-56ce-43ab-9bde-fa2dff0a8b17</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP11">
+      <value>COIL_QDET</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b59e1e35-5725-4e21-9b08-41c0250c12d7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP12">
+      <value>R_GL</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7110b6c-e6ee-41b9-ac3f-f1f4744f23b7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP13">
+      <value>L_GL</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2996098-5900-4fb7-a06a-7bf61ad46248</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP14">
+      <value>COIL_B</value>
+      <footprint>TestPoint:TestPoint_Pad_4.0x4.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_4.0x4.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee70c7bc-7085-4958-a9b4-038417252315</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP15">
+      <value>COIL_A</value>
+      <footprint>TestPoint:TestPoint_Pad_4.0x4.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_4.0x4.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b1fbc9a-3d4b-4ef8-8656-ca281b09cc38</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP16">
+      <value>R_GH</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8796e575-baed-4ebe-8862-d877ec807d85</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP17">
+      <value>L_GH</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51e6f7fd-43a0-4b6a-be7b-c2f1ceb721f5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP18">
+      <value>INV_VSENSE</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d980845-d07e-4bd8-8bb5-c4c12d345888</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>AP64060Q</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23-6</footprint>
+      <fields>
+        <field name="MPN">AP64060QWU-7</field>
+        <field name="Manufacturer">Diodes Inc.</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-6</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="#ic" part="AP64060" description=""/>
+      <property name="MPN" value="AP64060QWU-7"/>
+      <property name="Manufacturer" value="Diodes Inc."/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718d2429-1fc4-4979-9c09-89918cfb0162</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="5"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="6"/>
+            <pin num="1"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>INA139</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ina169.pdf</datasheet>
+      <description>High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5</description>
+      <fields>
+        <field name="MPN">INA139NA/3K</field>
+        <field name="Manufacturer">TI</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina169.pdf</field>
+        <field name="Description">High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5</field>
+      </fields>
+      <libsource lib="Amplifier_Current" part="INA139" description="High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5"/>
+      <property name="MPN" value="INA139NA/3K"/>
+      <property name="Manufacturer" value="TI"/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="current sense shunt monitor"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>166d9bec-4502-46f7-a24f-6919fc6c1359</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="2"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U3">
+      <value>STM32G051K6Ux</value>
+      <footprint>Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32g051k6.pdf</datasheet>
+      <description>STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, UFQFPN32</description>
+      <fields>
+        <field name="MPN">STM32G051K6U6</field>
+        <field name="Manufacturer">ST</field>
+        <field name="KiLib_Generator">package/no_lead</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32g051k6.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, UFQFPN32</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32G0" part="STM32G051K6Ux" description="STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, UFQFPN32"/>
+      <property name="MPN" value="STM32G051K6U6"/>
+      <property name="Manufacturer" value="ST"/>
+      <property name="KiLib_Generator" value="package/no_lead"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="Arm Cortex-M0+ STM32G0 STM32G0x1"/>
+      <property name="ki_fp_filters" value="QFN*1EP*5x5mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a15fe14-e753-42e0-a6b9-4cea236c8369</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="6"/>
+            <pin num="20"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="27"/>
+            <pin num="28"/>
+            <pin num="29"/>
+            <pin num="30"/>
+            <pin num="31"/>
+            <pin num="32"/>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="33"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+            <pin num="24"/>
+            <pin num="25"/>
+            <pin num="26"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U4">
+      <value>AP64060Q</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23-6</footprint>
+      <fields>
+        <field name="MPN">AP64060QWU-7</field>
+        <field name="Manufacturer">Diodes Inc.</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-6</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="#ic" part="AP64060" description=""/>
+      <property name="MPN" value="AP64060QWU-7"/>
+      <property name="Manufacturer" value="Diodes Inc."/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93025867-da5a-4886-aea9-93e44ce0b56e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="5"/>
+            <pin num="4"/>
+            <pin num="2"/>
+            <pin num="6"/>
+            <pin num="1"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U5">
+      <value>74LVC1G17</value>
+      <footprint>Package_TO_SOT_SMD:SOT-553</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf</datasheet>
+      <description>Single Schmitt Buffer Gate, Low-Voltage CMOS</description>
+      <fields>
+        <field name="MPN">SN74LVC1G17DRLR</field>
+        <field name="Manufacturer">TI</field>
+        <field name="KiLib_Generator">package/gullwing</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-553</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf</field>
+        <field name="Description">Single Schmitt Buffer Gate, Low-Voltage CMOS</field>
+      </fields>
+      <libsource lib="74xGxx" part="74LVC1G17" description="Single Schmitt Buffer Gate, Low-Voltage CMOS"/>
+      <property name="MPN" value="SN74LVC1G17DRLR"/>
+      <property name="Manufacturer" value="TI"/>
+      <property name="KiLib_Generator" value="package/gullwing"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <property name="ki_keywords" value="Single Gate Buff Schmitt LVC CMOS"/>
+      <property name="ki_fp_filters" value="SOT?23* SOT?553* Texas?R-PDSO-G5?DCK* Texas?R-PDSO-N5?DRL* Texas?X2SON*0.8x0.8mm*P0.48mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d777fa-0476-40a1-b269-401a47ef5683</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="5"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U6">
+      <value>LM2005DSG</value>
+      <footprint>Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</footprint>
+      <fields>
+        <field name="MPN">LM2005DSGR </field>
+        <field name="Manufacturer">TI</field>
+        <field name="Footprint">Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="" part="LM2005DSG_1" description=""/>
+      <property name="MPN" value="LM2005DSGR "/>
+      <property name="Manufacturer" value="TI"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11aaeb14-726e-4e9a-b5d5-557431d7f7b7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="9"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U7">
+      <value>LM2005DSG</value>
+      <footprint>Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</footprint>
+      <fields>
+        <field name="MPN">LM2005DSGR </field>
+        <field name="Manufacturer">TI</field>
+        <field name="Footprint">Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="local" part="LM2005DSG" description=""/>
+      <property name="MPN" value="LM2005DSGR "/>
+      <property name="Manufacturer" value="TI"/>
+      <property name="Sheetname" value="wpthb"/>
+      <property name="Sheetfile" value="wpthb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1df082f-04dc-417c-835e-61a3a5bc42d7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="4"/>
+            <pin num="9"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="LM2005DSG_1">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">LM2005DSG</field>
+        <field name="Footprint">Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GVDD" type="power_in"/>
+        <pin num="2" name="INH" type="input"/>
+        <pin num="3" name="INL" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="GL" type="output"/>
+        <pin num="6" name="SH" type="power_in"/>
+        <pin num="7" name="GH" type="output"/>
+        <pin num="8" name="BST" type="power_in"/>
+        <pin num="9" name="PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="#ic" part="AP64060">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP64060Q</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TSOT-23-6</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="BST" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="input"/>
+        <pin num="6" name="SW" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-010K">
+      <description>0402 10K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 10K</field>
+        <field name="IPN">RES-0402A-010K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0710KL</field>
+        <field name="Resistance">10K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-01K0">
+      <description>0402 1K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 1K</field>
+        <field name="IPN">RES-0402A-01K0</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-071K0L</field>
+        <field name="Resistance">1K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-022K">
+      <description>0402 22K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">22K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 22K</field>
+        <field name="IPN">RES-0402A-022K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0722KL</field>
+        <field name="Resistance">22K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-068K">
+      <description>0402 68K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">68K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 68K</field>
+        <field name="IPN">RES-0402A-068K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-0768KL</field>
+        <field name="Resistance">68K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-100K">
+      <description>0402 100K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">100K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100K</field>
+        <field name="IPN">RES-0402A-100K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100KL</field>
+        <field name="Resistance">100K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-100R">
+      <description>0402 100R</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">100R</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 100R</field>
+        <field name="IPN">RES-0402A-100R</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07100RL</field>
+        <field name="Resistance">100R</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="#tec_db" part="resistor/RES-0402A-300K">
+      <description>0402 300K</description>
+      <docs>https://www.farnell.com/datasheets/3795017.pdf</docs>
+      <footprints>
+        <fp>Resistor_SMD:R_0402_1005Metric</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">300K</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">https://www.farnell.com/datasheets/3795017.pdf</field>
+        <field name="Description">0402 300K</field>
+        <field name="IPN">RES-0402A-300K</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="MPN">RC0402FR-07300KL</field>
+        <field name="Resistance">300K</field>
+        <field name="Power">62.5mW</field>
+        <field name="Tolerance">1%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="74LVC1G17">
+      <description>Single Schmitt Buffer Gate, Low-Voltage CMOS</description>
+      <docs>https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>SOT?553*</fp>
+        <fp>Texas?R-PDSO-G5?DCK*</fp>
+        <fp>Texas?R-PDSO-N5?DRL*</fp>
+        <fp>Texas?X2SON*0.8x0.8mm*P0.48mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC1G17</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf</field>
+        <field name="Description">Single Schmitt Buffer Gate, Low-Voltage CMOS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Current" part="INA139">
+      <description>High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina169.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA139</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina169.pdf</field>
+        <field name="Description">High-Side Measurement Current Shunt Monitor, 40V, SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_ARM_JTAG_SWD_10">
+      <description>Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface</description>
+      <docs>http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</docs>
+      <footprints>
+        <fp>PinHeader?2x05?P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_ARM_JTAG_SWD_10</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</field>
+        <field name="Description">Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VTref" type="power_in"/>
+        <pin num="2" name="SWDIO/TMS" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="SWCLK/TCK" type="output"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="SWO/TDO" type="input"/>
+        <pin num="7" name="KEY" type="no_connect"/>
+        <pin num="8" name="NC/TDI" type="output"/>
+        <pin num="9" name="GNDDetect" type="passive"/>
+        <pin num="10" name="~{RESET}" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x04_Odd_Even">
+      <description>Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x04_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small_Filled">
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small_Filled</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode, small symbol, filled shape</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_NTC">
+      <description>Temperature dependent resistor, negative temperature coefficient</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>RV_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_NTC</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Temperature dependent resistor, negative temperature coefficient</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAT54S">
+      <description>Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+        <field name="Description">Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="COM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32G0" part="STM32G051K6Ux">
+      <description>STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, UFQFPN32</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32g051k6.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U4</field>
+        <field name="Value">STM32G051K6Ux</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32g051k6.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M0+ MCU, 32KB flash, 18KB RAM, 64 MHz, 1.7-3.6V, 30 GPIO, UFQFPN32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PB9" type="bidirectional"/>
+        <pin num="2" name="PC14" type="bidirectional"/>
+        <pin num="3" name="PC15" type="bidirectional"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="VSS" type="power_in"/>
+        <pin num="6" name="PF2" type="bidirectional"/>
+        <pin num="7" name="PA0" type="bidirectional"/>
+        <pin num="8" name="PA1" type="bidirectional"/>
+        <pin num="9" name="PA2" type="bidirectional"/>
+        <pin num="10" name="PA3" type="bidirectional"/>
+        <pin num="11" name="PA4" type="bidirectional"/>
+        <pin num="12" name="PA5" type="bidirectional"/>
+        <pin num="13" name="PA6" type="bidirectional"/>
+        <pin num="14" name="PA7" type="bidirectional"/>
+        <pin num="15" name="PB0" type="bidirectional"/>
+        <pin num="16" name="PB1" type="bidirectional"/>
+        <pin num="17" name="PB2" type="bidirectional"/>
+        <pin num="18" name="PA8" type="bidirectional"/>
+        <pin num="19" name="NC/PA9" type="bidirectional"/>
+        <pin num="20" name="PC6" type="bidirectional"/>
+        <pin num="21" name="NC/PA10" type="bidirectional"/>
+        <pin num="22" name="PA9/PA11" type="bidirectional"/>
+        <pin num="23" name="PA10/PA12" type="bidirectional"/>
+        <pin num="24" name="PA13" type="bidirectional"/>
+        <pin num="25" name="PA14" type="bidirectional"/>
+        <pin num="26" name="PA15" type="bidirectional"/>
+        <pin num="27" name="PB3" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PB7" type="bidirectional"/>
+        <pin num="32" name="PB8" type="bidirectional"/>
+        <pin num="33" name="VSS" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="local" part="LM2005DSG">
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">LM2005DSG</field>
+        <field name="Footprint">Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GVDD" type="power_in"/>
+        <pin num="2" name="INH" type="input"/>
+        <pin num="3" name="INL" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="GL" type="output"/>
+        <pin num="6" name="SH" type="power_in"/>
+        <pin num="7" name="GH" type="output"/>
+        <pin num="8" name="BST" type="power_in"/>
+        <pin num="9" name="PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="local" part="MCG8D2N06YL-TP">
+      <description>N-MOSFET transistor</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MCG8D2N06YL-TP</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET transistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="input"/>
+        <pin num="5" name="D" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="7" name="D" type="passive"/>
+        <pin num="8" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>${KICAD10_SYMBOL_DIR}/74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Current">
+      <uri>${KICAD10_SYMBOL_DIR}/Amplifier_Current.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>${KICAD10_SYMBOL_DIR}/Diode.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32G0">
+      <uri>${KICAD10_SYMBOL_DIR}/MCU_ST_STM32G0.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/12V_EN" class="Default">
+      <node ref="TP4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="PA1_8" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="EN_4" pintype="input"/>
+    </net>
+    <net code="2" name="/COIL_QDET" class="Default">
+      <node ref="TP11" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="PC6_20" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pintype="output"/>
+    </net>
+    <net code="3" name="/COIL_TSENSE" class="Default">
+      <node ref="J3" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="PA9/PA11_22" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/COIL_VSENSE" class="Default">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="PB2_17" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/DBG_RX" class="Default">
+      <node ref="J1" pin="8" pinfunction="NC/TDI_8" pintype="output"/>
+      <node ref="U3" pin="31" pinfunction="PB7_31" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/DBG_SWCLK" class="Default">
+      <node ref="J1" pin="4" pinfunction="SWCLK/TCK_4" pintype="output"/>
+      <node ref="U3" pin="25" pinfunction="PA14_25" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/DBG_SWDIO" class="Default">
+      <node ref="J1" pin="2" pinfunction="SWDIO/TMS_2" pintype="bidirectional"/>
+      <node ref="U3" pin="24" pinfunction="PA13_24" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/DBG_TX" class="Default">
+      <node ref="J1" pin="6" pinfunction="SWO/TDO_6" pintype="input"/>
+      <node ref="U3" pin="30" pinfunction="PB6_30" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/FAULT" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="PA15_26" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/HL_A" class="Default">
+      <node ref="J2" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="INH_2" pintype="input"/>
+    </net>
+    <net code="11" name="/HL_AC" class="Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="TP15" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="12" name="/HL_B" class="Default">
+      <node ref="J2" pin="5" pinfunction="Pin_5_5" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="INL_3" pintype="input"/>
+    </net>
+    <net code="13" name="/HL_BST" class="Default">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="BST_8" pintype="power_in"/>
+    </net>
+    <net code="14" name="/HL_GH" class="Default">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="GH_7" pintype="output"/>
+    </net>
+    <net code="15" name="/HL_GH_LIM" class="Default">
+      <node ref="Q2" pin="4" pinfunction="G_4" pintype="input"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="TP17" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="16" name="/HL_GL" class="Default">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="GL_5" pintype="output"/>
+    </net>
+    <net code="17" name="/HL_GL_LIM" class="Default">
+      <node ref="Q4" pin="4" pinfunction="G_4" pintype="input"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="TP13" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="18" name="/HL_SW" class="Default">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="S_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S_3" pintype="passive"/>
+      <node ref="Q4" pin="5" pinfunction="D_5" pintype="passive"/>
+      <node ref="Q4" pin="6" pinfunction="D_6" pintype="passive"/>
+      <node ref="Q4" pin="7" pinfunction="D_7" pintype="passive"/>
+      <node ref="Q4" pin="8" pinfunction="D_8" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="SH_6" pintype="power_in"/>
+    </net>
+    <net code="19" name="/HR_BST" class="Default">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="BST_8" pintype="power_in"/>
+    </net>
+    <net code="20" name="/HR_C" class="Default">
+      <node ref="J2" pin="7" pinfunction="Pin_7_7" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="INL_3" pintype="input"/>
+    </net>
+    <net code="21" name="/HR_D" class="Default">
+      <node ref="J2" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="INH_2" pintype="input"/>
+    </net>
+    <net code="22" name="/HR_GH" class="Default">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="GH_7" pintype="output"/>
+    </net>
+    <net code="23" name="/HR_GH_LIM" class="Default">
+      <node ref="Q1" pin="4" pinfunction="G_4" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="TP16" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="24" name="/HR_GL" class="Default">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="GL_5" pintype="output"/>
+    </net>
+    <net code="25" name="/HR_GL_LIM" class="Default">
+      <node ref="Q3" pin="4" pinfunction="G_4" pintype="input"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="26" name="/HR_SW" class="Default">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="S_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S_3" pintype="passive"/>
+      <node ref="Q3" pin="5" pinfunction="D_5" pintype="passive"/>
+      <node ref="Q3" pin="6" pinfunction="D_6" pintype="passive"/>
+      <node ref="Q3" pin="7" pinfunction="D_7" pintype="passive"/>
+      <node ref="Q3" pin="8" pinfunction="D_8" pintype="passive"/>
+      <node ref="TP14" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="SH_6" pintype="power_in"/>
+    </net>
+    <net code="27" name="/INV_ISENSE" class="Default">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U3" pin="10" pinfunction="PA3_10" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/INV_TSENSE" class="Default">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="PA5_12" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/INV_VSENSE" class="Default">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="TP18" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="PA4_11" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/NRESET" class="Default">
+      <node ref="J1" pin="10" pinfunction="~{RESET}_10" pintype="open_collector"/>
+      <node ref="U3" pin="6" pinfunction="PF2_6" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/STAT0" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="PB3_27" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/STAT1" class="Default">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="PB4_28" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/T1_C1" class="Default">
+      <node ref="J2" pin="6" pinfunction="Pin_6_6" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="TIM1_CH1_18" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/T1_C1N" class="Default">
+      <node ref="J2" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="TIM1_CH1N_14" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/T1_C3" class="Default">
+      <node ref="J2" pin="8" pinfunction="Pin_8_8" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="TIM1_CH3 (PA10)_21" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/T1_C3N" class="Default">
+      <node ref="J2" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="TIM1_CH3N_16" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="3V3" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="K_2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VTref_1" pintype="power_in"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="V+_5" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="VDD_4" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VCC_5" pintype="power_in"/>
+    </net>
+    <net code="38" name="12V" class="Default">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="GVDD_1" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="GVDD_1" pintype="power_in"/>
+    </net>
+    <net code="39" name="GND" class="Default">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CA1" pin="2" pintype="passive"/>
+      <node ref="CA2" pin="2" pintype="passive"/>
+      <node ref="CA3" pin="2" pintype="passive"/>
+      <node ref="CA4" pin="2" pintype="passive"/>
+      <node ref="CE1" pin="2" pintype="passive"/>
+      <node ref="CE2" pin="2" pintype="passive"/>
+      <node ref="CE3" pin="2" pintype="passive"/>
+      <node ref="CE4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="GND_3" pintype="power_in"/>
+      <node ref="J1" pin="5" pinfunction="GND_5" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="GNDDetect_9" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="S_1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S_3" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="S_1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND_2" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U3" pin="33" pinfunction="VSS_33" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VSS_5" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND_2" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="GND_3" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="PAD_9" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="PAD_9" pintype="power_in"/>
+    </net>
+    <net code="40" name="Net-(C2-Pad1)" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(C13-Pad1)" class="Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D1-A)" class="Default">
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D2-A)" class="Default">
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D3-A)" class="Default">
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D4-COM)" class="Default">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="D4" pin="3" pinfunction="COM_3" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D4-K)" class="Default">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="K_2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D5-COM)" class="Default">
+      <node ref="D5" pin="3" pinfunction="COM_3" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U1-BST)" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="BST_1" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(U1-FB)" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="FB_3" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(U1-SW)" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="SW_6" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U4-BST)" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="BST_1" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(U4-FB)" class="Default">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="FB_3" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(U4-SW)" class="Default">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="SW_6" pintype="input"/>
+    </net>
+    <net code="54" name="VBUS" class="Default">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="CA1" pin="1" pintype="passive"/>
+      <node ref="CA2" pin="1" pintype="passive"/>
+      <node ref="CA3" pin="1" pintype="passive"/>
+      <node ref="CA4" pin="1" pintype="passive"/>
+      <node ref="CE1" pin="1" pintype="passive"/>
+      <node ref="CE2" pin="1" pintype="passive"/>
+      <node ref="CE3" pin="1" pintype="passive"/>
+      <node ref="CE4" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="-_4" pintype="input"/>
+    </net>
+    <net code="55" name="VHB" class="Default">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D_5" pintype="passive"/>
+      <node ref="Q1" pin="6" pinfunction="D_6" pintype="passive"/>
+      <node ref="Q1" pin="7" pinfunction="D_7" pintype="passive"/>
+      <node ref="Q1" pin="8" pinfunction="D_8" pintype="passive"/>
+      <node ref="Q2" pin="5" pinfunction="D_5" pintype="passive"/>
+      <node ref="Q2" pin="6" pinfunction="D_6" pintype="passive"/>
+      <node ref="Q2" pin="7" pinfunction="D_7" pintype="passive"/>
+      <node ref="Q2" pin="8" pinfunction="D_8" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="56" name="VIN" class="Default">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="EN_4" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="VIN_5" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="+_3" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="VIN_5" pintype="input"/>
+    </net>
+    <net code="57" name="unconnected-(J1-KEY-Pad7)" class="Default">
+      <node ref="J1" pin="7" pinfunction="KEY_7" pintype="no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U3-NC/PA9-Pad19)" class="Default">
+      <node ref="U3" pin="19" pinfunction="NC/PA9_19" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U3-PA0-Pad7)" class="Default">
+      <node ref="U3" pin="7" pinfunction="PA0_7" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U3-PA2-Pad9)" class="Default">
+      <node ref="U3" pin="9" pinfunction="PA2_9" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U3-PA6-Pad13)" class="Default">
+      <node ref="U3" pin="13" pinfunction="PA6_13" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U3-PA10/PA12-Pad23)" class="Default">
+      <node ref="U3" pin="23" pinfunction="PA10/PA12_23" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U3-PB0-Pad15)" class="Default">
+      <node ref="U3" pin="15" pinfunction="PB0_15" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U3-PB5-Pad29)" class="Default">
+      <node ref="U3" pin="29" pinfunction="PB5_29" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U3-PB8-Pad32)" class="Default">
+      <node ref="U3" pin="32" pinfunction="PB8_32" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U3-PB9-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="PB9_1" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U3-PC14-Pad2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="PC14_2" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U3-PC15-Pad3)" class="Default">
+      <node ref="U3" pin="3" pinfunction="PC15_3" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U5-NC-Pad1)" class="Default">
+      <node ref="U5" pin="1" pinfunction="NC_1" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

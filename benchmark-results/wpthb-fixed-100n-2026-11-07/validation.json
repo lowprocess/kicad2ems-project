@@ -1,0 +1,95 @@
+{
+  "status": "passed_at_selected_resolution",
+  "cases": [
+    {
+      "frequency_Hz": 90000,
+      "target_W": 5,
+      "load_W": 4.98272,
+      "primary_rms_A": 1.26383,
+      "efficiency": 0.9024054774986693
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 30,
+      "load_W": 29.9926,
+      "primary_rms_A": 3.08666,
+      "efficiency": 0.9180606355336535
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 20,
+      "load_W": 19.9981,
+      "primary_rms_A": 2.52345,
+      "efficiency": 0.9161746960358255
+    },
+    {
+      "frequency_Hz": 90000,
+      "target_W": 10,
+      "load_W": 9.98924,
+      "primary_rms_A": 1.78679,
+      "efficiency": 0.9108903881415042
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 5,
+      "load_W": 4.97637,
+      "primary_rms_A": 0.926288,
+      "efficiency": 0.9145385882974192
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 30,
+      "load_W": 29.9477,
+      "primary_rms_A": 2.25103,
+      "efficiency": 0.9347667482644935
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 10,
+      "load_W": 9.97848,
+      "primary_rms_A": 1.30741,
+      "efficiency": 0.9246570487067332
+    },
+    {
+      "frequency_Hz": 110000,
+      "target_W": 20,
+      "load_W": 19.9685,
+      "primary_rms_A": 1.84236,
+      "efficiency": 0.9316488106359978
+    },
+    {
+      "frequency_Hz": 73905.3119636,
+      "target_W": 5,
+      "load_W": 5.01921,
+      "primary_rms_A": 2.40832,
+      "efficiency": 0.7849147418711241
+    },
+    {
+      "frequency_Hz": 80766.0855747908,
+      "target_W": 20,
+      "load_W": 19.9988,
+      "primary_rms_A": 3.61223,
+      "efficiency": 0.860855642849164
+    },
+    {
+      "frequency_Hz": 82675.14409558907,
+      "target_W": 30,
+      "load_W": 29.98,
+      "primary_rms_A": 4.08555,
+      "efficiency": 0.8790742293944553
+    },
+    {
+      "frequency_Hz": 77450.0,
+      "target_W": 10,
+      "load_W": 9.99839,
+      "primary_rms_A": 2.93604,
+      "efficiency": 0.8250669860511337
+    }
+  ],
+  "scope": "Electrical circuit with filter and parasitics; ideal PCB interconnects; frequency sweeps use fundamental link model",
+  "limitations": [
+    "Some nearby frequency-only settings fail ngspice convergence.",
+    "The 10 W point at 77.45 kHz passes selected-resolution checks but its halved-timestep run failed to converge; timestep convergence is not established.",
+    "Continuous curves are fundamental link predictions; generic transistor/loss models and ideal PCB interconnects."
+  ]
+}

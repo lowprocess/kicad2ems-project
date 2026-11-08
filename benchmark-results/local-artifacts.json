@@ -1,0 +1,4085 @@
+{
+  "description": "Locally retained generated artifacts; files are not uploaded to Git.",
+  "files": [
+    {
+      "path": "cm5-mesh-2026-11-07/board.json",
+      "bytes": 11029375,
+      "sha256": "cefdec0d96b22d8c8b3cf752091993963a7eee94bd12af34120a24220a98ccc1"
+    },
+    {
+      "path": "jetson-gui-walkthrough-2026-11-07/U13/mesh.npz",
+      "bytes": 62903,
+      "sha256": "658d71ab515c8da7401542f6b88bf939bb85125c62d3876ffc2634ed74325ee4"
+    },
+    {
+      "path": "jetson-gui-walkthrough-2026-11-07/U13/mqs/exc_converter/dump_H_topp1mm_fd.npz",
+      "bytes": 14411,
+      "sha256": "179ca20c1b61898e46c41b8030ae17928bc3b579fcf218a6f5a8352ead5027ed"
+    },
+    {
+      "path": "jetson-gui-walkthrough-2026-11-07/U13/mqs/exc_converter/dump_H_topp3mm_fd.npz",
+      "bytes": 14358,
+      "sha256": "c40b6976d52b2ca1164cf293953aa22a7e7486160a7c15fb5e6c1c1accc655d9"
+    },
+    {
+      "path": "jetson-gui-walkthrough-2026-11-07/U13/mqs/exc_converter/dump_H_volume_fd.npz",
+      "bytes": 27535,
+      "sha256": "3aa5c09e1709a163e663b911f0eb511089ec6a6355a7db6139117c93cc6199a8"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/mesh.npz",
+      "bytes": 62903,
+      "sha256": "658d71ab515c8da7401542f6b88bf939bb85125c62d3876ffc2634ed74325ee4"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/mqs/exc_converter/dump_H_topp1mm_fd.npz",
+      "bytes": 14411,
+      "sha256": "179ca20c1b61898e46c41b8030ae17928bc3b579fcf218a6f5a8352ead5027ed"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/mqs/exc_converter/dump_H_topp3mm_fd.npz",
+      "bytes": 14358,
+      "sha256": "c40b6976d52b2ca1164cf293953aa22a7e7486160a7c15fb5e6c1c1accc655d9"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/mqs/exc_converter/dump_H_volume_fd.npz",
+      "bytes": 27535,
+      "sha256": "3aa5c09e1709a163e663b911f0eb511089ec6a6355a7db6139117c93cc6199a8"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/mqs_mesh_mqs.npz",
+      "bytes": 83428,
+      "sha256": "3881d9793121b63a740a31104ba2986bcfda37a723fd8713659941cce9db6423"
+    },
+    {
+      "path": "layout-preview-2026-11-07/jetson-U13/preview/mqs_mesh_mqs.npz",
+      "bytes": 83428,
+      "sha256": "3881d9793121b63a740a31104ba2986bcfda37a723fd8713659941cce9db6423"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-0-8cycles/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "0c9c86b4bfa98b30067ac78035fee6a4e743c0fe6569b23b8021f4cdc7406e42"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-0-8cycles/port-spectrum.npz",
+      "bytes": 12729,
+      "sha256": "37f9d0f30fdc85c469dc55041343d180e13097252dd9ea91c4d247419d068e92"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-0-8cycles/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-0-8cycles/transient.npz",
+      "bytes": 1758929,
+      "sha256": "782c8c6bdf25a7177c42f506a33e6b77b9dfb14e82dea3de928b052f56fe7700"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-1-8cycles/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "761e41a4a781a7a9170e810be93ac10707811c108b7a9e600172f9e7f90f4387"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-1-8cycles/port-spectrum.npz",
+      "bytes": 12729,
+      "sha256": "37f9d0f30fdc85c469dc55041343d180e13097252dd9ea91c4d247419d068e92"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-1-8cycles/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-1-8cycles/transient.npz",
+      "bytes": 1758929,
+      "sha256": "782c8c6bdf25a7177c42f506a33e6b77b9dfb14e82dea3de928b052f56fe7700"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-2-8cycles/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "e12ad1cea2acf2212ba666f0adaabb26ed6e333aab0cadcd5b8140411e9d29fd"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-2-8cycles/port-spectrum.npz",
+      "bytes": 12729,
+      "sha256": "37f9d0f30fdc85c469dc55041343d180e13097252dd9ea91c4d247419d068e92"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-2-8cycles/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-2-8cycles/transient.npz",
+      "bytes": 1758929,
+      "sha256": "782c8c6bdf25a7177c42f506a33e6b77b9dfb14e82dea3de928b052f56fe7700"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-3-52cycles/adaptive-ports.raw",
+      "bytes": 109286519,
+      "sha256": "bcdf10aed3e004bf451b2ce2b8c59c222067bf513683a169e8aad9a6d8dd6eb2"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-3-52cycles/port-spectrum.npz",
+      "bytes": 12908,
+      "sha256": "afec2b7b2b29e746e8fb9ac7a3a7bf5496628cade0e847655df9f1c9948c550d"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-3-52cycles/transient.dat",
+      "bytes": 24511074,
+      "sha256": "665a867fdd09e45dc5f1a92b2202b455b557c4438c1b9e12a7d7a18827b5eff7"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/after-3-52cycles/transient.npz",
+      "bytes": 11133181,
+      "sha256": "3599f31c5dfac2196ff21b235af30b609cc9af9e06c264a652a70781b0086346"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/copper-reference.npz",
+      "bytes": 58948,
+      "sha256": "aac11060519f5e5d8eed549b5507c865ca0cb82f36ba3d4007b286d737603ee5"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/emsdev-before.tar.gz",
+      "bytes": 35522,
+      "sha256": "32c0584ff1149f1802f30c354c15e58f54ae4518439a7a2e04c6d9df0260bd32"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/install-local.log",
+      "bytes": 1084,
+      "sha256": "4016b00bd679b935d86d8f958f2a94b298a688be333f24ff13aed1e74cc066da"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/installer-tests.log",
+      "bytes": 99,
+      "sha256": "b1eb6abf9e348ecbf135268790ce41a3309300c1c62afbc045ef987b2ea247d9"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/isolated-install.log",
+      "bytes": 6520,
+      "sha256": "690073bedd9a1c3fb86ccfde3d7be2cdd60fb0a5a53ffd746e019fabdeb6fa86"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/kicad2ems-before.tar.gz",
+      "bytes": 1656001,
+      "sha256": "9a7fbcafe407c49daa87360baa406702b67dedf80537d2223c5f9e1685837396"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/kicad2ems-gui-before.tar.gz",
+      "bytes": 187722,
+      "sha256": "8e92f7b7c9f96a38d2f8d5fa5beea61a7d906bc38869ec76b07ddcf46dd59d68"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/magnetic-reference.npz",
+      "bytes": 24274,
+      "sha256": "85325fb72f7cac6330a24a96d83f1793a47525da3f2cf0b3d44a26df8f3e9ac8"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/mom25d-before.tar.gz",
+      "bytes": 567057,
+      "sha256": "353b9028b34296889f08892121769ab0ad7ec99509af24ce37b115574811e97c"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/publish-final.log",
+      "bytes": 592,
+      "sha256": "a5aa9a9a5f9f7b7f595f9bccccde0bb0ea92db195c37bf762db75c36dc391248"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/publish-https.log",
+      "bytes": 107,
+      "sha256": "7e5d418b3a7276fb3bdca2ffb6a76c53af40a2a1c2b6c3df9d6a1f56c49bb303"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/publish.log",
+      "bytes": 1272,
+      "sha256": "d8302df0f635076e55d966b5c98d3f416899dac3d161c0e77e06009c97e9e9ee"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/refresh-editables.log",
+      "bytes": 4318,
+      "sha256": "2f0506deb0a36ea211b31c2fa4b119620fca3828eb034373f309f190d92a8a7b"
+    },
+    {
+      "path": "pcbqs-split-2026-11-07/spectral-reference.npz",
+      "bytes": 3888,
+      "sha256": "563a1190cbc355c0911923bf36790828524103a5bea46157803e0fa4a447c37d"
+    },
+    {
+      "path": "roadmap-2026-11-07/jetson-board.json",
+      "bytes": 125190990,
+      "sha256": "c1bb5e4046401be21f2edb2cf25408e9f7ae53bf581aaff6e3ef9bc784b09a41"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/edited-simulation/110kHz_5W/transient.npz",
+      "bytes": 5915345,
+      "sha256": "8f30c9847519f58bf754e2976790f55c1acaa0cfc010bfdd784e9c25a09cb9e5"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/wheels/kicad2ems-261107.post2-py3-none-any.whl",
+      "bytes": 311089,
+      "sha256": "84355e5794290bbba5720de163e9e6fe1419c900eb72e45292ebee7c1e840573"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/wheels/kicad2ems_gui-261107.post1-py3-none-any.whl",
+      "bytes": 181874,
+      "sha256": "11a2df9f7700b83dad10ee7c8f2b4920b764f18e1c36695584fb1dfd12718b11"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/wheels/kicad2ems_gui-261107.post2-py3-none-any.whl",
+      "bytes": 181875,
+      "sha256": "08fb9adfdd1570598e808161aedc032f9f130e0d3d75ec7e4eb03860c86337b7"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/wheels/pcbqs-261107.post1-py3-none-any.whl",
+      "bytes": 140235,
+      "sha256": "2117fa990fe902a70948881ab7529abbddbd20ec8824ced843bf3ecb72580706"
+    },
+    {
+      "path": "schematic-editor-2026-11-07/wheels/pcbqs-261107.post2-py3-none-any.whl",
+      "bytes": 140236,
+      "sha256": "c9e3874d16d52aa8d159afd0d16813175c6655291c616e46f83dd351608c15ec"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/adaptive-ports.raw",
+      "bytes": 109035119,
+      "sha256": "4ba9a59beac09a52e1efd2c6d76d90a94de142aaab7df22bc8df131e49defa06"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22876,
+      "sha256": "4c9612817ad60248c482d4e9424105f35f1228352c463847085a7a19336dee0a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22795,
+      "sha256": "c3c6e3c9c8241856c542a987079fff89f3b5a217a955d27a6e37c17788d4e7f5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22773,
+      "sha256": "208e6992a925928f00105ca52c44cd7d95247e31a829cc64a4e1d83840e29bc7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22705,
+      "sha256": "3cae8936912f37dd6c69eab2e5dc4037cb6eddb75993300ec8647f16653f90a9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22711,
+      "sha256": "90ac34048eb7616bdbe631bad1f464e733701d89293042ec00ec3e998be5c2db"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22673,
+      "sha256": "ea27c760b6d3ca1e422bdf524a96ae06560652d15caad81e141ef0983e9db11b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22638,
+      "sha256": "ce1a59272fd99965a38c54024dc6b598619ba4882d2c4e3c1dd436952e93dd63"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22650,
+      "sha256": "d15e14ab200da6167b47a9ca785424050b63958bee0d485505f56b4e121a4062"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22680,
+      "sha256": "325ccd74b61658dc3b96670f4989afdd12db9e56c3d0303e9e9ed4cb4d837e5a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22741,
+      "sha256": "9f52e3c297705c09080fd3b066ba0273652f83d4af6e5ce4301a23087d6549be"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22788,
+      "sha256": "38e34d99313ca482c33d2f6d47a12eaaf5658e9c5aeac8c8a34460fae2b41d3d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22830,
+      "sha256": "fcbf9e04c97093262e23a02376868ed2d4e3849af35e9b8810e3674341c37e04"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22830,
+      "sha256": "d5417dcabaa045ce4186f0867e615e648abbf76916e9713679927c18a916e790"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 22867,
+      "sha256": "768f6b7986fd7b3a7c477f2b2e4503b829d963805099bf61dc446d3658bbf4e1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 22908,
+      "sha256": "b71c21dbe6764a31bc6537c04c420fb6f2af331437ca8e9b6b1fb206e54cab11"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 22934,
+      "sha256": "00c92bf5bb213499d1821ba0c6d0d5ee55f75142ca3ffca51d595e82f618f039"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 22982,
+      "sha256": "d18560565a243da14b6f5abd734c973c0fc4dbc30e736f42749b40e44e0af20a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 23025,
+      "sha256": "3504a9b0c155f0276da2dbd7e8c3740c2c1c558685a39cc6b9a7b6042a73e035"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 23057,
+      "sha256": "002744df0949ac8486dc6c8de8b903f72c373839d1b943f74b04da138cb2b231"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 23099,
+      "sha256": "667bd0769403ab69560884832adabb550a344d732656afcae7e8fe1bc96fec89"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 23118,
+      "sha256": "7e69539df319073b99e5ab7865ca61983fc3cd7c27d8654c56772e7b1557edc1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 23161,
+      "sha256": "c45b380a00fae2efbe1d5d60b8db8348ccde7d0710373cf7f85bd6b630305020"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 23210,
+      "sha256": "c966dd541021db7b2771459b276e6151d45ef36503af95c38343098798ab5f9d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 23246,
+      "sha256": "cd86de75b90049a62ff2325dddccda5f06d4ec16beab1bbf109653b8c1c619f0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 23276,
+      "sha256": "794e412116255378bac005ecb3ff07eff15673c6ce0b209710364485c9e0c11c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 23255,
+      "sha256": "0e6997f54549966009a391c8e28ba5bc6a90df8f3270bf251769037053aec239"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 23218,
+      "sha256": "16289400d26ba73346062496b884673373a947b980befe8bb6330a64dc23688c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 23193,
+      "sha256": "40623262376a567b0c4fdf6f5b23df27ef54cc6d8a7e11f24941c9fc6927ccd5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 23192,
+      "sha256": "55192ad47fd61c20f73e99955e615390a3fb0cd44612dc4f7817c6fb7a341378"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 23123,
+      "sha256": "01bf4c6ca46806cb9a42723a15fc540ca7dc62b1ffd60183693633ff7fd4f017"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 23091,
+      "sha256": "54090e033967ff58a3c8548ca0f1f37ea4b3043c6d86fb24bf7552a7a37c96a5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 23078,
+      "sha256": "38e2b551a6a3cd105471a08cc3e00761606bab8534bdabd2d26941ee918e1f41"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 23055,
+      "sha256": "68ae90699e1153d614bd4cf4235bcc6157c6b8e4af5a9dd1d84772ca55afa857"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22935,
+      "sha256": "251d267696e9c165d790e18516b144de73ec39bec02cc8bcb1c3f8b38bd8ceb0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22837,
+      "sha256": "350c404aeb4cf4953e7977a38a4c96d049e4b26c6d45e6583de67eb6759ff6b6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22752,
+      "sha256": "182923564e1132029955d4779146ddff02917199c031602701a47b2ff4d1a26d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22682,
+      "sha256": "85880e09a6e6016a52800d92e55dbeaee5f713f7aec5b1cb90a3719152987aa9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22671,
+      "sha256": "87c91126e8787c513302e47c7d9759f261e1031c2b3aae07d963f67d84ff9725"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22613,
+      "sha256": "c6053ae8d9694f563b018b7d14d22a3493f36fa452a91b629165cf886411062d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22580,
+      "sha256": "0574ba8c5ad9ab8a4df728b3060fb6d8b480f0300032f3938e8cbee996d1532d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22536,
+      "sha256": "44f20340b6f237629f994a884c3c20eeaf0dfc29348ba079ce05cc5dd4991b75"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22565,
+      "sha256": "807a4fe7e2deaf3ab0fe0cf78698d795e9d2dea7297627fb744f0599ce07d4c3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22568,
+      "sha256": "7570b069379ad9920d2b5591674e49b946e9f272cb54a40124d013bac84efb76"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22553,
+      "sha256": "15f1dd304eb16b4bbb7aa99997f9d96770ae179bc4e510d27908a8ed52a36d0a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22534,
+      "sha256": "124c6b3f3cbaf82ec121961912288c367f3a6b2c92d1cf526fafb205ff242739"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22519,
+      "sha256": "cf99abc8f4cb875110107665fe4a3d02568e0b98de4933dff79381a3429f5d62"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22566,
+      "sha256": "ca755f5b0861cbd425077fba623eec90e8ea800c86503cc6e6c6b542fda6c19e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22548,
+      "sha256": "02beb9ea9a3e41786bbb257111c3379b85225449ab61591b7fe1014f9a975e03"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22561,
+      "sha256": "d664f2eb53495d9478cf40f59b038eff05f1487ab16d53c88e1d72a82965cd56"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22580,
+      "sha256": "239518a8f7e523363b49f0bf871502aa04db3389fe9c68ed9debd08cdf846ea2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22574,
+      "sha256": "9a411a724452f78a1a2c52cea1196d8b93a02b8660d92b7d994e7beb0391712f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22581,
+      "sha256": "a9b7a46e8424bd993b0245ee56169f9c65f7fa61cde8db478b731c33b76743b2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22623,
+      "sha256": "763fe1bc36ad68e546cb8bfcaf14f4fc5e2b9266032eb474a4d2ad258cca6dcb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22618,
+      "sha256": "6f7c18b5ef5f68046009363aaf6734c7d93257583f46a6d1a7143beac6dd37a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22642,
+      "sha256": "aaf2d5401d834bb135821fb860e212a738fe559e92b08666bef8414a24e732e8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22707,
+      "sha256": "cc9f46dadbdd74c264848011bcaea84c231bd31e147bb8ecc473da5c2f20fc9f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22822,
+      "sha256": "1a97442e420b833007e3549d52871a4b825f18dc8264680c3604db3efb413a75"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22913,
+      "sha256": "5f5ab9f683d084b4d5e825f41a1f401557b962b6363d618dff78aada331c20bb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22988,
+      "sha256": "290c65fdbdbc7b8fba94cac2683ced29e16e1794e291338162384984dabc6864"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22939,
+      "sha256": "39a5b37ea3c3a6df29d07ea0195b875f8e527dcd4f967e4817647250575dff28"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22855,
+      "sha256": "8e00cf657b01f884e9a63c7b29b8183e6b51650fad923655640fca9babf1deff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22863,
+      "sha256": "352840bb475caafbbabfe426107af20ea40e8059cb5c14cc067ade4d5c6991ca"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22865,
+      "sha256": "3d32dd7edd6c802b1316ab1647f8a8cd8b81c4752ed661d365186bab9975e78c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22888,
+      "sha256": "c3595020383c514115eba33856851b3c1069a17c320f505b988a2846ae3f3924"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/phase-pilot/transient.npz",
+      "bytes": 5973009,
+      "sha256": "19fc960935e683384f44500a544e7750d2c793d49b1c90e9947379d4528a7b20"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/port-spectrum.npz",
+      "bytes": 12910,
+      "sha256": "1f34f8ad09ea28fb050308e74e80278ad687c7d334fedfa8b5c6268337cc21ca"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/time_fields.npz",
+      "bytes": 2848766,
+      "sha256": "b849403dd1f4fcbd376402c9da39dbc03d0e50847f8c0d61a65ea65afd0d08c2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_10W/transient.npz",
+      "bytes": 11080751,
+      "sha256": "d1b9d03c6ba4197447cc850089d93018b55cab34727620bdd12988b7a1881e0a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/adaptive-ports.raw",
+      "bytes": 109939919,
+      "sha256": "fa4882f77e821f6356ee5ee6984c2e26217538193bcf8d1a86b56018b6abbd6c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22716,
+      "sha256": "b8d9c86f2fa35123acb0faf6e168f224040d9732b20610104049c84950884539"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22673,
+      "sha256": "e7d83912572a5bf53ec6b994c4003efad2966b2b1bd29b9080095272e000daf2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22657,
+      "sha256": "a84c6ed2510e93a32a7b6a1be4437356f08c6a2ab90c9cf1d93e930486decc1e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22627,
+      "sha256": "efb8b05b0e253dc52704a4a2dd13fdfd31bb1738b755c4950452bb0fe17d5793"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22641,
+      "sha256": "08ff414cfa3b51a66866fa26f9c718a6330c1de655525495d4d6ffa980f6f9ce"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22642,
+      "sha256": "5cc1cbc44d9f45edf0e5fe7f76a53abace45b787a017f19e8ddf4b0bf0121f12"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22646,
+      "sha256": "fe78cec86f8a6dd9e1e23aeccafc1ea0a758fdeed88d85aec84b79e3f729a552"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22675,
+      "sha256": "ad9e404fee898529f96ff58526744d04a4e2e45d861c13b30c5b3271fc3e4de5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22612,
+      "sha256": "90416a1fb7a1e0b34ffaedd1fb4f3514974224efd4a6d6b5d8a1e0ea90c3f5fb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22588,
+      "sha256": "6ef1ef50d625e1cfeeaf6ef6595688be1dfc2d8d60b72d53f2059b4a7f1db1a3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22626,
+      "sha256": "e5045d061a29df8e2aa527140bd2c2f9aa7a2723f65776c3e3f74e24431d6644"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22652,
+      "sha256": "efb8bf570804b15fe526340e6bb61babc43546faabbc14a7e9a44b45df0a94b3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22665,
+      "sha256": "b00d8a4c11b1c5cbf3e554cedbd337e48838b94a4ee50cdb04c62d6ad686b04f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 22672,
+      "sha256": "f2ddc9185c8e8de05bbe0f1dad68e35db88aecd57b700153934c78ed84f1549d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 22717,
+      "sha256": "06f2eddf9cda2c1512d290fb0801b5a2a749de5e8957766e9e44910bea1d2c65"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 22734,
+      "sha256": "c056bdb14c7bdf0e476010a3473d7ec855cfd87694b41b1daa0d6548a3b7aa59"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 22773,
+      "sha256": "2a379554e091130340e7593bc3bf679c6784d8b40cab1a698a09fd4f3fb12a7d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 22775,
+      "sha256": "5739d87c4eea54d692a893d9e2541d6e311fd1da914cd62c24fe5d27fc129692"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 22824,
+      "sha256": "c83f978daa8d2c75733e4b1ae8aeaa32406b2ec776e9dafb6b0a101e83559273"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 22889,
+      "sha256": "0dfe65f6acdfedf4ca65da3d339c08cb8813fe483f0551186a0882dc079d6804"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 22915,
+      "sha256": "a85af7bf8dd2c2ec6873530d5a44980f8c31b3f4b4bf862170cb6e6287d409c0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 22937,
+      "sha256": "deb8b0eb36195a2fbdb7d204ef9f97e622f9b85a3116de736ee661276eb34002"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 22982,
+      "sha256": "301cff163df0d2bedb802c2194e6360c1908e0e2999da818315881bb5fa51a9b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22989,
+      "sha256": "05ac5625c88d5689957c8e502ee316450c578d867de3c60f600d39e6b83a6f6f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 23037,
+      "sha256": "92329673de413fcddf410d2b6e0cbc3ac2f36c677e9b67a62050a2f7b9910268"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 23037,
+      "sha256": "7090a4ee0f23f43d542c8eb3b79765e409b643c3180a85f1429cf9a9c3e0992a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 23066,
+      "sha256": "734214620511a84dc1df80e5fc7271d34ca0ebaf9183e83cf55fc683cf2b079c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 23056,
+      "sha256": "ba2cb8c7feb98586620f6ac4f8c7e2c9f9c2d59d90d610d5b462c0c9d35b7eed"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22950,
+      "sha256": "53ff4e0ae38ff36af6c4c8dd90073fde137c366257cfdb827b0669eecd45b5c9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22984,
+      "sha256": "04b0d1df219e3c3f24039de06e9367e0465025bbf3983c2a16858319594284cc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22982,
+      "sha256": "e574d0f15ea92934266ccc81d6df71c8e16b90c60e88f03bef17093bb0f16300"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22944,
+      "sha256": "adf9615fc64f2c8abcdda7f06344c205384ce3bcfe3b88ef64cfad75f4070ea9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22864,
+      "sha256": "3e8e20d726c2a45a1b01cdbfb13a9591f19e418aa42a66db43499cb68bf98ac0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22816,
+      "sha256": "ed234b9ba03234c7c053dfec5f6e2bb70c1a39e702c0af3121ed72359e2f8843"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22701,
+      "sha256": "a73d9ab8397604fefb4a0ecade097c60fe552b3fb3cb238503de872bb19e61db"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22664,
+      "sha256": "749c93d664831d928048fd4dfacf6d11ab0fbeb9d6a5bf0842cdb2770f028484"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22637,
+      "sha256": "e1fde6a5837eca954dba64195d05ea6a8c23848517c8522b928e3aa571f0d266"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22574,
+      "sha256": "61bdcea0c972f137950d2cfd471365c98a9f93a78aa04f56be573cc465f33b09"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22558,
+      "sha256": "da0aec27dd1be62d394e688a02781256a53a0169352ce26acb1c404415884b8e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22555,
+      "sha256": "e12a708d1fd867476d0d69e565c8b24fbd4f5a7537346745bfebb099d488c7f3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22500,
+      "sha256": "0f615bb32c901add72c352bc602eb225908b07f69a5332683c341b4c65c6eaa3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22478,
+      "sha256": "ececf58838bc608109727f21dc04adfbc6a455e6585d97a3f758d8ee03055f14"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22520,
+      "sha256": "619769ae7541349305c0702245546dad0614d90f38682f14a029b9a61556c617"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22457,
+      "sha256": "ad854bb159386576847c9eface05c938aec6f0ecdbd4884ba23a03e000adff35"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22463,
+      "sha256": "d2785debf30f863fdab6670ec21c013966c0d8d948d0194ceb40744573a15e52"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22470,
+      "sha256": "39723f0e1734456d67cf7ddcdc35bb4d2626803df6e1c3f4fc8330a94671d33c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22507,
+      "sha256": "3bd770e885fe8db81f58c326a022738a0cb4ad697092f11d7084bdfb4f68f13d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22485,
+      "sha256": "c34ed1a978847793ad48d37b47436485eaf563682473d62f3dfba50a63351b06"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22450,
+      "sha256": "bb4578de1ba7d4c55a019a02d73eef2dc097ce554edda7742de384e96503b2eb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22434,
+      "sha256": "5e3bdd5cfb13c8930e1bf2deaccddfb55835fd5bbe2ed75d52de094b290b58a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22475,
+      "sha256": "1bdeefc38bad03c63fc4d916205a1f03541106f724ec4d1bfa00a695f3ac0084"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22458,
+      "sha256": "86c90d74a1d3f48f6af87f31310a4d5733620319f0ee80ea39f6155d0bdc05c9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22496,
+      "sha256": "91cdd0c6f33f8368bb73b3c8bfd02e5dfab5b95f3e2de2dd9913ce6b55365dda"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22492,
+      "sha256": "0f870f8d650a476e33e137741d2aa5a29a173922be7dab73e9e74bef3da2a985"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22508,
+      "sha256": "96ef3da651605c7459bd4b444f03beb8777ba907f9483df8938b7152f5b2ef97"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22528,
+      "sha256": "c335836ab2fe57dd810ba300031a644a0118a8e8e7bc16f384dc333eafabe39a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22544,
+      "sha256": "0911e6467dd655ad757fa95071ba6c019ebf775d8ed0646d1cfdeeb4e7d896d9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22569,
+      "sha256": "894d5becf2a8a0395599496f1c5b2c7e8bdece9665380c68c9a9cc1f11ac6a89"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22683,
+      "sha256": "56572b8549e3024d6e47b1185a039422b00da1d5738e18bab5b792693243d2d4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22767,
+      "sha256": "7a84200e22f8a255e2fab92d0d4a924c071319cc182b2f7e24146a346578bbb5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22799,
+      "sha256": "2e187aed1eea5ef94018dfe3ed542e3472bf949d0dd8da7db3c5358ed5fd1645"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22784,
+      "sha256": "4640f8055c6f0e629fde77ba9138c236ab004a4d7c3e284c55f0b8cceb6fbe07"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22770,
+      "sha256": "759be5da04749a108c7af1c800c064b5695179efbcdd200706ff662c96f860e8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22762,
+      "sha256": "63c63f1d65856b657abdcf5ef8a9b69460d3d61f2a32cf5943b7991d0836e701"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/phase-pilot/transient.npz",
+      "bytes": 6011491,
+      "sha256": "e59e8c931866efb33c3cb610dc449d15028e396f18a9121a0fa7a5a5d688f05b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/port-spectrum.npz",
+      "bytes": 12980,
+      "sha256": "88b21a36ca9a3a5b32ae56ff78a8e25d432a53c6292f007e5d4ea7668a5f4af1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/time_fields.npz",
+      "bytes": 2845991,
+      "sha256": "96c4b3bc4bb331b9928326db058938027d87fc95e4341bd16d5f6fb869c4260b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_20W/transient.npz",
+      "bytes": 11123211,
+      "sha256": "b83a78cc42a040d66fc106c2e4cb16fd3de75e8d68769828ac702c588b3d400e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/adaptive-ports.raw",
+      "bytes": 110028519,
+      "sha256": "1b1aee304cc8520813850d7e4bcf3b8965c1cd2a69169af571a9dda12f18ccf4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22663,
+      "sha256": "1260d309f68682e334b6c4b123807d698de1ed4a5ab4b0ac80d8c6a18086fff4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22595,
+      "sha256": "387ab931ece5db4282ec640c006a5d0b7512aebc408b06fc903c270027d1da5a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22600,
+      "sha256": "2bf39f5fed54868c81fb928aa4e29eaee720314e38c80a51bb8cbcd3d5cf471e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22580,
+      "sha256": "075280993afd601b6d0870d6b9bc58c25795e464bd415160b630afc2fed4fa15"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22609,
+      "sha256": "11af3257e33fac27ce9cc192d2976b683c98bf0fd8edea55ddbbc6d866f652c7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22608,
+      "sha256": "eccf49716fc1a29f0a8c4bf9f7d69b38334212998cde67441047a8249bddf2b1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22602,
+      "sha256": "61a9d2d1db4047ecceb1c9451a7c2612e02f5dc4a88666c3ac780a2bd11fb809"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22572,
+      "sha256": "da0878b2df831ee76597a576f268a2889632036fedb4ad233dbe69d1a0aa22d4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22562,
+      "sha256": "b261387d6ba1adb5d03ea095131fce38e5a7a4471e1b22e63238847ecc396b28"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22610,
+      "sha256": "23dbf4de9e1087259fcfe7288e9d0c1d19005476e9f5143c01710dd85cd2dc4c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22616,
+      "sha256": "7f28fc6550fece20705e4a25e15625122adef06b97f96664444ff3e8db498d7f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22593,
+      "sha256": "3cd3250e55ce9b917470c3ffe9b6ec9602c2560817baa08d6de23bb01e12d2d9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22640,
+      "sha256": "7a2bdae43059d8ad62e5afd1e74a33d610b374d368a93e67650448f59b78ebc2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 22594,
+      "sha256": "03f4ac52666ebcb5f77f695826a3e4286d4abeb48bf6685926f74997df40cd15"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 22610,
+      "sha256": "78a9941043dda2cd7db5ccf31e499e0cc198a000521d408e207fa64eddb56929"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 22622,
+      "sha256": "f968fe90f61e5a6adc3813504e9a386ef93014b3f0dcf45a66c3ccfe4925a2f1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 22643,
+      "sha256": "89e16c389fe8203391b379fec8d5ce9a132335e73d8d1e4f86f5a959aa71a9d3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 22678,
+      "sha256": "3c6b1cf31ef2a3cea14d29b63e557f6439e52d8059972bc60567ad08cdb2ff6f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 22721,
+      "sha256": "5a198073fe814f4f4690061d5482c60378248455e2c83dac544f43efe6dce940"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 22740,
+      "sha256": "aaeb90c0756bf9287f67933fb71d582ea211ad67c3b95ff53631836cfa8ac04f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 22738,
+      "sha256": "df2b19648e9e1660dcfd1e0a321dfce9f63604b9190af8b11655249edc4c52ff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 22805,
+      "sha256": "42d8d48b272abe71418f8dbb3f9967369754f5ec15d275b630ae14b0939b9b3a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 22834,
+      "sha256": "696e064102046b951e7c071383de6e974995e808dd9715a9f1f3017c7005d70e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22890,
+      "sha256": "c9df0c4f540953a465bcdd6a80208019168bc9f4dcde812ecbf326ba3e61b4e9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 22896,
+      "sha256": "96a5bec645d438fa1eff957a4abebf7812d97619b364a7fc37f341a81fe3b94d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 22924,
+      "sha256": "810a658ee0243ebcf5675333a0d62c39f00d778ed3d7e78101c2099052b22375"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 22924,
+      "sha256": "394eb58206238d581b47affcc317f1bf3461892d27da8bd8822fbdd44f13db27"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 22985,
+      "sha256": "a2394e41b35637e03e8ecd29ef35b5ea826b7eb06abed535811314dbee077f60"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22975,
+      "sha256": "f01a67cb2d748168be3b229ef75b3776bb939ab183cd0f6a530594d74ef52e15"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22925,
+      "sha256": "7525fb1278c2ee50ab74f2a7096428da74e8aa02e6a42ae025758e364cb2da2e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22924,
+      "sha256": "3ecf1b0da0e16d0b9a37cc6c67c7d64afad466351f9e704fe52d9c3e9e38af59"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22889,
+      "sha256": "e75ae46889f9d67e404f5dced11d97a3ccead7015224c665e12228178b270bd5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22857,
+      "sha256": "932642c27401e0cec8ef51b71b7bd145e0cbd68f5b9e2398e477350c17e88ba0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22800,
+      "sha256": "33167f58e84e1587d2186f3e32625b879cb54becf0530c43474b9bcbe7d0623d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22705,
+      "sha256": "968ba929ee6991cd2dff39757b39d682320877d6dd58e4666b9455c52df78dbe"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22660,
+      "sha256": "a06a49180e3f9b11dd88fcb37f4fe6f2784991ff426961151c0c0c08d7bf3c62"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22631,
+      "sha256": "226629c8facb4b93a21187edcc5c659ecdd0114d795596d37716cf2e2d9f861f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22599,
+      "sha256": "4e467ffc771fcc1be66030650958a90fc808495d612a3a18facfd0f595f357ce"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22506,
+      "sha256": "5968727ee224b608da2368fb3056dc5b1c82218aae18387323552da7fae0f8bf"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22527,
+      "sha256": "02f11baafd58a25776f2b8b75f7bce90e9c7e72ca56cfac56c88a3d34f580487"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22532,
+      "sha256": "8b37d3f73665b3231ca5201f0e75b68dde4dfe2261ad4df2c884f0e752ba70b4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22497,
+      "sha256": "259a75dfc95521ea693c8c9f322453ed7c88749a4e9cc40ec09c60372dd48fa6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22490,
+      "sha256": "e6b26f106f8a338f41e4a6bf7f662db2ecc6bd94ba02903328b5b24f61935c8f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22470,
+      "sha256": "3f78feea6294320cee6bc30c66b9c799848f74c3772bf92f697a9349b6819d88"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22450,
+      "sha256": "4ff0ed2189dba8f189778110e762a6ab80a0c46da3c332f11330eda5bc17cd3c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22441,
+      "sha256": "cdff041bf8938eef106baf18d319cda9d07e63ea29788719e49da16078929186"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22409,
+      "sha256": "1923f20020d96802237ed8455e18a2c53b92c8e0f203b9c31cd48f0e2cb17cdd"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22428,
+      "sha256": "08fe4e11b89d22aedc9068c3025cc95ff26919876f9851ba6ec127ffc8a615ba"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22441,
+      "sha256": "0718b36c83810ddcfcb26116ce3c6877229fcac7fb2171c4e3fbf31a42dbc1c8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22450,
+      "sha256": "9e396881e16cd290622316180d6a50a7bdcfbce00669f01a9703a3cf5d1a17f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22468,
+      "sha256": "392d7f8e377f2ca5ed4a01cd3adfbe76f9e3d56fe63783b17011bc2bcb0ee891"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22426,
+      "sha256": "f5fa0175844523d24180925896eac55d0e3405264853bff702804b4c3645bd8c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22440,
+      "sha256": "41c725b6a91ee2dafcce94d1a2ef769238390ee01a5db14d5ac61e9807845f11"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22439,
+      "sha256": "f14907ec32e7a90177f6e717a7c739ee63567b81e79a0cf53e0d3e7028e89ee6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22488,
+      "sha256": "ac348620d3dad5401d2ad9098b2dc28dce1bdc5d12d1d203420bc865768c3642"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22483,
+      "sha256": "d38fcec24be8a798d76ce9160ef2e7588f43fb89d5841114e8267caca8e3ca93"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22469,
+      "sha256": "de762b4a0f8daaf33255431c318af7cb8985dbc4e5d5a78a801c56728857eb48"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22478,
+      "sha256": "f0dc1326ee4b107bcb6b7c870aded33b9db72e9d068388deb8e8540a9c029e3f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22522,
+      "sha256": "b66c4b6cda5669069ef76920dd0fe05df5166bfbb59f560fdbc0b172f3e63d65"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22551,
+      "sha256": "fa36edfc40264a81be225e8566bd76f2135aedb56fe4a5aa2892c7df2ed9af38"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22651,
+      "sha256": "d3378ceb12308b7ba928b82d38a74ab5579516374d914f2ff265c2f811dbf620"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22725,
+      "sha256": "11e989b3181c873b849db928de1d8af7b8a0bb2dd418434e29dd64f5db82e76e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22698,
+      "sha256": "17c921de8da58984dc5cad6cd1a190255cec5896c5b9a83d80ed7cf76d923309"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22725,
+      "sha256": "c3d4c8e65fa3c3ad676ad5c8d2dfb384491b9cc0392d709dc1e5a1aa5b4625f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/phase-pilot/transient.npz",
+      "bytes": 6025907,
+      "sha256": "1ac0370346d129bec3641caed6cadf6203b03a4029dd8bb180b303afee250221"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/port-spectrum.npz",
+      "bytes": 13053,
+      "sha256": "a43ed4373e9dba646eaafe4fc6e20d9ba90e91aa5a295d6c557d0853f3eed8f1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/time_fields.npz",
+      "bytes": 2843019,
+      "sha256": "db92d368cf909ac665b19487e4d8fa682e6c20ddaa15c99bcc7f32bec0303586"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_30W/transient.npz",
+      "bytes": 11133181,
+      "sha256": "3599f31c5dfac2196ff21b235af30b609cc9af9e06c264a652a70781b0086346"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/adaptive-ports.raw",
+      "bytes": 105958919,
+      "sha256": "f18c433ac321ffbcaad5221578b5a38aa01913629f11d01022d3bc661cd677c9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 23057,
+      "sha256": "4ace77dd57cf69e68df1c852e32c168d277d966e0e83aceef1ba44e9309a7772"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22965,
+      "sha256": "d10a591ca430e55a2d534cad592c44347d1753e755445ccb64865a95f553bc0a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22907,
+      "sha256": "b6b04dce31bf547b2b80a4350617e95bf915f6adb87159f55680bac7cb845ee1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22846,
+      "sha256": "a8bdd1826f8e1c3496b7604ee0c694f68ec30578505c2843829099e53894488d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22799,
+      "sha256": "0c20b31b280ab11dce91255eaa16919f7bb3d8afe5d6e16fa2b08a4dc40e2d47"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22769,
+      "sha256": "7fc066a586a569c70fb5e0ead7f913dff40b800ea7f8e4036d567831ff92d254"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22805,
+      "sha256": "901536ae9a149b80fed97ee5ab39dac32fe8583b3e7285d5796582123a071890"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22887,
+      "sha256": "d643063e9c872e1c279c18787992d353ccb3d259ba77fb89312d237e98af3a67"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22929,
+      "sha256": "7d629d7d1fadab2e709d9a0541ff97a46ad97a7d1ea8f71ac3d798667f5e03ae"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22946,
+      "sha256": "bf1e30137d35c52cd858aab75c2fc4ad5e73f1fd83790c13dba6cb322da3933d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22965,
+      "sha256": "ffacaf7a6a1f7f5d580d65c4378b435d4bf1246b384c4c711f326429b63c77c6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 23010,
+      "sha256": "33b59d948505b0baf40b75b41d16416c6ec5491dad46a719ca9b0900b7e7ad51"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 23007,
+      "sha256": "4b9ce64d8a42226de01f8a7396c102de931a07f3c16aeba822fe4d0a98ada7ed"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 23081,
+      "sha256": "defaadc8afee39993ed1ca93e5e4560949ed99bc35c1aa016b957153415168f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 23074,
+      "sha256": "9421e6b887dbd23cf3939641ab27ba76e2a11c3b45a3ab85ad520113afd2667f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 23121,
+      "sha256": "8531cb92ded65cf68c847805496ab4ad861e1a6f9e73ccadb6dbd1c13624fb14"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 23166,
+      "sha256": "c14599bbea644bc9967aa403fcdc0b19843fd5e6699bb2b03951f45ed6d76b40"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 23189,
+      "sha256": "5cd5e89e7a2edc171a3c95a67ae2b6d758f6eea6da31116f89f670e5a55038c3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 23221,
+      "sha256": "0978275d9aebb872d30a7802402ef61750f31c6fc629bcaa1786f354f3e3e1db"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 23281,
+      "sha256": "b25648dfc15473288b5506f356cc55149fda460405e7f55ddc488b8817ce2ad5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 23336,
+      "sha256": "d96f5d47b77a934c1da4020a1b7fb038e15ab4f67668341299df1ce4509f85f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 23354,
+      "sha256": "dcd01a6fef67963ea239e17093760f4d4eb105d095b7d5b0a22eca9efe9032a7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 23383,
+      "sha256": "e432a64c046a9b25259590585137687b37b4b35ff96439df51d087d0ece0d9e3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 23390,
+      "sha256": "7d3c9d56d874d1e582deec4b9c8d68f8add7f47458e6f987c54044a727117d9a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 23363,
+      "sha256": "2e3f95073d68dcecd272ab0075a979b83e14bec4001bcfaf6016c8072287d492"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 23352,
+      "sha256": "1269fe4359284c4ef5dc93aed089a0bfa44823a2ac4781229295d93756aa00f0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 23324,
+      "sha256": "e744e8c5a807cad12b354c309c7c88dacfb798e7e4ceb54b3b7ee598165954df"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 23250,
+      "sha256": "aadfae60597b3f34f2e9ca2cc2c8ebcf6221f3d64780bf7680838d7111e181e9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 23256,
+      "sha256": "6444432dc08f0b93029190d6e74193496b8f07809f19aaa1b9650400629a03ff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 23279,
+      "sha256": "2deb79a87336f44e0731a615673d37327da267216a4cff5fb50713423b17bc3b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 23269,
+      "sha256": "dd1cd0f259d94d43ef59adb085ddc90673d8a7b31c6d43dfc89844d5ec8662d1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 23277,
+      "sha256": "e508e188d150fa9847d049b2a6340ecc4ac74a421c1c68120e49833abf35b24c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 23172,
+      "sha256": "fd93b18364161b27fa7c4cd53f6a650596093e5d45ada16fb35944dc11758d8d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22999,
+      "sha256": "7a0bd11f7aa35ced7059dcb26816ff1f54f6fc28427d1cde876c9db11a109d29"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22951,
+      "sha256": "974561d7482ecb538e00b5b596d925776e7e2615d757e1d0b786cdaadbe66d56"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22854,
+      "sha256": "6122a71d39a605fbf57020a6d1009d65250ee75caa1d364d5ae0a2a01bc73ae6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22762,
+      "sha256": "9c6e3bfb66aca61520ba87edd3c3646439b7c45ffbf8f992101bdd2f15a0aee4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22649,
+      "sha256": "40cf23caa753778159cf1d0907dd800645e1133a64e79bfcb8ac60083bad5b6b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22686,
+      "sha256": "dc5cc976825bdc1740b06e6b79c12ed54ab6114a4f0d387c09eeab7d2b8d54fc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22672,
+      "sha256": "5e6b1ae0967251bd23aeab407d563a47046c5a6c4549e92211604617a6860ead"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22702,
+      "sha256": "eec8a02ff5fe36acaf7650979a82b0f0c2794555bf3c00046cfb4df33f777210"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22686,
+      "sha256": "7d74b6f82a8656fda0221d3b376f37fc5ec4634c3cdb0de6711d4e1dc479dd8e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22655,
+      "sha256": "9c103ecefcffe4fc323e0d7d90ff5eb5a70642e3e353f72a0e5db855d5667638"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22666,
+      "sha256": "9797140937208a5f0e40b46d5b0402fca448921c55ba28047c5d249d6f500197"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22640,
+      "sha256": "72b65926b61f31d313686f8cde3e504055f91aa7db1cc915527421ebdaf37f43"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22624,
+      "sha256": "aac34b9b6226513dde7a04b0fc8b8efc41eab3acf6e7aef9aaa69ae4f7c33ce5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22646,
+      "sha256": "a39b1384757bb40aeb1e183c173d15df06b568622a24d1328f1516d828ac35a8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22643,
+      "sha256": "306b3d90316fb0a6257864159a8400c16863519d1ca2a9ab388d316e4adfe745"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22684,
+      "sha256": "f0951e1aca9b12419af596709328c62a9a0aa7ee3db96b77f78d8efaaba624f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22715,
+      "sha256": "05fd049893d3bcf4cd59240742007d79662e2727bbd0b34322e8634f2dfb6cff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22731,
+      "sha256": "6262150b1c9ea7915e747584debb0a9224e1a4b786d763b05f7a305121bc5e17"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22772,
+      "sha256": "ecf5c6bc007e5215ea5b0b900cea93e9dbf589e1e9176c79773377512bbda349"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22765,
+      "sha256": "391ec02ebf4a9e652d83f41b219f3e55a37e160bd57adf4bd6c76006a6c7432f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22803,
+      "sha256": "fa94689217f5fcfe0800bf9a9bf3b3ea503f873e81659300f3660bbfe712722a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22911,
+      "sha256": "888aa4ea68d5a3f77034511176c31efa09a3a9d9bda03e7b15f757395fcdc04f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 23061,
+      "sha256": "8f8df760cedb8cab9ae140f142aece1b8b011ed8af6c1aeedde989ae832b3568"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 23146,
+      "sha256": "4ad63af7fd21df5b427a7288d38e460a4c984f8c9c3df5a97439ef72839392a8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 23151,
+      "sha256": "2ee45048fb8670494c7356266d1f52db1d902d1e848f49b20156b4eb48471fd6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 23136,
+      "sha256": "4e50f9b0246b3a4737969d32fcb87ce6d1800157d2f0d0c497baa2bdfac5dcde"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 23113,
+      "sha256": "c583f5123a382c022cd1ea5e8feba0514f02e48b10a695897e60e3497ddc6476"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 23089,
+      "sha256": "c8c740bea2ed7318f41dcda4e905b70c5572952ad164214e710ba5de48265349"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 23077,
+      "sha256": "f136290a30685c48d2a2a5b3069a1e5cfb1d87f033f57ce7a53fe2c5d787af5a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 23116,
+      "sha256": "5d2330e6c27ad1b636ce1b5c438e5eca612acdcc639d825025716b5cf3eaf4d8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 23098,
+      "sha256": "256b4a6b7fc90c4afa351df833bd764f6bd99b24520a222b944a488ae309879f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/phase-pilot/transient.npz",
+      "bytes": 5926463,
+      "sha256": "9bb048b5dcb47fa0103a6b633b566d23209bc791466966deff402e0e6db5d07f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/port-spectrum.npz",
+      "bytes": 12867,
+      "sha256": "be4779600be4027f1d18ea558a4d780af36996e0b04fe09e2d1aec60abcba296"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/time_fields.npz",
+      "bytes": 2848673,
+      "sha256": "2820277e5fa10bc655ca0a8ba3b1fe73a3a06c4307a517d70f901a7ff66f203a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/110kHz_5W/transient.npz",
+      "bytes": 11033660,
+      "sha256": "44ecccc4c647b067712956f3fb3de4d54f2a9402693d6b12c182c0d66c1525de"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/adaptive-ports.raw",
+      "bytes": 107455319,
+      "sha256": "f042b4435e84b384be05b9d47d0eead6aa497eaea97d4e5214b4fe2ff833b469"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22781,
+      "sha256": "5d385b9ee9a6c0d353dcab5e20c9562511f6929c09c998baab49b02e2094ef2b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22765,
+      "sha256": "d1a11dcd3ca320538e49ff5e54d0700846131cb3712a1002785f74297674d533"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22769,
+      "sha256": "1bd54233725c6e42acb49e1b7d9b6d8d69f7547deec9ba746a9551c224b3d938"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22749,
+      "sha256": "a4c988d2ff9a02004302f75b9ce46c12107c428be6af786c947a8134cfa399d5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22766,
+      "sha256": "cad1c1656e6fff3d80a83223f835cb52da500c15abfd8ff191cb96e0b6640266"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22741,
+      "sha256": "a448cedbc4d327e62463c3367f5728013c3a02abfc1dca3af70ed29e0f7726e3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22750,
+      "sha256": "85a5345d2da24671945f476083916b392a282efc7ebed5c78611c62c240e0aab"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22739,
+      "sha256": "0e6f4392ccb1f1d03dca94013e37a51d223f6a7cefb3892f5e7c089c953fa789"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22714,
+      "sha256": "4de0fa3f9a8d14355c800b907c8d107d1509282fe69e472a2ca073178fe3eb76"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22771,
+      "sha256": "dff9125a23dafa19b7c3cd068742145abde181440c2be974f2cd9134533db4c6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22855,
+      "sha256": "341d48c7642c3b7f460d12eed9eeafd1cba32e60e16a4cfd6088dc21d99c12b8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22948,
+      "sha256": "e0392ce2c4c5cc5d7debae791474a76a1385aad355d16e97499a4a3bc51f672d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22976,
+      "sha256": "4774500af3a8d346f99dcb5b9ad817ea27e0572bbc5b7ddfc5a9249df980698d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 23009,
+      "sha256": "34b5a0968c656be9f17d2c0d4e698eee65223afffa779c9aeaabb50ca31bd07d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 23057,
+      "sha256": "61687b0aad1d6542f8177488762414a297822f9d25887f04a5c832e24172e330"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 23116,
+      "sha256": "40811260b81daa8f1c1011b6824496de8838ff45b70b55820cd770ffde558899"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 23098,
+      "sha256": "dbba11195bcf290cc19859b9eeaec7d3730e5f02b6f5dc63f5782f9ebb20fdff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 23030,
+      "sha256": "6f9ef53352c2d803613d2c6a06dabde45ea77a74c7079eccb7acfe16e26a6dff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 23007,
+      "sha256": "2745e6bf7c883c800fcd7b10d34cf85ad93123743a445460a3af14736870e3e3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 22961,
+      "sha256": "dfaaa9ff508474c53113f91b125a0b9508382a596ed4d4885314a922d73de06c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 22961,
+      "sha256": "b519a32025be3a36506ea0e3b74bdaf5559e9051d135cb3680c97d3299869f38"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 22943,
+      "sha256": "f43601f1553527c1569e010850fb32bef2158e7fcafa43223218c8b38f581d61"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 22917,
+      "sha256": "b3f6cca9808b7d6c8ca6bda2e4c27a37283353cac5d87a8cbd8a97e1f277cce2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22881,
+      "sha256": "4d332ee8fccad285a3a7509207dd1da325d5443ac95971303374fd0bc7d74015"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 22851,
+      "sha256": "38dc2d35780dccea6353d0feaa9896c843bb79a1846f9cb65c82c2b6ee2a8938"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 22805,
+      "sha256": "74b9b5ad128541f6364e7489df81dad5397d0e0ccd7c79264ba5e08d768938e1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 22839,
+      "sha256": "b9470b41f563bd62733b0f98a8d0e2df5b76cfde7b61d5d46b9eeced54ec81d1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 22859,
+      "sha256": "4f220ea89dbf4b70e5fe58c3b67dc92c21dd7d4f08837b87dac4e87f3d8c3746"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22804,
+      "sha256": "664c2807ab5b7f42f8ec3e7bff952e9ef5551eced1c9acc4ea032723bd2a9cfe"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22756,
+      "sha256": "268298ca87b59a7b1b5c97ccb618d443a91081095904e5450925ad56431f08ff"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22783,
+      "sha256": "9c96c22fdbccf3f659ce749e3b4a992bc36d2b013456f4f31828c11507d424b2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22760,
+      "sha256": "2d553dd0bdfd7d433cc37030a6b2df2ab987a6ea7d466173bd0c121a813953d9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22665,
+      "sha256": "b61c72f661be4ac0f4f1b177491c9a6c2792193dc8106e60c218b0d2b83ca03f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22617,
+      "sha256": "9dc22cd6e8630445079478949db0774e1a833bee8b8c3a350b2094233395f13d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22583,
+      "sha256": "d160fedde0235b56b82310dd42e046be0c0264de5f0770e88bed4a16dbf8e6a3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22552,
+      "sha256": "d1e398603e2b9fd9c208e4053e3af2f36e0ff4597b645e157050b6fc079c3e7a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22553,
+      "sha256": "033384aea6c0ca4720999f3bf26595f7f21e68dada549eb7bb017b3762afe70f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22529,
+      "sha256": "829bf8dc80b3c1e0011308764c8baa5d45131ad9476df10322d8f23f0fe937b6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22515,
+      "sha256": "32f38b39c951dc254a9f213acf0a0dce30491739b20a8da74d01fca0afa06603"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22516,
+      "sha256": "8df00db9a18d3a195ff00a7f4b4ba2c7565535d929b1e763c3747bd44334edc4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22510,
+      "sha256": "03e822f1b9f18c335723c7b3f98518b86fc6ffd989b813228d8f176658393157"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22504,
+      "sha256": "2fee513412ea4a78eed84c14ab3abaaf30067598b697ada472628b323978012e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22534,
+      "sha256": "86e820aceff49129ace835251f85c2cf8ea275a4389523217483c12b5ff37f9d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22579,
+      "sha256": "fe0163c63ea660f36f904f8efb918406e045f6068d4cffd8cff6378242dd126c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22555,
+      "sha256": "32b654b69ebf3debd8efc79069a3ed932514f4eeff8ec96e5bb96d7e773305ce"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22534,
+      "sha256": "98daea32a10b75609a75acd6c3a25c1b8db1d9a57559586391cbe717f4b89bdf"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22569,
+      "sha256": "ae66778ded47489890f0d326c8ed792a3c7f86ae0036d009bcf75737a8c5ac03"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22707,
+      "sha256": "96bfce1122f89a17687cafc2e511da3c98b0492fb9cd70424bb7ad7718af547e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22766,
+      "sha256": "43ea1ba29be0a2d7db846e2fbe3cc90e843c3e77c13f70778335e199856307f3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22755,
+      "sha256": "70ee431d52dfbcb67e2ba1531786fb4cc3546ff17ae904a3fdf4249a4a2e3d79"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22787,
+      "sha256": "878b99e1986ebe2c64e53f22fa7e1d5478d49f35fae7da408a1814b77fb3aea3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22759,
+      "sha256": "646c9290fecc15310ff6347259379622b95b42304e44714380cda996c0d26488"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22738,
+      "sha256": "b9bd45b1a7cd64baa21cdf9c45987da0bf07700f475fa1e9e6460d827b3291c0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22687,
+      "sha256": "32d2ec1346e5f982b82bd93a0d1303c7a76b1054461d870c0166e7b85a216476"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22700,
+      "sha256": "53742a0bbe9ace4e162ef282ca3e2ffc42f94087e45bac1f0522cae74b939ab9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22713,
+      "sha256": "a1cacf9fd8a3a0a4151b993b4d7da329242a1e395f012de5540202689b1d29cc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22681,
+      "sha256": "644ce2e60f1e200e52738ef65836f40b2c39de3d1012bb54a96ea6e432e35ad5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22684,
+      "sha256": "0aedf925ace9559891b6ab21f02ad203d6902e83cd02af7350cae5f99d9f4d31"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22681,
+      "sha256": "2104a274946152f37c05ac1e2c105300f87bf3c444eacdb74b7516ff0400311b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22722,
+      "sha256": "3214c6121239421887261df74328c61a330f7a04018803f27f31b014e4b460e6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22700,
+      "sha256": "69db2d028a12bf8d2090e3414c941fcf8316487b90b66a08db397845385f0462"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22698,
+      "sha256": "3c11dead77bd350c1d0f1084b89a07580618a51a8d8d31d831d438c4bf9afcfa"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22710,
+      "sha256": "6ffcbbec88cae751a0c0fb56a5e951aff0d39ba1b90db9fe247465f7c47d6d71"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22732,
+      "sha256": "10669c4f3baa7d00db17cd5b48bce79b0817621aca37452de50f759e74d26234"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/phase-pilot/transient.npz",
+      "bytes": 5915278,
+      "sha256": "d32204bf5d30339920cfc1cd60c75edbdc61effa0a307df4d7d1aa7f18fec294"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/port-spectrum.npz",
+      "bytes": 12835,
+      "sha256": "0ff96e9cd2ff0541ff6abf2fc4cc1ea6237122e5b0d0b7dcc9ec9afcc78b6ffc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/time_fields.npz",
+      "bytes": 2848654,
+      "sha256": "5aad2d552cabde71fd37a0e482338dd368fe247445387fb9387033b92bad1edf"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_10W/transient.npz",
+      "bytes": 10999903,
+      "sha256": "eaffd1cf4544002342d69e4e3a1026a927a6094563ca878f0dac3a20bbc86874"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/adaptive-ports.raw",
+      "bytes": 107237519,
+      "sha256": "095ca228c608dda70439e159d86d56b949d551d2ff98228cbce8697f7c554938"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22670,
+      "sha256": "40aefbf750a833d7429ad76cdf0448d756e5437845ba535d2a2ad9e87d3af8de"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22670,
+      "sha256": "8ab191e79ecf1b05cb81ff62b73ee0de7384736be7dd9b1d481c038f677d1bd1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22650,
+      "sha256": "1301d459bae19653167a4693886ddbc719eb76a7a1ac81146e8e33fc8c532a76"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22670,
+      "sha256": "102842b3088c5dd014eae39b6dd94ce507ea84de6e762755a2864b5d8cf6891d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22647,
+      "sha256": "a26249685b8f382e5a0bdf0f48cbf88efd98df4156118449dcdce5dea06ab6e2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22671,
+      "sha256": "3b5c689bf11395ef453e417906af2a153fbbf609251b0ba8110c9e667fc98cfc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22673,
+      "sha256": "e3d3e72460792962f64474b6d7a499ceb665329ab9c88c770ab88b54cd81055b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22683,
+      "sha256": "8d2b1c0af25c095c5e98b26caba74303d391d4184cd646b103eeeb1643958306"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22674,
+      "sha256": "721f447fd7b4f462c73b3cd176fe1707b19cdca19a36426a114f916dc9f53ce1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22709,
+      "sha256": "d70108e10abad9705e8f52bf0000f6479d139c1acebab7a7f576092ad33aab98"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22689,
+      "sha256": "69cb377b83ecc8b110b8edb921c000453b4b721327dc478038efc0657b79981f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22744,
+      "sha256": "18e05273ec84e0a629218989a167d2be434131794eae6789cc27997d340eec3c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22731,
+      "sha256": "053ee156496db5aeb8685e1ee42af632d9b124489d695997ddfc0deeec3837a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 22788,
+      "sha256": "10020890c9efd78c386c1f772b8e36b1ef90cd9a68456c89b810b26d76add875"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 22841,
+      "sha256": "7019396c7c4436c31a610e90cba664c815a8884d28f10e310e6332044a49cd5f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 22900,
+      "sha256": "05dfe960375dd2f74bababaa754f27710510182145d816576b50f025c47ec8b0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 22911,
+      "sha256": "7c9bb974d1d5e1b59f326e5eeafa6c7d4ebbc56409e27713d6e1834bf2f9ee1a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 22950,
+      "sha256": "ba9d72d455887e59f630a05954090c322124c27c99fb6aa4146c9962b07b67d9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 22953,
+      "sha256": "8782aca980f7ef54f082b99c974d3a2db85229a5df04b60fbe46500743d65584"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 22929,
+      "sha256": "3d5a0d1ad42d4160bce015f94d6a50e70914ce4c4444706586ce748f00a12b2b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 22882,
+      "sha256": "e6fa78a8052e41b9c9b032e5ae97b6dc765c87188c477d5582a8d90c93a1a2aa"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 22853,
+      "sha256": "9277b3125e0b5bce5894b30d0fce5716fc54435d3db71e89fdb58b5ba41e112d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 22835,
+      "sha256": "2647dbf2c100f518823b256b724cc380427cb59ea3ca78e68a0059be78e2327d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22833,
+      "sha256": "420e22448e1c5ed6f56b1c48f2ee5d4b6d8dce67e00edd904e486c29296827b0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 22813,
+      "sha256": "f2c754e076158924975bedf5780f065078b0d89cc33fa4084a478748817a5350"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 22756,
+      "sha256": "6a7d1930838bc53027b8addddfc423438fa00f85ef4bbf97c1cec94044d82274"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 22735,
+      "sha256": "86ef0b7e2e6c1ef182dde734e6f7e9df6bb09d59f6f9bfa0edb8b0e83c8bbecb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 22744,
+      "sha256": "345cea6d793536c0f09e60f789701fb4b19a06194752036484b11b5c6dd5a901"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22731,
+      "sha256": "121f792642ccfa8ca9800369b15ed3cc2442018ae182ffabf6f1bf427965d83f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22715,
+      "sha256": "d6b12350254734ad8f08c9ce6d892bf879c4c1f8d7626861009792c90b3200d4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22712,
+      "sha256": "ccae28ea5730e6ec278b29b5c6d4d8d78d16833ef5cbfdfd4c1de4eafbc26a1e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22664,
+      "sha256": "038e764fdb20fc85bb87f38223eb0e44565d1bc380a37cd494f4bbd4586dd5cc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22579,
+      "sha256": "63e3b7df0266411c8bd52407f850d081fe54d12abdd892827f54704e76213d40"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22530,
+      "sha256": "4890b63f1b4be2fb863dc373c2ce2e51ea1ed866ad210bfb3b17699492a17784"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22464,
+      "sha256": "6a930db25a8f4cabfe6f667cb33ef114140bc9814f6c6fdaa71bcc312b5d8317"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22450,
+      "sha256": "78792e7fb76a210e6b39d46f169c7509c41396c11ec1bd953c9a356e59080eaa"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22461,
+      "sha256": "0eb4c2d939faedb49634e5521d1ebb776b9a49610e75b40c10d9067eb5f511ea"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22457,
+      "sha256": "fc0daaa1e9c0868f95dda1c4f3271169b185b5296da629a797818501356c069b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22406,
+      "sha256": "63c89d9175cb21873023ee1af4337cb84e0b39f653f548f6ee5366102dd62fe9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22403,
+      "sha256": "de78473c0ad73d1ec3e7f4e836b1338ebe887dc4125261c3a2c4249fb3e40701"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22387,
+      "sha256": "70ec7dee8a292eb1e55233b436c7d22c3271018a6968578696f6b65cf5aea228"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22409,
+      "sha256": "6d9176234b8ed552cfdc843b0bc4173310f5d9d684453f821df4d71c4bcecec7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22375,
+      "sha256": "e70a4942529783972ba7e342ae97a7e82656d390ae32c4f4dd78744e9471ce68"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22394,
+      "sha256": "05196641c0b2d475201a51c62d45e09ed5c4dc5452fec34773465c3cc9e798f4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22404,
+      "sha256": "c3e02e553837caa2a461b2cae0a241045b166fc3175ba119737ca8c3ff9eed91"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22405,
+      "sha256": "cfd3dc31c07a0a32a98b955b4f341746eaaa883386b051a86834dcabcac3f88e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22440,
+      "sha256": "274ebda8940b3da63c6dc15caeba0a27e9cf016b8eb368cec94e86dd6b86402c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22452,
+      "sha256": "b7a43bc634471c527f649ba32ebb81053a1a28eb3d21ecea30f5c869fed668e7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22471,
+      "sha256": "2cd789fa700c8938d20dc0e22794fb406e3f59b36fec83334ebdc8d07afcf001"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22563,
+      "sha256": "5e3263f329d70046188ab087832a63e4adc42df3ee1bb315caa0800c231deabc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22654,
+      "sha256": "69986e53ee526703cb0b09500ade34949eaeb71e09cedcd0b21a3b4f2e77e4a3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22640,
+      "sha256": "f50f1e8cd80c790faac8e917c1246174aba7ff0806437df6bc11ecfeccced4f0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22630,
+      "sha256": "b562d8eaac5229a0412ce32e8f75570273adf2c0bdde32430dc58e5cfee5b184"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22637,
+      "sha256": "afe01759cabf1a7d4aa72af8b72fe3d75863d0740d8b99ddff7c239b0f9b5b49"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22657,
+      "sha256": "050ab9223897349f760b4ad9aa760623e1144b89a21264e24e890a49fc2bc637"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22642,
+      "sha256": "34aabec2c6a1f001afd73a5a733ba4cf158fe7db659333a1be47287f653ba10e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22644,
+      "sha256": "2818f01de6dff41aeb90c40e934f9b37ca1a812f795aa6efa222fa831bcdfe4b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22663,
+      "sha256": "f6454ed37e67329c9f106d356187f82ac83044f33fd8fdc9cb83a140eaeeef38"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22673,
+      "sha256": "b9b2de1ff2e99beebf93ab32d95f412e7d9588ca7d12577af89527a93d3042a3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22650,
+      "sha256": "55d89eea5aff8157c862d674a943f5e5113b278fbe711ebcd0db258de52ea822"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22605,
+      "sha256": "599de968155921f6c68437f0125c7c2de445e34f7e26ae4d9a9f0922e8650d15"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22633,
+      "sha256": "81443c951700b250fe4447aee5e3d60b909a75dbcee2696c5331cbc5df5ed430"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22626,
+      "sha256": "29f2093b19fb1608176165e8d8c31ef07d671aca7862209125133f8c9087af03"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22592,
+      "sha256": "b69d786532c54f5698ebc353d64040f9bf2f3096190c6c3684b3a6a2778e9454"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/phase-pilot/transient.npz",
+      "bytes": 5964683,
+      "sha256": "8a99ad6f17bfd87f578315ceff6e9f9bb47dc44cdd57f20741f075fb22d900af"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/port-spectrum.npz",
+      "bytes": 12843,
+      "sha256": "0a4b8dfb37c64bbe75aa5edd27f3e6438c444e30111d64b1a2dba2cadf17d714"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/time_fields.npz",
+      "bytes": 2845509,
+      "sha256": "dcde4a16edc746e8ec3f52a39c141aad1313bf8290ae46df9d7ccdda42c4f8a9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_20W/transient.npz",
+      "bytes": 11061539,
+      "sha256": "1c708320bd288ea7d62e41cdc7ae750abd815b55f8de7a8d617d35b675da96c1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/adaptive-ports.raw",
+      "bytes": 106914719,
+      "sha256": "729518c5e59c47b19a4ab398b12b58b645cf8194b222a48a1ebc231a217c1765"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22664,
+      "sha256": "703f5b831472265f4cd365a3b54e33f99682458dfaf086493f55e24751603d22"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22644,
+      "sha256": "70e5d1c0a404d72ecdfc78f825e12a3b38e4af5c9bbc01e710563b01284239ac"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22588,
+      "sha256": "e8bbca83900b93f749c2fcb49289c4d138a3d40aca7a10e7f8b5b7e27e7b551d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22629,
+      "sha256": "9f094d4366d50f49c92ed41b0ccf95ac83daf21050c1e4dbc2fa26cf4d8821ef"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22592,
+      "sha256": "13d97c73df78f35bc865ae76a1f4e601bdfbe221191056b42eb4fdd16b24bda7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22621,
+      "sha256": "9bc8d549c2da5d40f3a0aa2884153eead75562486044d9177fca4d3f5857bc3c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22595,
+      "sha256": "28541c6a97e56a45da8cdf6e31513e83df12be122a284cf2b6c986a052c4ceab"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22637,
+      "sha256": "4487595a6e25ab2e452d53ad0bac4f2a9e0f0bf8de06aea34f711b89d63fc5e5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22662,
+      "sha256": "465f5da6dc956071710aba8542e0a5937e57d94c6f59ec42683e2e54b7c77ef1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 22649,
+      "sha256": "09871a92f5fd0bc3fdd411f78f747f4185ef9c676972755eddf28810b3578810"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 22678,
+      "sha256": "4214ab6b7697115cc4514b3efda2c1a00342c8594bcfedb69449be9cdce74d4e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 22691,
+      "sha256": "960410fed31aaed863e531552c5857d53755009bf37fbb70208761468309ac15"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 22675,
+      "sha256": "173c2422843413a04a3a56de8ff4dc26167679c6537c8a14b6eb6797ee049e74"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 22699,
+      "sha256": "cb147757fa4a4395660cb56cb878d212e71137db6292639b95e63a639e3c386b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 22761,
+      "sha256": "5a58b5e0debf8e986a54065923a9aa8bce42828e4c71d74051911105b0a3f8b7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 22767,
+      "sha256": "d524f1866a73d408d2382e80490b7478cb7b8e22bac2bb3dfeeda78a9abee10a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 22788,
+      "sha256": "8d69abed572bd12df543be8bf35d22a8380c9329ecf1c7410f5ea674da7ee96e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 22824,
+      "sha256": "fb2a61e47d9c37b26473a820bedbb91eea24431b8503c95706e74d093cd064ae"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 22886,
+      "sha256": "04cfe62f3786a38b8c496656d243c4fec2cacc2685f573429221c0d2272d0609"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 22949,
+      "sha256": "89943836cf3a0fe4008267addb888caf569c8bc881c42f196d7b40d2bd523c31"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 22884,
+      "sha256": "9fb64c6797819b0da40844331ee2ade547f05907987b6e48142728a8caf99fa4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 22843,
+      "sha256": "a690f48d48b8ad083b8a392419fe6fb5b05fdbb1cc6433c075d00142c6e959e3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 22823,
+      "sha256": "3745f0857ad4791792977492465f1ab275c03d8b440b7560605c7a58a4be11a1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22789,
+      "sha256": "195fcb6bc0ba9daae01dfbf65218c75d09250e7c8a8ed54e34c5e82cc4c109f2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 22791,
+      "sha256": "9cfd9cfde2f0a9bd8bd232248e2e683fc7a3c78f76491259e72cf3320edd6d03"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 22719,
+      "sha256": "b8ece8ab4814eba269d411a64b674aa432f4f1c0117e466af6b46eb978f3e9a7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 22747,
+      "sha256": "3f7f20f8cae3e804cfcb1125696d6e41a994daf0f4d35f78479a3a07e04cf3ec"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 22687,
+      "sha256": "5e85c18a89b806592fa778d95c2d43e58c3b78c8bc2b0e29a65d148365cd2a06"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22677,
+      "sha256": "e84524c771d81463abfbd9b69cd93022e1ae3b60a7dfc06b541e69e0ce8e6b20"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22651,
+      "sha256": "d5c428e73a85bb558f43398f4565c4d0a2bfa0fe4b4ab8db1e5a42fc06abef1b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22675,
+      "sha256": "285422133d2bbe3c9f55258ce1213001457728c73096a047ff5082bf77061ce9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22697,
+      "sha256": "8df8e3661a6d53fd1b5bcea6a7aa4351550a31d43d3ed7a703c7b03e86335d01"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22581,
+      "sha256": "f672006814efb2dd985a8a82cb6556a656b7311e2cabe6ebadbab3919959724a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22534,
+      "sha256": "503cf7020e85a63c87e9cdde566c746d4804778aba4a1aa70ff27454c10ef88f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22460,
+      "sha256": "f2ea3277e6f37cd5788632e04f782a4adf6fcb01a5cc91c033c517507e25cf73"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22445,
+      "sha256": "d54cba5b4e04ea5abac67c09f521f897d5c2889ced252ea9df2927583d4d73b1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22440,
+      "sha256": "05c04add7269f20ea0240949b449a33dcfa83814f873cfe2f3c088849aa281b4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22427,
+      "sha256": "737c4a3f0cdad3bd6adc8bb5d2f2b8ea1be558da1540370f67f5249c1f84198c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22421,
+      "sha256": "8ccd65551ecfba1b630f75648acc55ce8258c9c771d6d45627b85d507fa8aa1f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22390,
+      "sha256": "5a6341117f4726faa90cbb643b6ebe357f3e997eb75e78be2a06b6fc29cacd43"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22395,
+      "sha256": "ee7f88dccfbe14481c0982b6f0131b0e85988a09845281d17f0cb7a01438be78"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22344,
+      "sha256": "ddc8d3837a181c14b1aa42dd04dc6501b789f47e7c509da4fc6707321fd8eb77"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22374,
+      "sha256": "87e9d6eb2101c1a5729267a9ba9bd1769eca6d4d82eba8ff93086ade78a8aff2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22373,
+      "sha256": "2f53ea9a1a317591469a3f04e7e6adecf8dd86d869db34d5f67f0b40f431ecb3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22389,
+      "sha256": "e0fc9a09e6787c78570a8d6e538049ead452b8c012a53d4c3010894f458e1afb"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22357,
+      "sha256": "33f4b06986a1dbe205c736abc5ace9fc6ad38916be28f68f8bb1ccd2ebff3a2f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22391,
+      "sha256": "aad0b43531eb63a791fb8fb06173e61720d33f6cd656a4f68ef193499210f696"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22416,
+      "sha256": "ebefe7a15e49c01a910cc81794d746399bdbe376bcd1ddba3befb7ae1326a3ed"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22403,
+      "sha256": "00d1bea929370ca77530f01cada14bbcf95f3edb601d8d4efd113651b984d8f6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22455,
+      "sha256": "5522c0cdede652bbf709f73b174daaede7bc47915ab4be0261ee8ae2b79eacb2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22461,
+      "sha256": "561e084049234970eaa21e94419cd3f7c8b4010c10849308de5c757008517349"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22568,
+      "sha256": "f90103a4b5a1c73840ed67a9484eca5fc299fb90cc84a2c590a6873692c700a0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22615,
+      "sha256": "af780dd4b8aaf9b19408a227750b7238c0833802352ea36945af3b7358aa40c4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22631,
+      "sha256": "5316e1d96ccb52537bcb5741596640e12b39594413a34fe3db817bbeb497b8a4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22615,
+      "sha256": "cd0da316015afb72ee6115d519f84a3dc4eafa0a5a5e3fce30339335cb9ca32b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22638,
+      "sha256": "fe58147edc892a7dacc7929c9ab95904da5f31fcfabec22f57a0e369bca5c273"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22620,
+      "sha256": "99af104005ba61fd1257f40377c8d9f77fdef614fd28bbaa5a80e2a7b518259c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22637,
+      "sha256": "7d4771ac93998cff67416755f2346d5b0d1d93e8de4b0146a2e2bf4f423a4cc4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22620,
+      "sha256": "05fb6d4dd2408a2fd7eb8e77714d3d7f16901cea7f8635561e4aab61a1961403"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22626,
+      "sha256": "983fe765f22b7af0d4b10fa2a3cb19a235417aee6cc5ede80475e9e8e222d6c2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22649,
+      "sha256": "5430428b3a0832384a1daec5dafdb4db97f985f8d6a5fa199bbc760ade2841a9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22608,
+      "sha256": "e25b82e2e97ebd5a197ccef8f91ef91cee3ce75c0d4cb130de17c79ebffb6727"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22576,
+      "sha256": "e02f8ddd79de7ee48f02f3a69a3d100453f4008199e346eaba49a64d9f07a998"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22608,
+      "sha256": "d13585bff2db857987daf033da2cf667fb9e675a4fa719bea82db0ef11ee7994"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/phase-pilot/transient.npz",
+      "bytes": 5979633,
+      "sha256": "641b31698befb0b3d39413b2341b384d41fcb65942a2ab204c6f8edb550a6062"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/port-spectrum.npz",
+      "bytes": 12868,
+      "sha256": "e1de0efb6f722652634655989fdfd9c36487d0b68cb59ff03eb105eaf6d1e893"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/time_fields.npz",
+      "bytes": 2842655,
+      "sha256": "eeae6a8f2491a6e1e6fb458ed960c0c9f4edc030aa1a41107146e1c51e20d7ed"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_30W/transient.npz",
+      "bytes": 11077729,
+      "sha256": "df3e264879024cf06d87f9a90fb8a8ad25f42faefa16de0ba1b7bc7bb7b35052"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/adaptive-ports.raw",
+      "bytes": 106757319,
+      "sha256": "696c73844d2d3244e0aea27344a971f366fec9d6718a31b188c6c943212498ba"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 22898,
+      "sha256": "28c393cf0325ad4242c8b33a370e1b957c3537cd8ee83de993d24b362baa8168"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 22907,
+      "sha256": "d04dea6a076d6486d00e2f4cb0e8d9d48d46ea01dddf847a1b29486195a7da55"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 22854,
+      "sha256": "3854050ffafda1a0d19998a0067dcba1dc0bf46bc1f59a13fe735fb86a1aad6d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 22856,
+      "sha256": "91486ea0c1234e84ec7c741e4024c0eb59527815c514e4ec29eb2f41d2acac83"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 22847,
+      "sha256": "8dff7b759e20b5654f8d885cb566faa0f515da655953296d70e579935b370ec4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 22776,
+      "sha256": "7f12350d85d5c027321f7412ba197afc4ebad0adce1e724dace9f03ddfefc65b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 22824,
+      "sha256": "0f453ec8b2c0395ffe2b3b530077377ae48b28cd151a38ab32009a3e198a616e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 22860,
+      "sha256": "635e68e17822c40da1bba10766c6d9b763fcf2940ca1313df2d680d4d4263355"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 22986,
+      "sha256": "d21f0032706395e43604459fbf87ad3416e5992107095ee3f9df99e1ce74e229"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 23039,
+      "sha256": "8bf804cd1bf958a2e4bf4862be0b046ea3d5c8e15133f50685e79010c687a74b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 23079,
+      "sha256": "34290384f40c458340e8cdc753791390cc51081b0607c195ffe2491b9e56e731"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 23112,
+      "sha256": "14421ffbfdb92eb5e3e759fa9497ad3426f842c8657a00c7d3b5fc86901f1ae9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 23197,
+      "sha256": "a62e03d99ae2d57217e29c27bcbb1bfecc5724ca45d4b0a28b364c42c360fba1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 23245,
+      "sha256": "753a59ab948f3e4d11108f291e8f68e935a20e7fdedc1b73817751f11dbf23e1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 23226,
+      "sha256": "e3aa005f4d0eb5a826b8616ad847cc0f50668413d621f0e09fbdd34241b1c7e9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 23198,
+      "sha256": "9acbeef9b0713851e9b374541626789d493d0b3071b76744a986e27e05c934be"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 23179,
+      "sha256": "aadb4630b3d61e3b151341b171d52af61f00106257b8f2a33bc7cfd371e8999c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 23110,
+      "sha256": "230ce114a5e71908229a255fc384d38fbf3eea50525f2ff5fc78fcc654a1dd7c"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 23081,
+      "sha256": "8742545c2d1a36f3e6144f2f314a3b012edf5dab28d47d85e8211847b2ea7380"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 23116,
+      "sha256": "4d8b2786fc308a5e1502dfde8ad58c202868927e2b41ef5a739393193b7877ed"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 23081,
+      "sha256": "d0ac684c067e765136862b1092701a5780125c12904388e1a7b7b2b2ccaf5649"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 23020,
+      "sha256": "a05b78f9bf4947707d9cba456c11d91dc1560fdb5bf49781ff1ad8e1ed7ec5a9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 23031,
+      "sha256": "60b9fc4e49f2d270ded6bf29185a3c5a6e8cb223917613a6f775f7d4de096905"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 22957,
+      "sha256": "b7c88ab09d1768a3c775b94401e001adfc84b3eb8e089b8108ebc0e5b177d4dd"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 22956,
+      "sha256": "05184ac7180e11b800fe7745fbcf9287537f9e08512814a0e8c79456aab1ed56"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 22914,
+      "sha256": "3c4841243dc48e8fe1d0ef2e230afe2dceeb50bc576a6ac157cc1181bfee8bad"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 22938,
+      "sha256": "c793f40afa7b430665b1f1d1b14016cd796dbcae620d1dddc778bd1deee876a5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 22933,
+      "sha256": "2bd3e8f11330869d6c83bc000197cf2ed878493e3d7237f0d6fb4f2f892266fa"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 22899,
+      "sha256": "5c251b88aa8f95cb92a6e25059973139604927c72edd28bb738892a614f829ab"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 22911,
+      "sha256": "d1d015fed6d893b6bc9cf4e07cfbb186afbf14a14d84a4f97d5ecbaa7f1db6db"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 22877,
+      "sha256": "4b60375f4d49163b30b756c801ae606029544fc230f89988372eacdb7216926f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 22861,
+      "sha256": "cd1d679d4dbb37ac506dec354ef32dc6758d115dda1cfff41c21fbb0d0d0b2c3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 22807,
+      "sha256": "16dfdccf319e92c4b5c55e8e51edb093c19792d1507cb99c2d6322943b6dcee9"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 22723,
+      "sha256": "1b272d0529c407a61b0ed13f6431bee1de30ff67dd358fa4b503c19637230028"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 22712,
+      "sha256": "43b7f86bc00b762abd875c8f5e0eb2498004683b253945e5dd3cac0ebdca3aea"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 22702,
+      "sha256": "4f12d1ac2ff552dc70dd2739f666c2a5d0f685a4d31c385e0d4ad10f2ab6100f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 22696,
+      "sha256": "a58375b266a9a2dfe59309ba4853f966ce2fdd3e2cbb72a0b0d87ffbfbfffd05"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 22626,
+      "sha256": "4ca577c210ebfe95fc747821d1d8f9a2d8dd7c8272ea0014542962115e8c6935"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 22621,
+      "sha256": "afe1fb75b8e307826bba2ac8c64c58ffeec8bf0456f25cd6099d8ddcf17137fe"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 22677,
+      "sha256": "a1eb3d425f33024001281c318b86e617ce98b3ac1bf641775b455dc5b5d0f4fa"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 22697,
+      "sha256": "05cbc2f0d4c0df353358542f135e606d6adad51bee3fbdd2be5fecae97901ab2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 22715,
+      "sha256": "ea99d339f534ce1e5596d8cf38ba633486f0c43867c1734711c3b005305d33b6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 22707,
+      "sha256": "b96509397dda38b82e6bdc4386c32cc13e901ce870f382becd8e5fa76e5bb1f6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 22753,
+      "sha256": "36697209521386b654b3171a2611dcd1a0d5c1d1fce943dcc11fe47924a9abe8"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 22729,
+      "sha256": "a195c23ab84eaf9258714a80af9499ede32a63cbc1cd17bc81cdb9ffc2df0444"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 22832,
+      "sha256": "78db0e24f6a7470abd8c905733e720a5005b0eacb629d1b27b2ec119eaa336a4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 22975,
+      "sha256": "c56d380cbc75cea3190053c519e89aa4a7fb9b07ff666a14ef53765bc5f0f8f6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 22960,
+      "sha256": "c3ccd9fe2105f8f0ca3a8afef00471103d540259badaa47f770664cbc748e143"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 22967,
+      "sha256": "779306e90992806f97bc4a0c6358a24d3cb9e0bfb5bd55f5440c987068357af2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 22882,
+      "sha256": "571f751e9891311aaae0a2e7336735ee8239b2d1cc09773abb5e112816d025f0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 22886,
+      "sha256": "5c14d48eb8384a4b06323cb5c31f8bcb218abe9a9160589ca87b2803bcaf8c72"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 22852,
+      "sha256": "e80c0725503b5efd2cc39d7d963715756aaad41c0aa0635a89f67638f194e9e6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 22836,
+      "sha256": "e7c96cce0b682bc0fabdd21e5628bfb079a18876d50b2c563e84d6581b649dec"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 22833,
+      "sha256": "d7d0329b986352da203541593c917ca842f79dac939c7eb09c354e0be736778a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 22811,
+      "sha256": "75237a1cf7a2f4528dccc59e77b83d9fb3367b1f5c696aab2074d61f7ed7212b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 22837,
+      "sha256": "ea6b071e7949d5e46f11270ce83a20e0515d47d2b6a6c8086de898b305ef3e9b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 22841,
+      "sha256": "d640f4590cd6423254fdc45818bc665a7f3fb5c3a1c3c1a531ee9b3eef2e8af4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 22819,
+      "sha256": "32da49341aed30f4430e6942935d3691cd9468534be98ae66431350676cb231b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 22823,
+      "sha256": "05fa6449ea81639a729574caf8057e86ffb875c2bb8b55e3e978e3290ce49b05"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 22843,
+      "sha256": "8f0876a3f9cd7d0e36994b5bb1a83958007264d38f519d75cf577a8b9d00f93f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 22820,
+      "sha256": "992dfdfe45f2976f2fab773b29039af0271d26e4803f97c0fcb370bbf4e4157f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 22855,
+      "sha256": "beb22562755d68eba5a79d12bc7747cad7149903cbfd9a9eb2ec0d45c230f3c6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 22860,
+      "sha256": "916522a6104dbdd8308d2d9bb4b876595badeccb14ab8ce42bdb127ca227474e"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 22864,
+      "sha256": "ef051f404d5d7d57c0a8509041c4f8f2a323203f7d92770c1230c4e30dff4c0d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/phase-pilot/transient.npz",
+      "bytes": 5871910,
+      "sha256": "a10236bb078263a7edfee089afffbbd29aa82a119dd86a817198647ed37e7a06"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/port-spectrum.npz",
+      "bytes": 12798,
+      "sha256": "fa4bda3b3cb1bda366b9c2bdba39a1c709c5c91771f91a74baf34943c6f3104f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/time_fields.npz",
+      "bytes": 2848809,
+      "sha256": "7ed717baeea1cce0205b6d6f5b6ae75f120308586e8db1242e1d1f5e83604e9a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/90kHz_5W/transient.npz",
+      "bytes": 10956094,
+      "sha256": "50905119e685c7ae57de56f57037ed65525a2d82ab97a978c5396f50b669608a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_0.npz",
+      "bytes": 869421,
+      "sha256": "7e23359bfede7dfdfe2b29d85483d0549c43791e937ea072779519305d0d3608"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1000.npz",
+      "bytes": 5650494,
+      "sha256": "a2165d5ce6df07f0166523bca82a459703b27e4c579b19809fc609e7f8a98ade"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_10000.npz",
+      "bytes": 5606027,
+      "sha256": "8e88aa4f000182d3ce3d56031fbc34698b01210868c7790e3abc59ea7b5dde00"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_100000.npz",
+      "bytes": 5592578,
+      "sha256": "214253a457e8168b4baefcf55f64078749c25f05877011d6db51ef81ef9f7aa2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1080000.npz",
+      "bytes": 5602494,
+      "sha256": "5062e9351447255dac42968dd78170947a9d7a41c463f149d3583b486c3c3df5"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_110000.npz",
+      "bytes": 5592751,
+      "sha256": "09396a8a1d8871d3f4bc715e4bcd0a077d217c796ff9473b7a48d0f4f5b72207"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1100000.npz",
+      "bytes": 5602664,
+      "sha256": "f6e90b858d2b2943fcbe701547e9c1fd755a3aed7231adf054e2a02000af2d05"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1170000.npz",
+      "bytes": 5603087,
+      "sha256": "e8cc801af21e1ff7a7361a4c8179bc7b32c867b735116cd6ff19cb170ca1f346"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1210000.npz",
+      "bytes": 5603285,
+      "sha256": "0b39168a2ec445b3e919f3d62da39fb7c2fc9a290c111f64a909f42224aa61cc"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1260000.npz",
+      "bytes": 5603622,
+      "sha256": "eb35692730b08ef1875b7ff9f2277859e0d83b2efa69762d75b50d57c53dbf12"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1320000.npz",
+      "bytes": 5603871,
+      "sha256": "74e01530a48755807fd6c8d6eaccb720b2f14d8dacf3518b4d0d2d398cfee9d1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1350000.npz",
+      "bytes": 5604234,
+      "sha256": "1934983e8c2f89c5e0ee0a70c0dce63f32393d63c39b837962664a95ddfef2e4"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1430000.npz",
+      "bytes": 5604586,
+      "sha256": "8f25f18497ca65042f86da03d63f1b929e0132eeead41ed7d48ccc5ecd14f1ad"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1440000.npz",
+      "bytes": 5604515,
+      "sha256": "aca22674fbfecdf301add43a79490f2a3357685c9f9f08c542c3a6658a8ba859"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1540000.npz",
+      "bytes": 5605300,
+      "sha256": "d5f017858970e6e4934623387d46656b8b8f7176d26a000e548934ccabc2b5ab"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1650000.npz",
+      "bytes": 5605893,
+      "sha256": "7269c94f459cd734de7a7e45c39ecb0ec0003dee7290b8df911e104f67c84d06"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_1760000.npz",
+      "bytes": 5606685,
+      "sha256": "e112fcb27ac867f15810636bad0aab1d235406984ef6fdb7bb993f5ef892ee8f"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_180000.npz",
+      "bytes": 5593760,
+      "sha256": "469790220ebc05eb26400e75bf6fbd888362b2f85afb013fdbd2642c56b9ee87"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_20000000.npz",
+      "bytes": 5641469,
+      "sha256": "f07c8003e1b1b6605c1cc479ea3c42f3cedb7a4a05e5765972c01414ebc3cd34"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_220000.npz",
+      "bytes": 5594222,
+      "sha256": "136392e86325ae7582b5877d7582065bb5a4777f5fecbdaa20ebb56d2034e8b0"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_270000.npz",
+      "bytes": 5594766,
+      "sha256": "cf45fd57f0e27276ee444dccc54cf1db2067d498990b998c55d63235871c5db6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_30000.npz",
+      "bytes": 5591645,
+      "sha256": "540d8bd4f07a035e34608c7f89465a024210b30c04b37774fbd9bf5c77f50d55"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_300000.npz",
+      "bytes": 5595582,
+      "sha256": "7a57d69c767eaf0884c876674019c5b1f1e37c34a8cb4370dadba58a5361edec"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_3000000.npz",
+      "bytes": 5613132,
+      "sha256": "852b1f05a16b493a5b68b31ddde763388e014ef74a2b33b77f7a010817cd3cbe"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_330000.npz",
+      "bytes": 5595777,
+      "sha256": "c4eba6fa7d5abcfc20a4df21e132794f9d3c9628aba6631c149111a1e8367742"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_360000.npz",
+      "bytes": 5596063,
+      "sha256": "67ae04865dd746048c22be99ced80595f838f1de4e2c36a4e8e4cd20d3482bd3"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_440000.npz",
+      "bytes": 5597362,
+      "sha256": "0ff81bfaa3062c0c2fa454ed128cf6a0cf958e45a010e2abb62eb16603048d49"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_450000.npz",
+      "bytes": 5597596,
+      "sha256": "c51a4e3119eceb28755b5350281140db07c382ba8c2a453b5fbcaf4e92d4be58"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_540000.npz",
+      "bytes": 5598874,
+      "sha256": "8f7f583102e928246f3969734352259fe090d027ef1d02cd0956a218b153672b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_550000.npz",
+      "bytes": 5598569,
+      "sha256": "2964d402fe094f0947ec0b2b7587d7cf15f1be5ff3f603f59cd81fdb06351eb1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_630000.npz",
+      "bytes": 5599354,
+      "sha256": "363987121150837af60a9032f1e1d7b3afcf16a72209a5c77a161c0b13905000"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_660000.npz",
+      "bytes": 5599662,
+      "sha256": "e92951a14a07b3c56b1b3e81896fa7dcece06a03ac5153a0d479ed5a1fb07a9b"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_7000000.npz",
+      "bytes": 5625936,
+      "sha256": "bd0fa3c22621e96bc6e5e0829c883fcfa9b5985e439bd0ff40baca8a220a3d4d"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_720000.npz",
+      "bytes": 5600114,
+      "sha256": "7456b81cb7030e6b8eb4b2e2e103f207f0c55dd57ab56814075d8a928032eba6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_770000.npz",
+      "bytes": 5600483,
+      "sha256": "79cc67507e9095ec08f097f6c81d799eae44753b1340f024e57497bd32639141"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_810000.npz",
+      "bytes": 5600841,
+      "sha256": "5b3cfd22a87de336adb17bbd8020f11f7be64d94f9b49ddc682ce7d37409dd96"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_880000.npz",
+      "bytes": 5601202,
+      "sha256": "b98ccaba89af5b60647025538eed894ef260c9ac3691fc6037b39f6c7af73c48"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_90000.npz",
+      "bytes": 5592185,
+      "sha256": "c4d389832077c900c102ed886f433a238477516dd8058ededf1c634db30530d1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_900000.npz",
+      "bytes": 5601588,
+      "sha256": "44f70f76de5caae992e76cad133ecd52f7bb9c5d3a46e3d2280acf05ede88ad7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/47b738324b100be3_990000.npz",
+      "bytes": 5601653,
+      "sha256": "17452663a5cee339b3984c789e9fb964662a7989ff02ee9ee906fa5eca04d25a"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_0.npz",
+      "bytes": 869421,
+      "sha256": "7e23359bfede7dfdfe2b29d85483d0549c43791e937ea072779519305d0d3608"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_100000.npz",
+      "bytes": 5592578,
+      "sha256": "214253a457e8168b4baefcf55f64078749c25f05877011d6db51ef81ef9f7aa2"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_110000.npz",
+      "bytes": 5592751,
+      "sha256": "09396a8a1d8871d3f4bc715e4bcd0a077d217c796ff9473b7a48d0f4f5b72207"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_1100000.npz",
+      "bytes": 5602664,
+      "sha256": "f6e90b858d2b2943fcbe701547e9c1fd755a3aed7231adf054e2a02000af2d05"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_90000.npz",
+      "bytes": 5592185,
+      "sha256": "c4d389832077c900c102ed886f433a238477516dd8058ededf1c634db30530d1"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/copper-response/54df102a15a5a583_900000.npz",
+      "bytes": 5601588,
+      "sha256": "44f70f76de5caae992e76cad133ecd52f7bb9c5d3a46e3d2280acf05ede88ad7"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/electrical-startup/transient.dat",
+      "bytes": 8242786,
+      "sha256": "b2e958b1fe39a9e935b1a50ab824a3450ca5e80725405067f346424f030f84bf"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/electrical-startup/transient.npz",
+      "bytes": 3592690,
+      "sha256": "a8587fb492c604881ae1e9e4b4eca85c0313f1a0cf5cfc15a05786f65d87dbb6"
+    },
+    {
+      "path": "wpthb-coupled-2026-11-07/mqs_mesh_mqs.npz",
+      "bytes": 126967,
+      "sha256": "25d80de68f4bedf4f042afe18ea16d80cbea14eaee8595b8c57956052c5c60a6"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/110kHz_10W/transient.npz",
+      "bytes": 5965523,
+      "sha256": "a5eb6002fef07944477cb5c4e1f05ae4d0fc33097a2130b9354a406dbb83390e"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/110kHz_20W/transient.npz",
+      "bytes": 6009715,
+      "sha256": "c2fc39d750465f62840569f0d8945702d99fad0ef1a4b781031d40df9462ba93"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/110kHz_30W/transient.npz",
+      "bytes": 6025340,
+      "sha256": "db727afbe9a0cd49bff8c04d3704785271075c3d15f2752e3b7290f11af56b9b"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/110kHz_5W/transient.npz",
+      "bytes": 5921669,
+      "sha256": "0bd553f9a2088cb8815ef9233fcb156e36460a317d6a549eb60ac1a317b68796"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/90kHz_10W/transient.npz",
+      "bytes": 5913091,
+      "sha256": "2bd5f67ee56461e6e857d32a9b7b302f085e13b9bb45e03218fdf4219f2bad93"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/90kHz_20W/transient.npz",
+      "bytes": 5973796,
+      "sha256": "0423f55b4c99898896e445758eb3c6874d84e83145fd2b9160d0920d028bf047"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/90kHz_30W/transient.npz",
+      "bytes": 5992896,
+      "sha256": "c7fc52df0469c99451b5044e89e56041b14da9531889691acf4afc6143459dbc"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/90kHz_5W/transient.npz",
+      "bytes": 5854872,
+      "sha256": "7f514b878c4bf3ea5570f9ff86a2a8abf116e8932a703cdeeb3a1e255715879e"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_10W/resolution-check/transient.dat",
+      "bytes": 46149730,
+      "sha256": "7ac3b5792ef2870cab102ddafed747bc5ebc22835e954c27b1ad673064523c1c"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_10W/trial-00/transient.npz",
+      "bytes": 9826577,
+      "sha256": "bc173e45b5dba8f26c2e40f25580d1e94900fec8937671b67e0141691e8a0c1e"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_10W/trial-01/transient.npz",
+      "bytes": 3839548,
+      "sha256": "5f746787682a3ae3a8b431cb5162e1e7f278211f7b25f7a30fb34637f778ba4e"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_10W/trial-02/transient.dat",
+      "bytes": 14285922,
+      "sha256": "ccbe14bc4685dab37d444328ed4a736c696e9b9ff3f10635beaa8cba1a5eb309"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_10W/trial-03/transient.dat",
+      "bytes": 14285922,
+      "sha256": "54fb1476657d323bc4c61a273258b60fafb3bf9033d9e75fbbaf06e28db8ea25"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_20W/trial-00/transient.npz",
+      "bytes": 3742460,
+      "sha256": "cacb6cc9fcaf24fa417178a0f38ec54ff5f0351a0e086cd1ecd1819482616bec"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_20W/trial-01/transient.npz",
+      "bytes": 6028924,
+      "sha256": "6a5c2821993f4dda634d228b60cca66c1b99003ddd9596ec81715b6e6c1eda98"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_30W/trial-00/transient.npz",
+      "bytes": 3740605,
+      "sha256": "73036dfe3bbbafcee223309a7187ff1b69ceefb65b0827f4adf3dcd27224c3e6"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_30W/trial-01/transient.npz",
+      "bytes": 3740251,
+      "sha256": "fa52231a8ebdd62eebf9433cc3de8a89bd2a969a009d11423e4dcda868c319ea"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_30W/trial-02/transient.npz",
+      "bytes": 6025884,
+      "sha256": "66c002be56bbf8c0c592e7b5ce26bd96573224c6f94afee593667f3e1eab34a5"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_5W/trial-00/transient.dat",
+      "bytes": 8792162,
+      "sha256": "b2a59bc7e5e23af89d32371cf926f8ee044df05cf63f02f5070c698c325d6a3d"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_5W/trial-01/transient.npz",
+      "bytes": 3839409,
+      "sha256": "dd9f29ee2e4daa414a19e5a2943fe17fd41119fdea582327c687fd3ee3f007b9"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_5W/trial-02/transient.npz",
+      "bytes": 6176161,
+      "sha256": "344f987d46670c6dd2799a864156f358b5463459df5b8750799c0162ee700eca"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_5W/trial-03/transient.npz",
+      "bytes": 6177004,
+      "sha256": "13c7a60147ad3c035483d97d59e5ab90d02f55ee347e7f3e6e46328a2b59002c"
+    },
+    {
+      "path": "wpthb-fixed-100n-2026-11-07/frequency_only_5W/trial-04/transient.npz",
+      "bytes": 9838290,
+      "sha256": "818d8611a5b8b4b4517154e4f38a5decdf55ea624d3ba28cdbc310f9540290a5"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/__pycache__/render.cpython-314.pyc",
+      "bytes": 11492,
+      "sha256": "013ad98e542176636c2ec563e7cb7efa1abeb06583c51ba33421c298ffe856df"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/__pycache__/simulate.cpython-314.pyc",
+      "bytes": 28216,
+      "sha256": "b6f2b3e30f1684bfe310fd3bd72198360e5e3983bd63608779545e578fff6dd7"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/__pycache__/validate.cpython-314.pyc",
+      "bytes": 5058,
+      "sha256": "705a39f95225619cac59e108fa85cf2d3f88b92b7a9eab349d3f93f81cf899d3"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0000.vtr",
+      "bytes": 20322,
+      "sha256": "5a1f550e7dc6d6eda28dd6d2c330e79dfd34fa9811aff9643d757a2a623d93eb"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0001.vtr",
+      "bytes": 20300,
+      "sha256": "245a566545ea26d2868305d6a59649ba17b4ed7d01678ef2f312db7da2947ae1"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0002.vtr",
+      "bytes": 20271,
+      "sha256": "84c30bd83170fec0e7736f51c6d7169d81e7191f8b96e08b1f6572d4dd48cd76"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0003.vtr",
+      "bytes": 20260,
+      "sha256": "9d5658d022ae7412448788c4d3671b3bd94a98c23f09cbf2f79b1f96d415052b"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0004.vtr",
+      "bytes": 20269,
+      "sha256": "408d9a1dedaa581cf0a3b213a3aee368b8ed6a28089d43e7c0ffbeba40d02aae"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0005.vtr",
+      "bytes": 20261,
+      "sha256": "53a36905c05de4df90834559b661e07c28c1252040326cde856a2a588d556ba1"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0006.vtr",
+      "bytes": 20218,
+      "sha256": "06333091292be25c3fecbf933d74e052994101360df5bc3dd142039d7d7ad4a5"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0007.vtr",
+      "bytes": 20201,
+      "sha256": "31376c15c2cd946df85be162ef7d0388ae6c06152ed5b20865a1fe09624a4f3a"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0008.vtr",
+      "bytes": 20251,
+      "sha256": "e28e181b0c27527a1bf80574cb8b35c6021bd728105a7aa89aa0210ff2ea9cb2"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0009.vtr",
+      "bytes": 20347,
+      "sha256": "0fad09478a1708451aa0902c5279274cea30d01869c37ac4fee6c7076461abef"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0010.vtr",
+      "bytes": 20384,
+      "sha256": "42c016cf8b7bc5d18a3ad2ea4768651c118a0f4b3d6c91b004239292b3eeae03"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0011.vtr",
+      "bytes": 20410,
+      "sha256": "49fe2a55bd8920335e776d6c7a62b7ce26fdea835c8ae8d114f4a0afde108a64"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0012.vtr",
+      "bytes": 20478,
+      "sha256": "38fd46b7fa0099a274f20f3c17a4ac9b2d29e5022153a017472f730e26d2620a"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0013.vtr",
+      "bytes": 20465,
+      "sha256": "a693c30fa635ac151517ad25065d902079a9b34da20d3f1603914feb3993d15d"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0014.vtr",
+      "bytes": 20461,
+      "sha256": "0d1239508c7c6baa3aa083403ced6fa08ae8c078756cba5bc6a4f3ad6f04fb37"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0015.vtr",
+      "bytes": 20487,
+      "sha256": "a26f971d7ea5f8f2f458d00ad9ba44445dca929d335f859c9b26e8dcede7f190"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0016.vtr",
+      "bytes": 20616,
+      "sha256": "b4789d85bb3636f22f7e50bf7f79598ea1645ed9bfe2396ee04ebbd33b21f480"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0017.vtr",
+      "bytes": 20545,
+      "sha256": "84dcf819e3bb80dce6104bd7085d3da3aae18c4381fe799a8ab960804e44e6d9"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0018.vtr",
+      "bytes": 20591,
+      "sha256": "1de0aca4eedfa0b3f67269430125e7d9f722af58ef2c7bdf5c3fc304304b3641"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0019.vtr",
+      "bytes": 20596,
+      "sha256": "da8e370fa500b4f6d73ca912c58fee20321850feff979e0ab86d10690c5d5613"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0020.vtr",
+      "bytes": 20647,
+      "sha256": "6053c58ea968c5e6876e4035ddcbb0d6845224beae19cbe0ac8630c99c02696d"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0021.vtr",
+      "bytes": 20618,
+      "sha256": "f2322ef8a7ee3ec9f73ff6eb8a4c7bb0ef82902fc71ef72991a25528e09fd1a9"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0022.vtr",
+      "bytes": 20632,
+      "sha256": "54ea5fa0454e2c6502b67c23bd0016addcff835bc3180350fed98840bb4657bc"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0023.vtr",
+      "bytes": 20630,
+      "sha256": "f8b97d4e266bea4a1ea3b24fd0f2b6679aa45a16a216e84f51ad88fdb6d68d1e"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0024.vtr",
+      "bytes": 20617,
+      "sha256": "00cb82ecfa7054994da7aae466af789d1b95a9ea348f3ea58ae86f6ceccb770c"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0025.vtr",
+      "bytes": 20634,
+      "sha256": "9a62a88dea127cb1b6b1e45b825bd7e379b2f3a80e9ea273d66682ba58a95988"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0026.vtr",
+      "bytes": 20660,
+      "sha256": "fcd848a05f112a1a1f715c18a863e56e837848d2aa87f395117ff9b1bed57078"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0027.vtr",
+      "bytes": 20615,
+      "sha256": "646f43c4d2bc6ac1ff0d44547e17b945c348d3d3a62a05e3a2701ba8ddfdc6f5"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0028.vtr",
+      "bytes": 20657,
+      "sha256": "aa9ee9172edb1e4227501aa8ad2239d77e45e5cca71cb117526d5b40c2248407"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0029.vtr",
+      "bytes": 20689,
+      "sha256": "79467ffce51d0e948d9c25cf66dad93b5a9f4eb16b2760b09047d9a059fa5309"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0030.vtr",
+      "bytes": 20651,
+      "sha256": "d076e46fb3ff42872d76d6f3c0694167292c834f6bbc4f76570ea2c40e7a1ad5"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0031.vtr",
+      "bytes": 20669,
+      "sha256": "2ca780160042c3b5f8b775ac40420503b95f2b2577d6c7c589a6718d844f3f4e"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0032.vtr",
+      "bytes": 20774,
+      "sha256": "fe77657244c2c29762256d0fe0149bf70f14801d7cd26d786f364938df662915"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0033.vtr",
+      "bytes": 20630,
+      "sha256": "fbba482492bb6d10774ed6a761757d6fae02586903cfc2c5fd043a8fcbc8f2a2"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0034.vtr",
+      "bytes": 20611,
+      "sha256": "349150474de5b16cd67614904b9e97e3e486c01aa5626f25b3695497af29a05a"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0035.vtr",
+      "bytes": 20667,
+      "sha256": "adc72db93a1596e6da15dd13a03639dd417423b9b11ff7f2d7998fe27c8bf079"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0036.vtr",
+      "bytes": 20685,
+      "sha256": "df5937dd4e0a7b5a5f9a78d3c207f713525f950520bf7ee6ccbc300842827a91"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0037.vtr",
+      "bytes": 20663,
+      "sha256": "a7988291fa7383dc912b9ae62c3643e518d5d0686044a7147feb4a317c75cc05"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0038.vtr",
+      "bytes": 20650,
+      "sha256": "bce2f439fc444a388d8618ad8e102b1ec7bf38dcdc3fb347961082f8fbaf70b4"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0039.vtr",
+      "bytes": 20628,
+      "sha256": "a4112b4b308b48093a3f11feb647ff6a99f15811744ff1e8256228adf2c0070d"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0040.vtr",
+      "bytes": 20611,
+      "sha256": "5865e3e9ed726860a04d2157f289b597673755c27c0a9f33cce679312232eb2f"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0041.vtr",
+      "bytes": 20531,
+      "sha256": "ce98f3d7be0b44fd43c2f98df9f8880de4c758b121fde410494b5e60e0c9eacd"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0042.vtr",
+      "bytes": 20434,
+      "sha256": "14a0b9c45aa5e8b75ed2a2267ee064ec20f837b7ff491e1658a6b089f3107f84"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0043.vtr",
+      "bytes": 20414,
+      "sha256": "9a6f2306da2e51a381caa92b5520dcdb8cb184ad570916d5e0865e9f647b34de"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0044.vtr",
+      "bytes": 20351,
+      "sha256": "af758d2ee3a2ffbc1d8a3bf4214ec61174057514f73775ce456b780d4c50cff1"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0045.vtr",
+      "bytes": 20346,
+      "sha256": "5c4f7e9223d988a06d2d9e5e8cdc4d2f6304c54897e52ea020e0c447577ea2af"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0046.vtr",
+      "bytes": 20356,
+      "sha256": "161ed6adaaa806d1711bafcc72c46ae4fc6cd96624b84d443aeb7ddd0995839e"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0047.vtr",
+      "bytes": 20327,
+      "sha256": "cc9d017ec2d98079286c8bb5364dd3c63dddba79273dc150a74cef867a491adf"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0048.vtr",
+      "bytes": 20382,
+      "sha256": "341003de98cd29040d9e37bd2d5f0f42e3d7f52bcae4ca6aa7528ead1e300288"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0049.vtr",
+      "bytes": 20387,
+      "sha256": "971032681cdbff71960dee7d08474116963c5e847a418d4f290ef56efcdf7931"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0050.vtr",
+      "bytes": 20334,
+      "sha256": "35b02508c792d50ea0fe8771a5327688edcca1b0bf9bfc4f76c6efde90867f04"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0051.vtr",
+      "bytes": 20310,
+      "sha256": "de06288aaa02f9dc77f457ae95202e2e437fcf03157a78918b84858066635d7a"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0052.vtr",
+      "bytes": 20376,
+      "sha256": "dc223f74f01e5321efa92f6be95a1d45c4eac46abe49ef24c5177d18b71302b7"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0053.vtr",
+      "bytes": 20341,
+      "sha256": "d4d5b5cff196b5b0fb52beccbacdce1591aee4d96c165084204e66698070b2c4"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0054.vtr",
+      "bytes": 20324,
+      "sha256": "1ffffa27b28e84cf86a2fa4a4280d09fa0bc016a861e369d44c2d22b193465b3"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0055.vtr",
+      "bytes": 20339,
+      "sha256": "b46d4478f6f72b0c4864399a89a63ff208c96a2bd5652b3574619b2c243d2349"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0056.vtr",
+      "bytes": 20306,
+      "sha256": "eea1694cc19f5586b680b53c96409ee4eb3b282059aa3f6f00f86fc8f3ce9476"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0057.vtr",
+      "bytes": 20351,
+      "sha256": "b0266a5da0c01a3a39341ecbd47738e4034e8fde1f3f2eea5342dbdb595eb888"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0058.vtr",
+      "bytes": 20341,
+      "sha256": "3039186219c468f4e7e73fa5bd70792533fa1182b0ac98bddbabfa4fa7f47452"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0059.vtr",
+      "bytes": 20349,
+      "sha256": "833fef24c88259846d94b37dc6f2453114c3e60515ae6b114e6bc3197ab15797"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0060.vtr",
+      "bytes": 20339,
+      "sha256": "eaa49b8f1e19bf64d5197add0e2de267f1bbf29e7d68243999014ee71056f3bc"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0061.vtr",
+      "bytes": 20313,
+      "sha256": "8ac0bb9e04a6a9e8c3a0de4f1a098b32318d8a8cc09c2066a30b62ebe0ce7795"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0062.vtr",
+      "bytes": 20333,
+      "sha256": "0021ede7d00f6000c5de407b4f27324ee83c29063e8a75527facbac80a6fe30f"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs/exc_bridge/dump_H_operational_td_0063.vtr",
+      "bytes": 20309,
+      "sha256": "9c8a16e9d94b15dd3cad9033b64423bfdf196ee17e99a85094c884d8e643bb9d"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/mqs_mesh_mqs.npz",
+      "bytes": 127001,
+      "sha256": "4cc47fc1d549e6d4ccc25d69867d90e7e2e3ec623d439722c9a2781f77bb9ad8"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/port_responses_R110m_Cp17p8.npz",
+      "bytes": 74270259,
+      "sha256": "8350433124a20152725efd46bebbc7f34d69c8698ddabbe73dfc0fce792db4aa"
+    },
+    {
+      "path": "wpthb-operational-2026-11-07/time_fields.npz",
+      "bytes": 41233821,
+      "sha256": "9aa1f70c148b31c7c54806eeb80027237a8c4ae892f9a1f24e3fe9b51e485a92"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/__pycache__/profile_ports.cpython-314.pyc",
+      "bytes": 8502,
+      "sha256": "4cbf49b592c64471c8b7aa726f878c96446e5d1034dfcdd111ce727a93b26db7"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/baseline-perf/perf.data",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-0/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "b2790d940e9e18b301a9d76e07c6b62ab59f62d7941890ccd76500b482dd9d9b"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-0/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-1/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "94c93f0ba69ba34c46967d7c2836ec11b5770a0a9446631ec8ae627c40a96c86"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-1/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-2/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "166e4cb5f5c3996c60c998c94aac715cc298c7b049da0924b809c063dcb10c69"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-2/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-3/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "c1110eb94f9a92f77ba362adf77d847959b6fe7558af627ff0aca2d0e04a5ae9"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j1-3/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-0/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "c27bcb8b6923c5f06411009559ce0c462916cebc2cac202c078796659e84cfc4"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-0/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-1/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "c27bcb8b6923c5f06411009559ce0c462916cebc2cac202c078796659e84cfc4"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-1/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-2/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "c27bcb8b6923c5f06411009559ce0c462916cebc2cac202c078796659e84cfc4"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-2/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-3/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "c27bcb8b6923c5f06411009559ce0c462916cebc2cac202c078796659e84cfc4"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/batch-j4-3/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/cli-smoke/110kHz_10W/transient.npz",
+      "bytes": 5973009,
+      "sha256": "19fc960935e683384f44500a544e7750d2c793d49b1c90e9947379d4528a7b20"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/cli-smoke/110kHz_5W/transient.npz",
+      "bytes": 5926463,
+      "sha256": "9bb048b5dcb47fa0103a6b633b566d23209bc791466966deff402e0e6db5d07f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/full52-klu-t1/adaptive-ports.raw",
+      "bytes": 109286519,
+      "sha256": "10df4cb1a75b53b7a14d35300b6d5841ab18b0d9abfbbb806816aa7ae2299cd1"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/full52-klu-t1/transient.dat",
+      "bytes": 24511074,
+      "sha256": "665a867fdd09e45dc5f1a92b2202b455b557c4438c1b9e12a7d7a18827b5eff7"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t1-8/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "357b88839e019b3f027f837122d643371736081f856510597ec1e6ee06414a70"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t1-8/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t4-8/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "68623113ffaccd96d71d65b4bd5e7248ef154f9a8d69f11cf8feced914f7a8a8"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t4-8/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t8-8/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "7546aaab7761257e5f7066a10170f9449539852eaf4abf2311aa2ffb80b7b9da"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/klu-t8-8/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/sparse-t1-8/adaptive-ports.raw",
+      "bytes": 16472518,
+      "sha256": "7693dbe97bb8a51124cb4d4cb32830eeca90cd34440acbf3da1afe4e1af56d63"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/sparse-t1-8/transient.dat",
+      "bytes": 3774050,
+      "sha256": "b8ac4cbfeed856a1f71e182b1e0917704f8ce2ce148dd0af3ccff0d172bfa257"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-0/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "aa531a9e7c8ea331f6f34c40cbce68f4b539ed0a934499fc77559e5161621a57"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-0/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-1/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "9329430801af468e4b543d2207c427d7402e3940a701cff8b586786db4fb512b"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-1/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-2/adaptive-ports.raw",
+      "bytes": 16471918,
+      "sha256": "1d03bb021b183d7d7c61b0b621043304f304b8fae24f912f93b8d22f2c34a2be"
+    },
+    {
+      "path": "wpthb-profile-2026-11-07/split-before-2/transient.dat",
+      "bytes": 3774050,
+      "sha256": "c366dfc358b892275299faae470fb7945339433e41e9f52f2f5a9bcfc0dd8d9f"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/currents_fields.npz",
+      "bytes": 2697169,
+      "sha256": "7f1802e6c3b18be449ee8df943133948dfd272ac9f18522463953d41e66d1846"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/mqs/exc_coil/dump_H_topp1mm_fd.npz",
+      "bytes": 85593,
+      "sha256": "b2c8171c69a37e681a9b407f5e00c4fe591ba836cbe3dac87ee77a55dcc79572"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/mqs/exc_coil/dump_H_topp3mm_fd.npz",
+      "bytes": 85336,
+      "sha256": "eb1ffc6ca1698c5322bfa3b08609c770e3017258d94e72e071dd1c54b5a4c3cd"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/mqs/exc_coil/dump_H_topp5mm_fd.npz",
+      "bytes": 84683,
+      "sha256": "d212094848a5d4e52c2a67331cbde730ed388fa1ca712ca5368219e9adf255e8"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/mqs/exc_coil/dump_H_volume_fd.npz",
+      "bytes": 253190,
+      "sha256": "5faf3b8f36d8b850447c2dea749d2be991b7ff82aa640399c3bb40c869a2890e"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q1_Q4/mqs_mesh_mqs.npz",
+      "bytes": 126728,
+      "sha256": "dc139bfb26a1641c20dbbfdeaa1f9857a526917c8725ec5dc944d0ca3cd26f77"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/currents_fields.npz",
+      "bytes": 2697139,
+      "sha256": "f0d5cdc9912309e7dcd57805e2667212ae23d151619b0c2ee392f813d6bd6aaf"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp1mm_fd.npz",
+      "bytes": 85655,
+      "sha256": "57aec69d19bc3cad1730a276f64b6da78685dd4a3574ed53435160a15425578b"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp3mm_fd.npz",
+      "bytes": 85309,
+      "sha256": "ddfa77f55deb62409e320a13139262e71b0e8ffb9868150570e1f12dddbe4691"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp5mm_fd.npz",
+      "bytes": 84935,
+      "sha256": "161773ae70800b1d6a1078c0267afc46ee77c9870c25a7c09f4ef17bd6d38aa5"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/mqs/exc_coil/dump_H_volume_fd.npz",
+      "bytes": 253538,
+      "sha256": "0e8eb1b4b79a5d4c90fb73c68beac9270d3d9ddaf96a839f8a0e0155dfd04999"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/diagonal_Q2_Q3/mqs_mesh_mqs.npz",
+      "bytes": 126728,
+      "sha256": "dc139bfb26a1641c20dbbfdeaa1f9857a526917c8725ec5dc944d0ca3cd26f77"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/currents_fields.npz",
+      "bytes": 580495,
+      "sha256": "f20acf181f51b5c4d495c4256e034a26bf165a006ad11b14526fa06c19594df1"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp1mm_fd.npz",
+      "bytes": 15270,
+      "sha256": "8d89b33b1bc430a93c1254790543e9a78b32083b67dd29c400612e4534470327"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp3mm_fd.npz",
+      "bytes": 15219,
+      "sha256": "ccca5f6e1a640679058e538d56408905c5590868f33850b8df97f9c8198e1dd9"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/mqs/exc_coil/dump_H_topp5mm_fd.npz",
+      "bytes": 15134,
+      "sha256": "401a5afc51c5de91c9217a49782a3edd37a3d627fbfc65d0512e7fad1c671785"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/mqs/exc_coil/dump_H_volume_fd.npz",
+      "bytes": 43285,
+      "sha256": "3ab016e2f7b70327cf1f0d52fd4366a140a40e593b661c8f0909dd2fb05e2053"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/fine-check/diagonal_Q2_Q3/mqs_mesh_mqs.npz",
+      "bytes": 135961,
+      "sha256": "b784684cdc17ca2c9458f5adb7a1933ed3afbfed15a2b89fab7759cb3d5e035d"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/currents_fields.npz",
+      "bytes": 2699067,
+      "sha256": "39b07ea70bc082dd51c7cc49c7573d3aaa0c107b4206e06aa0487b137850f65e"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/mqs/exc_coil/dump_H_topp1mm_fd.npz",
+      "bytes": 86105,
+      "sha256": "a6601a7b8396fb5db08b6d5d585dbae531201a5a73379a3acf5c0e7fee719d11"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/mqs/exc_coil/dump_H_topp3mm_fd.npz",
+      "bytes": 85586,
+      "sha256": "4810772ae4be3e20c1f5d1b34e8f557d19efb20ba3c0d11d6f05d2342a0a3d71"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/mqs/exc_coil/dump_H_topp5mm_fd.npz",
+      "bytes": 85132,
+      "sha256": "3fbbf94383ed809829c85baf986b4c830d96f501e3897dc5c118c01a5197694c"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/mqs/exc_coil/dump_H_volume_fd.npz",
+      "bytes": 253779,
+      "sha256": "facedcfc0bbea58884afe8c1c0c1f584b9086034d95738690714d0cbdeff9609"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_high_Q1_Q2/mqs_mesh_mqs.npz",
+      "bytes": 126728,
+      "sha256": "dc139bfb26a1641c20dbbfdeaa1f9857a526917c8725ec5dc944d0ca3cd26f77"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/currents_fields.npz",
+      "bytes": 2699125,
+      "sha256": "145ce2eaa51564e1a916b6b7d1246cc4f244723866620424461a086dd81f6f8d"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/mqs/exc_coil/dump_H_topp1mm_fd.npz",
+      "bytes": 85722,
+      "sha256": "59ec3d9df3a728bb1aa1984d7e7b5428bb909461a4b00ed6546ea7ac45238ead"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/mqs/exc_coil/dump_H_topp3mm_fd.npz",
+      "bytes": 85261,
+      "sha256": "e824ed932413c0bbdd3cee0f78145489c953ddd380f3e8fe0861800bbe7efb08"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/mqs/exc_coil/dump_H_topp5mm_fd.npz",
+      "bytes": 84966,
+      "sha256": "1b250125c25767c7525b841e4cafe85459bea2b27f734c3259121a94d1587eb7"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/mqs/exc_coil/dump_H_volume_fd.npz",
+      "bytes": 253337,
+      "sha256": "095d84c2f338e63a65bee32ef8bac37ab35adaee6bb2b214c7cdbf51555fcb41"
+    },
+    {
+      "path": "wpthb-qs-2026-11-07/freewheel_low_Q3_Q4/mqs_mesh_mqs.npz",
+      "bytes": 126728,
+      "sha256": "dc139bfb26a1641c20dbbfdeaa1f9857a526917c8725ec5dc944d0ca3cd26f77"
+    }
+  ]
+}

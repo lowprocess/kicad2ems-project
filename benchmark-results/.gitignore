@@ -1,3 +1,20 @@
 # Regenerated from the installed KiCad demos by the checked-in scripts.
 cm5-mesh-2026-11-07/board.json
 roadmap-2026-11-07/jetson-board.json
+
+# Reproducible solver arrays, caches and raw output stay local. Previously
+# committed reference meshes/fields remain tracked.
+*.npz
+*.vtr
+*.raw
+*.dat
+*.data
+__pycache__/
+*.py[cod]
+
+# Local source snapshots, package builds and transport/install diagnostics.
+*.tar.gz
+*.whl
+pcbqs-split-2026-11-07/*install*.log
+pcbqs-split-2026-11-07/publish*.log
+pcbqs-split-2026-11-07/refresh-editables.log

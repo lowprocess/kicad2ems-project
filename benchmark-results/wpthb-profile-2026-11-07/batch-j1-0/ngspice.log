@@ -1,0 +1,164 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: transient power circuit
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using KLU as Direct Linear Solver
+Operating point simulation skipped by 'uic',
+  now using transient initial conditions.
+ Reference value :  5.19531e-08 Reference value :  1.00930e-07 Reference value :  1.80301e-07 Reference value :  3.15279e-07 Reference value :  2.39550e-06 Reference value :  4.52769e-06 Reference value :  4.61311e-06 Reference value :  4.73402e-06 Reference value :  6.83797e-06 Reference value :  6.91613e-06 Reference value :  7.76261e-06 Reference value :  9.11610e-06 Reference value :  9.17983e-06 Reference value :  9.25955e-06 Reference value :  9.38719e-06 Reference value :  1.13809e-05 Reference value :  1.14544e-05 Reference value :  1.15944e-05 Reference value :  1.36499e-05 Reference value :  1.37173e-05 Reference value :  1.37939e-05 Reference value :  1.38993e-05 Reference value :  1.59132e-05 Reference value :  1.59922e-05 Reference value :  1.60988e-05 Reference value :  1.81724e-05 Reference value :  1.82520e-05 Reference value :  1.83151e-05 Reference value :  1.84106e-05 Reference value :  2.04407e-05 Reference value :  2.05124e-05 Reference value :  2.05905e-05 Reference value :  2.26946e-05 Reference value :  2.27919e-05 Reference value :  2.28408e-05 Reference value :  2.29230e-05 Reference value :  2.38081e-05 Reference value :  2.50354e-05 Reference value :  2.51115e-05 Reference value :  2.65998e-05 Reference value :  2.73202e-05 Reference value :  2.73639e-05 Reference value :  2.74465e-05 Reference value :  2.75665e-05 Reference value :  2.95600e-05 Reference value :  2.96325e-05 Reference value :  2.97540e-05 Reference value :  3.18236e-05 Reference value :  3.18947e-05 Reference value :  3.19663e-05 Reference value :  3.20625e-05 Reference value :  3.40861e-05 Reference value :  3.41641e-05 Reference value :  3.42558e-05 Reference value :  3.63411e-05 Reference value :  3.64305e-05 Reference value :  3.64838e-05 Reference value :  3.65709e-05 Reference value :  3.86083e-05 Reference value :  3.86779e-05 Reference value :  3.87513e-05 Reference value :  4.08609e-05 Reference value :  4.09602e-05 Reference value :  4.10081e-05 Reference value :  4.10897e-05 Reference value :  4.12301e-05 Reference value :  4.32052e-05 Reference value :  4.32815e-05 Reference value :  4.38680e-05 Reference value :  4.54767e-05 Reference value :  4.55343e-05 Reference value :  4.56135e-05 Reference value :  4.57215e-05 Reference value :  4.77310e-05 Reference value :  4.78094e-05 Reference value :  4.79037e-05 Reference value :  4.99886e-05 Reference value :  5.00694e-05 Reference value :  5.01355e-05 Reference value :  5.02258e-05 Reference value :  5.22596e-05 Reference value :  5.23325e-05 Reference value :  5.24162e-05 Reference value :  5.45140e-05 Reference value :  5.46091e-05 Reference value :  5.46579e-05 Reference value :  5.47437e-05 Reference value :  5.53205e-05 Reference value :  5.68495e-05 Reference value :  5.69226e-05 Reference value :  5.80711e-05 Reference value :  5.91296e-05 Reference value :  5.91824e-05 Reference value :  5.92610e-05 Reference value :  5.93811e-05 Reference value :  6.13771e-05 Reference value :  6.14521e-05 Reference value :  6.15799e-05 Reference value :  6.36390e-05 Reference value :  6.37109e-05 Reference value :  6.37828e-05 Reference value :  6.38794e-05 Reference value :  6.58997e-05 Reference value :  6.59752e-05 Reference value :  6.60576e-05 Reference value :  6.81564e-05 Reference value :  6.82481e-05 Reference value :  6.83072e-05 Reference value :  6.83936e-05 Reference value :  7.04322e-05 Reference value :  7.05021e-05 Reference value :  7.05806e-05 Reference value :  7.26860e-05
+No. of Data Rows : 82356
+PROFILE_AFTER_TRAN
+Total elapsed time (seconds) = 28.444 
+Total DRAM available = 31918.082 MB.
+DRAM currently available = 20821.668 MB.
+Maximum ngspice program size =  100.426 MB.
+Current ngspice program size =   81.605 MB.
+
+Shared ngspice pages =   14.980 MB.
+Text (code) pages =    6.422 MB.
+Stack = 0 bytes.
+Library pages =   67.168 MB.
+
+Number of lines in the deck = 2575
+Netlist loading time = 0.00283164
+Subckt and Param expansion time = 0.00204835
+Netlist parsing time = 0.00151759
+
+Nominal temperature = 27
+Operating temperature = 27
+Total iterations = 286700
+Transient iterations = 286700
+Circuit Equations = 371
+Circuit original non-zeroes = 3212
+Circuit fill-in non-zeroes = 6016
+Circuit total non-zeroes = 9228
+Transient timepoints = 114313
+Accepted timepoints = 82357
+Rejected timepoints = 31956
+Total analysis time (seconds) = 28.4328
+Matrix load time = 3.06601
+Matrix synchronize time = 0
+Matrix reorder time = 0.000366539
+Matrix factor time = 23.0831
+Matrix solve time = 1.56432
+Transient analysis time = 28.4319
+Transient load time = 3.06599
+Transient sync time = 0
+Transient factor time = 23.0831
+Transient solve time = 1.56432
+Transient trunc time = 0.340692
+Transient iterations for the last time point = 0
+AC analysis time = 0
+AC load time = 0
+AC sync time = 0
+AC factor time = 0
+AC solve time = 0
+m0                  =  3.97009e+01 from=  6.36364e-05 to=  7.27273e-05
+m1                  =  2.86674e+01 from=  6.36364e-05 to=  7.27273e-05
+m2                  =  2.15310e+00 from=  6.36364e-05 to=  7.27273e-05
+m3                  =  2.03939e+00 from=  6.36364e-05 to=  7.27273e-05
+m4                  =  3.16630e+00 at=  6.99371e-05
+m5                  =  3.01431e+00 from=  6.36364e-05 to=  7.27273e-05
+m6                  =  1.07572e-02 from=  6.36364e-05 to=  7.27273e-05
+m7                  =  -5.56759e-06 from=  6.36364e-05 to=  7.27273e-05
+m8                  =  2.11233e-05 from=  6.36364e-05 to=  7.27273e-05
+m9                  =  5.93090e-05 from=  6.36364e-05 to=  7.27273e-05
+m10                 =  3.67271e-06 from=  6.36364e-05 to=  7.27273e-05
+m11                 =  1.11600e-04 from=  6.36364e-05 to=  7.27273e-05
+m12                 =  4.47434e-07 from=  6.36364e-05 to=  7.27273e-05
+m13                 =  1.81984e-04 from=  6.36364e-05 to=  7.27273e-05
+m14                 =  -8.34678e-06 from=  6.36364e-05 to=  7.27273e-05
+m15                 =  2.29773e-04 from=  6.36364e-05 to=  7.27273e-05
+m16                 =  -1.93043e-05 from=  6.36364e-05 to=  7.27273e-05
+m17                 =  1.62240e-04 from=  6.36364e-05 to=  7.27273e-05
+m18                 =  8.16048e-04 from=  6.36364e-05 to=  7.27273e-05
+m19                 =  1.21482e-03 from=  6.36364e-05 to=  7.27273e-05
+m20                 =  6.82928e-04 from=  6.36364e-05 to=  7.27273e-05
+m21                 =  1.07772e-03 from=  6.36364e-05 to=  7.27273e-05
+m22                 =  4.31567e-04 from=  6.36364e-05 to=  7.27273e-05
+m23                 =  1.02406e-03 from=  6.36364e-05 to=  7.27273e-05
+m24                 =  5.70513e-03 from=  6.36364e-05 to=  7.27273e-05
+m25                 =  1.48654e-04 from=  6.36364e-05 to=  7.27273e-05
+m26                 =  9.39079e-04 from=  6.36364e-05 to=  7.27273e-05
+m27                 =  1.53417e-03 from=  6.36364e-05 to=  7.27273e-05
+m28                 =  -5.07812e-03 from=  6.36364e-05 to=  7.27273e-05
+m29                 =  -3.59545e-04 from=  6.36364e-05 to=  7.27273e-05
+m30                 =  8.96799e-03 from=  6.36364e-05 to=  7.27273e-05
+m31                 =  1.36875e-01 from=  6.36364e-05 to=  7.27273e-05
+m32                 =  2.05381e-03 from=  6.36364e-05 to=  7.27273e-05
+m33                 =  2.37514e-01 from=  6.36364e-05 to=  7.27273e-05
+m34                 =  2.37390e+00 from=  6.36364e-05 to=  7.27273e-05
+m35                 =  2.37385e+00 from=  6.36364e-05 to=  7.27273e-05
+m36                 =  2.37382e+00 from=  6.36364e-05 to=  7.27273e-05
+m37                 =  2.37383e+00 from=  6.36364e-05 to=  7.27273e-05
+m38                 =  2.37733e-01 from=  6.36364e-05 to=  7.27273e-05
+m39                 =  1.20177e-01 from=  6.36364e-05 to=  7.27273e-05
+m40                 =  1.20187e-01 from=  6.36364e-05 to=  7.27273e-05
+m41                 =  1.20194e-01 from=  6.36364e-05 to=  7.27273e-05
+m42                 =  1.36875e-02 from=  6.36364e-05 to=  7.27273e-05
+m43                 =  1.18725e-01 from=  6.36364e-05 to=  7.27273e-05
+m44                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m45                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m46                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m47                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m48                 =  4.94143e-02 from=  6.36364e-05 to=  7.27273e-05
+m49                 =  1.03318e-01 from=  6.36364e-05 to=  7.27273e-05
+m50                 =  4.93723e-02 from=  6.36364e-05 to=  7.27273e-05
+m51                 =  1.02279e-01 from=  6.36364e-05 to=  7.27273e-05
+m52                 =  2.99275e+01 from=  6.36364e-05 to=  7.27273e-05
+m53                 =  -2.89675e+01 from=  6.36364e-05 to=  7.27273e-05
+m54                 =  3.00100e-01 from=  6.36364e-05 to=  7.27273e-05
+m55                 =  2.86674e+01 from=  6.36364e-05 to=  7.27273e-05
+binary raw file "adaptive-ports.raw"
+PROFILE_AFTER_OUTPUT
+Total elapsed time (seconds) = 28.605 
+elapsed time since last call (seconds) = 0.161 
+Total DRAM available = 31918.082 MB.
+DRAM currently available = 20669.234 MB.
+Maximum ngspice program size =  209.438 MB.
+Current ngspice program size =  190.609 MB.
+
+Shared ngspice pages =   15.027 MB.
+Text (code) pages =    6.422 MB.
+Stack = 0 bytes.
+Library pages =  176.180 MB.
+
+Number of lines in the deck = 2575
+Netlist loading time = 0.00283164
+Subckt and Param expansion time = 0.00204835
+Netlist parsing time = 0.00151759
+
+Nominal temperature = 27
+Operating temperature = 27
+Total iterations = 286700
+Transient iterations = 286700
+Circuit Equations = 371
+Circuit original non-zeroes = 3212
+Circuit fill-in non-zeroes = 6016
+Circuit total non-zeroes = 9228
+Transient timepoints = 114313
+Accepted timepoints = 82357
+Rejected timepoints = 31956
+Total analysis time (seconds) = 28.4328
+Matrix load time = 3.06601
+Matrix synchronize time = 0
+Matrix reorder time = 0.000366539
+Matrix factor time = 23.0831
+Matrix solve time = 1.56432
+Transient analysis time = 28.4319
+Transient load time = 3.06599
+Transient sync time = 0
+Transient factor time = 23.0831
+Transient solve time = 1.56432
+Transient trunc time = 0.340692
+Transient iterations for the last time point = 0
+AC analysis time = 0
+AC load time = 0
+AC sync time = 0
+AC factor time = 0
+AC solve time = 0
+ngspice-47 done

@@ -1,0 +1,17 @@
+{
+  "name": "baseline-perf",
+  "threads": 1,
+  "solver": "klu",
+  "cycles": 8,
+  "output": "full",
+  "perf": true,
+  "cpu": "2",
+  "wall_s": 0.03177203700033715,
+  "user_s": 0.011857999999999999,
+  "system_s": 0.009063,
+  "max_rss_KiB": 51148,
+  "returncode": 255,
+  "aborted": false,
+  "measurements": {},
+  "source": "/home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_30W/circuit.cir"
+}

@@ -1,0 +1,11 @@
+{
+  "physical_netlist_unchanged": true,
+  "half_maximum_timestep": true,
+  "relative_measure_changes": {
+    "load_power_W": 5.348952273984623e-05,
+    "input_power_W": 4.397440689519611e-05,
+    "primary_rms_A": 1.3567477850980452e-05,
+    "secondary_rms_A": 2.4001536098467528e-05
+  },
+  "seconds": 188.7280114919995
+}

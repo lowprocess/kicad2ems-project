@@ -1,0 +1,12 @@
+Processing ./kicad2ems-gui
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: kicad2ems-gui
+  Building wheel for kicad2ems-gui (pyproject.toml): started
+  Building wheel for kicad2ems-gui (pyproject.toml): finished with status 'done'
+  Created wheel for kicad2ems-gui: filename=kicad2ems_gui-261107.post1-py3-none-any.whl size=181874 sha256=11a2df9f7700b83dad10ee7c8f2b4920b764f18e1c36695584fb1dfd12718b11
+  Stored in directory: /tmp/pip-ephem-wheel-cache-9d2g2wtl/wheels/d0/65/76/3881cd4c09f0fb6fcced6faf795aae4645445ebda16085b48f
+Successfully built kicad2ems-gui
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip

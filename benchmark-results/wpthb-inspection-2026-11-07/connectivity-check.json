@@ -1,0 +1,221 @@
+{
+  "Q1": {
+    "schematic_nets": [
+      "/HR_GH_LIM",
+      "/HR_SW",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "/HR_GH_LIM",
+      "/HR_SW",
+      "VHB"
+    ],
+    "match": true
+  },
+  "Q2": {
+    "schematic_nets": [
+      "/HL_GH_LIM",
+      "/HL_SW",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "/HL_GH_LIM",
+      "/HL_SW",
+      "VHB"
+    ],
+    "match": true
+  },
+  "Q3": {
+    "schematic_nets": [
+      "/HR_GL_LIM",
+      "/HR_SW",
+      "GND"
+    ],
+    "pcb_nets": [
+      "/HR_GL_LIM",
+      "/HR_SW",
+      "GND"
+    ],
+    "match": true
+  },
+  "Q4": {
+    "schematic_nets": [
+      "/HL_GL_LIM",
+      "/HL_SW",
+      "GND"
+    ],
+    "pcb_nets": [
+      "/HL_GL_LIM",
+      "/HL_SW",
+      "GND"
+    ],
+    "match": true
+  },
+  "U6": {
+    "schematic_nets": [
+      "/HR_BST",
+      "/HR_C",
+      "/HR_D",
+      "/HR_GH",
+      "/HR_GL",
+      "/HR_SW",
+      "12V",
+      "GND"
+    ],
+    "pcb_nets": [
+      "/HR_BST",
+      "/HR_C",
+      "/HR_D",
+      "/HR_GH",
+      "/HR_GL",
+      "/HR_SW",
+      "12V",
+      "GND"
+    ],
+    "match": true
+  },
+  "U7": {
+    "schematic_nets": [
+      "/HL_A",
+      "/HL_B",
+      "/HL_BST",
+      "/HL_GH",
+      "/HL_GL",
+      "/HL_SW",
+      "12V",
+      "GND"
+    ],
+    "pcb_nets": [
+      "/HL_A",
+      "/HL_B",
+      "/HL_BST",
+      "/HL_GH",
+      "/HL_GL",
+      "/HL_SW",
+      "12V",
+      "GND"
+    ],
+    "match": true
+  },
+  "L3": {
+    "schematic_nets": [
+      "VBUS",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "VBUS",
+      "VHB"
+    ],
+    "match": true
+  },
+  "R9": {
+    "schematic_nets": [
+      "VBUS",
+      "VIN"
+    ],
+    "pcb_nets": [
+      "VBUS",
+      "VIN"
+    ],
+    "match": true
+  },
+  "C19": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C20": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C21": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C22": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C23": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C24": {
+    "schematic_nets": [
+      "GND",
+      "VHB"
+    ],
+    "pcb_nets": [
+      "GND",
+      "VHB"
+    ],
+    "match": true
+  },
+  "C25": {
+    "schematic_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "pcb_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "match": true
+  },
+  "C27": {
+    "schematic_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "pcb_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "match": true
+  },
+  "C30": {
+    "schematic_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "pcb_nets": [
+      "/HL_AC",
+      "/HL_SW"
+    ],
+    "match": true
+  }
+}

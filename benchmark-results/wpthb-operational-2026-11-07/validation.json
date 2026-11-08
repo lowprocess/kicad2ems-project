@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "SRF and DCR endpoints",
+    "positive-real coil impedance",
+    "finite vector fields",
+    "switch boundary residual",
+    "port reciprocity",
+    "input power versus copper + coil loss (<2%)",
+    "zero output at zero phase",
+    "monotonic phase current",
+    "independent lumped tank fundamental (<2%)",
+    "GUI VTK axis/units/field round-trip",
+    "64 time-domain GUI frames"
+  ],
+  "power_balance_relative": 0.0005024281597026298,
+  "tank_fundamental_relative": 0.0021845260043039335,
+  "coil_Q_125k_from_DCR": 171.31443846834233
+}

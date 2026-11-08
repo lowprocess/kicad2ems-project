@@ -1,0 +1,17 @@
+{
+  "name": "klu-solve-t1-8",
+  "threads": 1,
+  "solver": "klu",
+  "cycles": 8,
+  "output": "solve",
+  "perf": false,
+  "cpu": "2,4,6,8,10,12,14,0",
+  "wall_s": 29.127520828998968,
+  "user_s": 28.995956,
+  "system_s": 0.029934,
+  "max_rss_KiB": 84024,
+  "returncode": 0,
+  "aborted": false,
+  "measurements": {},
+  "source": "/home/bt/projects/kicad2ems-project/benchmark-results/wpthb-coupled-2026-11-07/110kHz_30W/circuit.cir"
+}

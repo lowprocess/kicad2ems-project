@@ -1,0 +1,5 @@
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip
+{"pcbqs_installed": false, "kicad2ems_installed": false, "native_backend": "mom25d._core"}
+

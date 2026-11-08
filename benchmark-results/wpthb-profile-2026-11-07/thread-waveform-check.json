@@ -1,0 +1,14 @@
+{
+  "klu-t4-8": {
+    "same_shape": true,
+    "max_abs_difference": 0.0
+  },
+  "klu-t8-8": {
+    "same_shape": true,
+    "max_abs_difference": 0.0
+  },
+  "sparse-t1-8": {
+    "same_shape": true,
+    "max_abs_difference": 0.049469299999998384
+  }
+}

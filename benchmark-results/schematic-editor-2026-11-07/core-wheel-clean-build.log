@@ -1,0 +1,13 @@
+Processing /tmp/kicad2ems-publish-c4i6yeyv
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: kicad2ems
+  Building wheel for kicad2ems (pyproject.toml): started
+  Building wheel for kicad2ems (pyproject.toml): finished with status 'done'
+  Created wheel for kicad2ems: filename=kicad2ems-261107.post2-py3-none-any.whl size=311089 sha256=84355e5794290bbba5720de163e9e6fe1419c900eb72e45292ebee7c1e840573
+  Stored in directory: /tmp/pip-ephem-wheel-cache-mcdxzqnd/wheels/73/05/d8/0acf19fb88935403d47592282686869c30cec837e5b33c7931
+Successfully built kicad2ems
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip
+All coordinated source pins are present in wheel metadata.

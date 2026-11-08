@@ -1,0 +1,7 @@
+mqs: 14,169 triangles on 4 layer(s), 19,144 edges, 267 via segments, 28 terminals
+preflight {"triangles": 14169, "edges": 19144, "vias": 267, "crop_mm": [139.0, -60.5, 164.79999999999998, -31.0], "mesh_s": 0.186346049000349, "dmax_mm": 3.0, "fine_mm": 1.4, "dense_work_estimate_GB": 15.220163616, "layers": {"B.Cu": {"triangles": 3255, "max_edge_mm": 2.937926000000033, "min_angle_deg": 0.3112385748425827}, "In2.Cu": {"triangles": 3255, "max_edge_mm": 2.6999322222222304, "min_angle_deg": 0.2686023030593943}, "In1.Cu": {"triangles": 3296, "max_edge_mm": 2.95000000000001, "min_angle_deg": 0.2686023030593943}, "F.Cu": {"triangles": 4363, "max_edge_mm": 4.176122603564209, "min_angle_deg": 0.27760908217549646}}}
+mqs: openmp matrix fill, 8 worker(s), 6.37 s
+mqs: 8,913 loops; matrices in 23.3 s
+diagonal_Q2_Q3 solved 28.733663607999915
+diagonal_Q2_Q3 field 0.6039983070004382 KCL 4.4297396115302415e-16 direct error 0.001380773512918222
+done

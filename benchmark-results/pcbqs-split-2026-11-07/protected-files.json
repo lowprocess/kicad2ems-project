@@ -1,0 +1,14 @@
+{
+  "mom25d": [
+    "base.py",
+    "geo.py",
+    "sing.py",
+    "line.py",
+    "farfield.py",
+    "biot.py",
+    "core/build.py",
+    "core/mom25d_core.cpp",
+    "core/static_kernels.hpp"
+  ],
+  "emsdev": "all tracked files unchanged; git status clean"
+}

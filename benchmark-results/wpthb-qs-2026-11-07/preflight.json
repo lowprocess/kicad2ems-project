@@ -1,0 +1,37 @@
+{
+  "triangles": 13490,
+  "edges": 18188,
+  "vias": 267,
+  "crop_mm": [
+    139.0,
+    -60.5,
+    164.79999999999998,
+    -31.0
+  ],
+  "mesh_s": 0.17854746199918736,
+  "dmax_mm": 3.0,
+  "fine_mm": 1.6,
+  "dense_work_estimate_GB": 13.762643456,
+  "layers": {
+    "B.Cu": {
+      "triangles": 3081,
+      "max_edge_mm": 2.937926000000033,
+      "min_angle_deg": 0.3112385748425827
+    },
+    "In2.Cu": {
+      "triangles": 3068,
+      "max_edge_mm": 2.6999322222222304,
+      "min_angle_deg": 0.2686023030593943
+    },
+    "In1.Cu": {
+      "triangles": 3092,
+      "max_edge_mm": 2.95000000000001,
+      "min_angle_deg": 0.2686023030593943
+    },
+    "F.Cu": {
+      "triangles": 4249,
+      "max_edge_mm": 4.272001872658765,
+      "min_angle_deg": 0.27760908217549646
+    }
+  }
+}

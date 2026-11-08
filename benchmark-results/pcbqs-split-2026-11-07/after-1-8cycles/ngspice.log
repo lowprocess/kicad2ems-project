@@ -1,0 +1,243 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: transient power circuit
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using KLU as Direct Linear Solver
+Operating point simulation skipped by 'uic',
+  now using transient initial conditions.
+ Reference value :  4.65206e-08
+ Reference value :  8.78243e-08
+ Reference value :  1.56569e-07
+ Reference value :  2.45307e-07
+ Reference value :  2.35587e-06
+ Reference value :  2.48947e-06
+ Reference value :  4.55657e-06
+ Reference value :  4.63188e-06
+ Reference value :  4.97935e-06
+ Reference value :  6.84176e-06
+ Reference value :  6.91165e-06
+ Reference value :  7.03958e-06
+ Reference value :  9.08595e-06
+ Reference value :  9.15977e-06
+ Reference value :  9.22257e-06
+ Reference value :  9.30198e-06
+ Reference value :  1.13390e-05
+ Reference value :  1.13998e-05
+ Reference value :  1.14641e-05
+ Reference value :  1.16081e-05
+ Reference value :  1.36403e-05
+ Reference value :  1.37081e-05
+ Reference value :  1.37688e-05
+ Reference value :  1.38479e-05
+ Reference value :  1.58806e-05
+ Reference value :  1.59407e-05
+ Reference value :  1.60080e-05
+ Reference value :  1.61349e-05
+ Reference value :  1.81771e-05
+ Reference value :  1.82514e-05
+ Reference value :  1.83048e-05
+ Reference value :  1.83839e-05
+ Reference value :  1.86224e-05
+ Reference value :  2.04751e-05
+ Reference value :  2.05406e-05
+ Reference value :  2.06370e-05
+ Reference value :  2.27093e-05
+ Reference value :  2.27937e-05
+ Reference value :  2.28400e-05
+ Reference value :  2.29120e-05
+ Reference value :  2.30297e-05
+ Reference value :  2.50093e-05
+ Reference value :  2.50816e-05
+ Reference value :  2.51609e-05
+ Reference value :  2.72425e-05
+ Reference value :  2.73343e-05
+ Reference value :  2.73715e-05
+ Reference value :  2.74454e-05
+ Reference value :  2.75448e-05
+ Reference value :  2.95437e-05
+ Reference value :  2.96131e-05
+ Reference value :  2.96785e-05
+ Reference value :  3.17770e-05
+ Reference value :  3.18696e-05
+ Reference value :  3.19059e-05
+ Reference value :  3.19757e-05
+ Reference value :  3.20623e-05
+ Reference value :  3.40803e-05
+ Reference value :  3.41444e-05
+ Reference value :  3.42157e-05
+ Reference value :  3.61120e-05
+ Reference value :  3.63920e-05
+ Reference value :  3.64390e-05
+ Reference value :  3.64981e-05
+ Reference value :  3.65760e-05
+ Reference value :  3.76464e-05
+ Reference value :  3.86643e-05
+ Reference value :  3.87281e-05
+ Reference value :  3.88351e-05
+ Reference value :  4.08981e-05
+ Reference value :  4.09761e-05
+ Reference value :  4.10293e-05
+ Reference value :  4.11059e-05
+ Reference value :  4.12555e-05
+ Reference value :  4.32026e-05
+ Reference value :  4.32703e-05
+ Reference value :  4.33741e-05
+ Reference value :  4.54373e-05
+ Reference value :  4.55200e-05
+ Reference value :  4.55668e-05
+ Reference value :  4.56429e-05
+ Reference value :  4.57640e-05
+ Reference value :  4.77386e-05
+ Reference value :  4.78093e-05
+ Reference value :  4.78858e-05
+ Reference value :  4.99713e-05
+ Reference value :  5.00614e-05
+ Reference value :  5.01026e-05
+ Reference value :  5.01743e-05
+ Reference value :  5.02777e-05
+ Reference value :  5.22739e-05
+ Reference value :  5.23455e-05
+ Reference value :  5.24194e-05
+ Reference value :  5.45095e-05
+ Reference value :  5.45992e-05
+ Reference value :  5.46351e-05
+ Reference value :  5.47082e-05
+ Reference value :  5.47981e-05
+ Reference value :  5.68081e-05
+ Reference value :  5.68728e-05
+ Reference value :  5.69372e-05
+ Reference value :  5.85827e-05
+ Reference value :  5.91197e-05
+ Reference value :  5.91705e-05
+ Reference value :  5.92361e-05
+ Reference value :  5.93196e-05
+ Reference value :  6.13441e-05
+ Reference value :  6.14066e-05
+ Reference value :  6.14733e-05
+ Reference value :  6.20026e-05
+ Reference value :  6.36435e-05
+ Reference value :  6.37083e-05
+ Reference value :  6.37675e-05
+ Reference value :  6.38465e-05
+ Reference value :  6.44487e-05
+ Reference value :  6.59332e-05
+ Reference value :  6.59983e-05
+ Reference value :  6.61040e-05
+ Reference value :  6.81710e-05
+ Reference value :  6.82498e-05
+ Reference value :  6.83042e-05
+ Reference value :  6.83801e-05
+ Reference value :  6.86366e-05
+ Reference value :  7.04741e-05
+ Reference value :  7.05414e-05
+ Reference value :  7.06423e-05
+ Reference value :  7.27068e-05
+No. of Data Rows : 82356
+m0                  =  3.97009e+01 from=  6.36364e-05 to=  7.27273e-05
+m1                  =  2.86674e+01 from=  6.36364e-05 to=  7.27273e-05
+m2                  =  2.15310e+00 from=  6.36364e-05 to=  7.27273e-05
+m3                  =  2.03939e+00 from=  6.36364e-05 to=  7.27273e-05
+m4                  =  3.16630e+00 at=  6.99371e-05
+m5                  =  3.01431e+00 from=  6.36364e-05 to=  7.27273e-05
+m6                  =  1.07572e-02 from=  6.36364e-05 to=  7.27273e-05
+m7                  =  -5.56759e-06 from=  6.36364e-05 to=  7.27273e-05
+m8                  =  2.11233e-05 from=  6.36364e-05 to=  7.27273e-05
+m9                  =  5.93090e-05 from=  6.36364e-05 to=  7.27273e-05
+m10                 =  3.67271e-06 from=  6.36364e-05 to=  7.27273e-05
+m11                 =  1.11600e-04 from=  6.36364e-05 to=  7.27273e-05
+m12                 =  4.47434e-07 from=  6.36364e-05 to=  7.27273e-05
+m13                 =  1.81984e-04 from=  6.36364e-05 to=  7.27273e-05
+m14                 =  -8.34678e-06 from=  6.36364e-05 to=  7.27273e-05
+m15                 =  2.29773e-04 from=  6.36364e-05 to=  7.27273e-05
+m16                 =  -1.93043e-05 from=  6.36364e-05 to=  7.27273e-05
+m17                 =  1.62240e-04 from=  6.36364e-05 to=  7.27273e-05
+m18                 =  8.16048e-04 from=  6.36364e-05 to=  7.27273e-05
+m19                 =  1.21482e-03 from=  6.36364e-05 to=  7.27273e-05
+m20                 =  6.82928e-04 from=  6.36364e-05 to=  7.27273e-05
+m21                 =  1.07772e-03 from=  6.36364e-05 to=  7.27273e-05
+m22                 =  4.31567e-04 from=  6.36364e-05 to=  7.27273e-05
+m23                 =  1.02406e-03 from=  6.36364e-05 to=  7.27273e-05
+m24                 =  5.70513e-03 from=  6.36364e-05 to=  7.27273e-05
+m25                 =  1.48654e-04 from=  6.36364e-05 to=  7.27273e-05
+m26                 =  9.39079e-04 from=  6.36364e-05 to=  7.27273e-05
+m27                 =  1.53417e-03 from=  6.36364e-05 to=  7.27273e-05
+m28                 =  -5.07812e-03 from=  6.36364e-05 to=  7.27273e-05
+m29                 =  -3.59545e-04 from=  6.36364e-05 to=  7.27273e-05
+m30                 =  8.96799e-03 from=  6.36364e-05 to=  7.27273e-05
+m31                 =  1.36875e-01 from=  6.36364e-05 to=  7.27273e-05
+m32                 =  2.05381e-03 from=  6.36364e-05 to=  7.27273e-05
+m33                 =  2.37514e-01 from=  6.36364e-05 to=  7.27273e-05
+m34                 =  2.37390e+00 from=  6.36364e-05 to=  7.27273e-05
+m35                 =  2.37385e+00 from=  6.36364e-05 to=  7.27273e-05
+m36                 =  2.37382e+00 from=  6.36364e-05 to=  7.27273e-05
+m37                 =  2.37383e+00 from=  6.36364e-05 to=  7.27273e-05
+m38                 =  2.37733e-01 from=  6.36364e-05 to=  7.27273e-05
+m39                 =  1.20177e-01 from=  6.36364e-05 to=  7.27273e-05
+m40                 =  1.20187e-01 from=  6.36364e-05 to=  7.27273e-05
+m41                 =  1.20194e-01 from=  6.36364e-05 to=  7.27273e-05
+m42                 =  1.36875e-02 from=  6.36364e-05 to=  7.27273e-05
+m43                 =  1.18725e-01 from=  6.36364e-05 to=  7.27273e-05
+m44                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m45                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m46                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m47                 =  -2.87856e-01 from=  6.36364e-05 to=  7.27273e-05
+m48                 =  4.94143e-02 from=  6.36364e-05 to=  7.27273e-05
+m49                 =  1.03318e-01 from=  6.36364e-05 to=  7.27273e-05
+m50                 =  4.93723e-02 from=  6.36364e-05 to=  7.27273e-05
+m51                 =  1.02279e-01 from=  6.36364e-05 to=  7.27273e-05
+m52                 =  2.99275e+01 from=  6.36364e-05 to=  7.27273e-05
+m53                 =  -2.89675e+01 from=  6.36364e-05 to=  7.27273e-05
+m54                 =  3.00100e-01 from=  6.36364e-05 to=  7.27273e-05
+m55                 =  2.86674e+01 from=  6.36364e-05 to=  7.27273e-05
+binary raw file "adaptive-ports.raw"
+Total elapsed time (seconds) = 32.055 
+Total DRAM available = 31918.082 MB.
+DRAM currently available = 12752.500 MB.
+Maximum ngspice program size =  209.438 MB.
+Current ngspice program size =  191.047 MB.
+
+Shared ngspice pages =   15.473 MB.
+Text (code) pages =    6.422 MB.
+Stack = 0 bytes.
+Library pages =  176.180 MB.
+
+Number of lines in the deck = 2575
+Netlist loading time = 0.00284355
+Subckt and Param expansion time = 0.00206106
+Netlist parsing time = 0.00152865
+
+Nominal temperature = 27
+Operating temperature = 27
+Total iterations = 286700
+Transient iterations = 286700
+Circuit Equations = 371
+Circuit original non-zeroes = 3212
+Circuit fill-in non-zeroes = 6016
+Circuit total non-zeroes = 9228
+Transient timepoints = 114313
+Accepted timepoints = 82357
+Rejected timepoints = 31956
+Total analysis time (seconds) = 31.8835
+Matrix load time = 3.07053
+Matrix synchronize time = 0
+Matrix reorder time = 0.000382013
+Matrix factor time = 26.5423
+Matrix solve time = 1.55705
+Transient analysis time = 31.8826
+Transient load time = 3.07051
+Transient sync time = 0
+Transient factor time = 26.5423
+Transient solve time = 1.55705
+Transient trunc time = 0.335748
+Transient iterations for the last time point = 0
+AC analysis time = 0
+AC load time = 0
+AC sync time = 0
+AC factor time = 0
+AC solve time = 0
+ngspice-47 done
+

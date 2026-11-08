@@ -1,0 +1,19 @@
+Processing ./pcbqs
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Processing ./kicad2ems-gui
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pcbqs, kicad2ems-gui
+  Building wheel for pcbqs (pyproject.toml): started
+  Building wheel for pcbqs (pyproject.toml): finished with status 'done'
+  Created wheel for pcbqs: filename=pcbqs-261107.post1-py3-none-any.whl size=140235 sha256=2117fa990fe902a70948881ab7529abbddbd20ec8824ced843bf3ecb72580706
+  Stored in directory: /tmp/pip-ephem-wheel-cache-5agk9s4k/wheels/2f/98/51/e7552ed49f057167b5cad8862bbeffc1873cd17703199deddf
+  Building wheel for kicad2ems-gui (pyproject.toml): started
+  Building wheel for kicad2ems-gui (pyproject.toml): finished with status 'done'
+  Created wheel for kicad2ems-gui: filename=kicad2ems_gui-261107.post1-py3-none-any.whl size=181847 sha256=a608470ca51ae74645dd6ecfc7b499cae4b1b9c083eac0ae4aa22dcf617bfdd9
+  Stored in directory: /tmp/pip-ephem-wheel-cache-5agk9s4k/wheels/d0/65/76/3881cd4c09f0fb6fcced6faf795aae4645445ebda16085b48f
+Successfully built pcbqs kicad2ems-gui
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip

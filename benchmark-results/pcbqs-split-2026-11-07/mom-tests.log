@@ -1,0 +1,9 @@
+........................................................................ [ 78%]
+....................                                                     [100%]
+=============================== warnings summary ===============================
+tests/test_gpu.py::test_a_nan_gpu_factor_falls_back
+  /home/bt/projects/kicad2ems-project/mom25d/src/mom25d/fast.py:1368: RuntimeWarning: invalid value encountered in divide
+    cs[j], sn[j] = H[j, j].conj() / den, H[j + 1, j].conj() / den
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+92 passed, 1 warning in 237.57s (0:03:57)

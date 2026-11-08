@@ -1,0 +1,2 @@
+g++ -O3 -march=native -fopenmp -shared -fPIC -std=c++17 -Wno-attributes -I/home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/pybind11/include -I/usr/include/python3.14 -I/home/bt/projects/kicad2ems-project/pcbqs/src/pcbqs/core /home/bt/projects/kicad2ems-project/pcbqs/src/pcbqs/core/pcbqs_core.cpp -o /home/bt/projects/kicad2ems-project/pcbqs/src/pcbqs/core/../_core.cpython-314-x86_64-linux-gnu.so
+built /home/bt/projects/kicad2ems-project/pcbqs/src/pcbqs/_core.cpython-314-x86_64-linux-gnu.so

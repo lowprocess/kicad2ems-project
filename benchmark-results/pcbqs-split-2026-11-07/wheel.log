@@ -1,0 +1,5 @@
+ERROR: Could not find a version that satisfies the requirement pcbqs (from versions: none)
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip
+ERROR: No matching distribution found for pcbqs

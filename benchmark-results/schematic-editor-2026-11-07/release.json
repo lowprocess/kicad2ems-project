@@ -1,0 +1,29 @@
+{
+  "branch": "codex/pcbqs-split",
+  "version": "261107.post2",
+  "commits": {
+    "pcbqs": "3f4152b3ac7489e7302794a323de565b5135f953",
+    "kicad2ems-gui": "0eb7730684b0e2e8ab47585448a48bed31408c73",
+    "kicad2ems": "81f439a1cdfa9d70c245490ddae09ebd74001f88",
+    "mom25d": "77509a598561e79c292e65369cec10c1816fc25a",
+    "emsdev": "ba2cc87f8aa05dbbe22bf328b86b6ba6e9808125"
+  },
+  "tests": {
+    "backend_gui_passed": 211,
+    "installer_api_passed": 25
+  },
+  "wheels": [
+    {
+      "filename": "kicad2ems-261107.post2-py3-none-any.whl",
+      "sha256": "84355e5794290bbba5720de163e9e6fe1419c900eb72e45292ebee7c1e840573"
+    },
+    {
+      "filename": "kicad2ems_gui-261107.post2-py3-none-any.whl",
+      "sha256": "08fb9adfdd1570598e808161aedc032f9f130e0d3d75ec7e4eb03860c86337b7"
+    },
+    {
+      "filename": "pcbqs-261107.post2-py3-none-any.whl",
+      "sha256": "c9e3874d16d52aa8d159afd0d16813175c6655291c616e46f83dd351608c15ec"
+    }
+  ]
+}

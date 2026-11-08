@@ -1,0 +1,133 @@
+{
+  "checks": [
+    {
+      "frequency_Hz": 0,
+      "relative_error": 1.0489271262618874e-13
+    },
+    {
+      "frequency_Hz": 90000,
+      "relative_error": 0.02163265765985473
+    },
+    {
+      "frequency_Hz": 110000,
+      "relative_error": 0.02291585687438682
+    },
+    {
+      "frequency_Hz": 180000,
+      "relative_error": 0.025698203426509855
+    },
+    {
+      "frequency_Hz": 220000,
+      "relative_error": 0.0270430671832493
+    },
+    {
+      "frequency_Hz": 270000,
+      "relative_error": 0.028546395999864038
+    },
+    {
+      "frequency_Hz": 330000,
+      "relative_error": 0.02985941570107643
+    },
+    {
+      "frequency_Hz": 360000,
+      "relative_error": 0.030290504804543626
+    },
+    {
+      "frequency_Hz": 440000,
+      "relative_error": 0.03081474918360413
+    },
+    {
+      "frequency_Hz": 450000,
+      "relative_error": 0.030828671644791632
+    },
+    {
+      "frequency_Hz": 540000,
+      "relative_error": 0.03061966489339961
+    },
+    {
+      "frequency_Hz": 550000,
+      "relative_error": 0.030569829860398127
+    },
+    {
+      "frequency_Hz": 630000,
+      "relative_error": 0.03007696230857681
+    },
+    {
+      "frequency_Hz": 660000,
+      "relative_error": 0.029870309188683757
+    },
+    {
+      "frequency_Hz": 720000,
+      "relative_error": 0.029456899594434757
+    },
+    {
+      "frequency_Hz": 770000,
+      "relative_error": 0.029130738262278525
+    },
+    {
+      "frequency_Hz": 810000,
+      "relative_error": 0.028889864329331716
+    },
+    {
+      "frequency_Hz": 880000,
+      "relative_error": 0.028519644328461685
+    },
+    {
+      "frequency_Hz": 900000,
+      "relative_error": 0.028426369582890274
+    },
+    {
+      "frequency_Hz": 990000,
+      "relative_error": 0.0280727445837021
+    },
+    {
+      "frequency_Hz": 1080000,
+      "relative_error": 0.027814545956484645
+    },
+    {
+      "frequency_Hz": 1100000,
+      "relative_error": 0.027767996536242973
+    },
+    {
+      "frequency_Hz": 1170000,
+      "relative_error": 0.02763029792708215
+    },
+    {
+      "frequency_Hz": 1210000,
+      "relative_error": 0.027566458460216447
+    },
+    {
+      "frequency_Hz": 1260000,
+      "relative_error": 0.02749862778938516
+    },
+    {
+      "frequency_Hz": 1320000,
+      "relative_error": 0.02743091121881148
+    },
+    {
+      "frequency_Hz": 1350000,
+      "relative_error": 0.027401350265764304
+    },
+    {
+      "frequency_Hz": 1430000,
+      "relative_error": 0.027332232661023814
+    },
+    {
+      "frequency_Hz": 1440000,
+      "relative_error": 0.027324323133651976
+    },
+    {
+      "frequency_Hz": 1540000,
+      "relative_error": 0.02725005152328426
+    },
+    {
+      "frequency_Hz": 1650000,
+      "relative_error": 0.02717127612794544
+    },
+    {
+      "frequency_Hz": 1760000,
+      "relative_error": 0.027088188305918262
+    }
+  ],
+  "maximum_relative_error": 0.030828671644791632
+}

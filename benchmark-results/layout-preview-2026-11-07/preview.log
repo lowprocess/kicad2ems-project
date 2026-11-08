@@ -1,0 +1,4 @@
+mqs: reading board
+mqs: U13, VCC, capacitors C46, C49
+mqs: 10,045 triangles on 10 layer(s), 12,986 edges, 252 via segments, 6 terminals
+mqs: wrote mesh preview to benchmark-results/layout-preview-2026-11-07/jetson-U13/preview

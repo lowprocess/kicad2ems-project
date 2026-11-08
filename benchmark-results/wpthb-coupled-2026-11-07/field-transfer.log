@@ -1,0 +1,31 @@
+mqs: 13,528 triangles on 4 layer(s), 18,245 edges, 267 via segments, 29 terminals
+mqs: openmp matrix fill, 8 worker(s), 6.72 s
+mqs: 8,672 loops; matrices in 24.6 s
+Copper ports: 180000 Hz
+Copper ports: 220000 Hz
+Copper ports: 270000 Hz
+Copper ports: 330000 Hz
+Copper ports: 360000 Hz
+Copper ports: 440000 Hz
+Copper ports: 450000 Hz
+Copper ports: 540000 Hz
+Copper ports: 550000 Hz
+Copper ports: 630000 Hz
+Copper ports: 660000 Hz
+Copper ports: 720000 Hz
+Copper ports: 770000 Hz
+Copper ports: 810000 Hz
+Copper ports: 880000 Hz
+Copper ports: 990000 Hz
+Copper ports: 1.08e+06 Hz
+Copper ports: 1.17e+06 Hz
+Copper ports: 1.21e+06 Hz
+Copper ports: 1.26e+06 Hz
+Copper ports: 1.32e+06 Hz
+Copper ports: 1.35e+06 Hz
+Copper ports: 1.43e+06 Hz
+Copper ports: 1.44e+06 Hz
+Copper ports: 1.54e+06 Hz
+Copper ports: 1.65e+06 Hz
+Copper ports: 1.76e+06 Hz
+Field transfer cache complete

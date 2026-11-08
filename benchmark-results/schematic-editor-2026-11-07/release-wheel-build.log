@@ -1,0 +1,80 @@
+Processing ./pcbqs
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Processing ./kicad2ems-gui
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Processing ./kicad2ems
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pcbqs, kicad2ems-gui, kicad2ems
+  Building wheel for pcbqs (pyproject.toml): started
+  Building wheel for pcbqs (pyproject.toml): finished with status 'done'
+  Created wheel for pcbqs: filename=pcbqs-261107.post2-py3-none-any.whl size=140236 sha256=c9e3874d16d52aa8d159afd0d16813175c6655291c616e46f83dd351608c15ec
+  Stored in directory: /tmp/pip-ephem-wheel-cache-mnokvck0/wheels/2f/98/51/e7552ed49f057167b5cad8862bbeffc1873cd17703199deddf
+  Building wheel for kicad2ems-gui (pyproject.toml): started
+  Building wheel for kicad2ems-gui (pyproject.toml): finished with status 'done'
+  Created wheel for kicad2ems-gui: filename=kicad2ems_gui-261107.post2-py3-none-any.whl size=181875 sha256=08fb9adfdd1570598e808161aedc032f9f130e0d3d75ec7e4eb03860c86337b7
+  Stored in directory: /tmp/pip-ephem-wheel-cache-mnokvck0/wheels/d0/65/76/3881cd4c09f0fb6fcced6faf795aae4645445ebda16085b48f
+  Building wheel for kicad2ems (pyproject.toml): started
+  Building wheel for kicad2ems (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  × Building wheel for kicad2ems (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [45 lines of output]
+      /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/setuptools/config/_apply_pyprojecttoml.py:82: SetuptoolsDeprecationWarning: `project.license` as a TOML table is deprecated
+      !!
+      
+              ********************************************************************************
+              Please use a simple string containing a SPDX expression for `project.license`. You can also use `project.license-files`. (Both options available on setuptools>=77.0.0).
+      
+              By 2027-Feb-18, you need to update your project and remove deprecated calls
+              or your builds will no longer be supported.
+      
+              See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+              ********************************************************************************
+      
+      !!
+        corresp(dist, value, root_dir)
+      /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/setuptools/config/_apply_pyprojecttoml.py:61: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+      !!
+      
+              ********************************************************************************
+              Please consider removing the following classifiers in favor of a SPDX license expression:
+      
+              License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+      
+              See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+              ********************************************************************************
+      
+      !!
+        dist._finalize_license_expression()
+      /home/bt/projects/kicad2ems-project/kicad2ems/.venv/lib64/python3.14/site-packages/setuptools/dist.py:765: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+      !!
+      
+              ********************************************************************************
+              Please consider removing the following classifiers in favor of a SPDX license expression:
+      
+              License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+      
+              See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+              ********************************************************************************
+      
+      !!
+        self._finalize_license_expression()
+      running bdist_wheel
+      running build
+      running build_py
+      copying src/kicad2ems/__init__.py -> build/lib/kicad2ems
+      error: could not delete 'build/lib/kicad2ems/__init__.py': Permission denied
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for kicad2ems
+Successfully built pcbqs kicad2ems-gui
+Failed to build kicad2ems
+
+[notice] A new release of pip is available: 26.2.2 -> 26.3
+[notice] To update, run: /home/bt/projects/kicad2ems-project/kicad2ems/.venv/bin/python -m pip install --upgrade pip
+ERROR: Failed to build one or more wheels

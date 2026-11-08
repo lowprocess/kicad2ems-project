@@ -1,0 +1,18 @@
+{
+  "L_H": 2.4e-05,
+  "C_series_F": 9.9e-08,
+  "nominal_unloaded_resonance_Hz": 103251.62929593983,
+  "resonance_with_L_tolerance_Hz": [
+    98446.56581233285,
+    108836.77356617917
+  ],
+  "resonance_with_optional_C17_Hz": 89418.53395241748,
+  "equivalent_series_loss_at_125kHz_ohm": 0.12161003820347586,
+  "single_LC_estimated_self_capacitance_F": 1.7801129975954663e-11,
+  "reactance_ohm": {
+    "70000": -12.41032993818005,
+    "90000": -4.29082737868012,
+    "100000": -0.9966121407382182,
+    "110000": 1.9728302309820798
+  }
+}

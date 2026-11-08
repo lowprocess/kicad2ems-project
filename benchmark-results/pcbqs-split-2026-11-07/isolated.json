@@ -1,0 +1,23 @@
+{
+  "python": "/tmp/pcbqs-isolated/bin/python",
+  "package": "/tmp/pcbqs-isolated/lib64/python3.14/site-packages/pcbqs/__init__.py",
+  "mom25d_installed": false,
+  "kicad2ems_installed": false,
+  "native_backend": "pcbqs._core",
+  "metadata_requires": [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "shapely>=2.0",
+    "triangle>=20230923",
+    "matplotlib>=3.7",
+    "threadpoolctl>=3.1",
+    "pillow>=9",
+    "emsdev @ https://github.com/lowprocess/emsdev/archive/refs/heads/main.zip",
+    "pybind11>=2.10; extra == \"core\"",
+    "cupy-cuda12x>=14; extra == \"gpu-cuda12\"",
+    "cupy-cuda13x>=14; extra == \"gpu-cuda13\"",
+    "cupy-rocm-7-0>=14; extra == \"gpu-rocm7\"",
+    "kicad2ems>=261101.post1; extra == \"kicad2ems\"",
+    "pytest>=7; extra == \"test\""
+  ]
+}
