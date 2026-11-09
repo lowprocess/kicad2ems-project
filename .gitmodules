@@ -34,3 +34,7 @@
 	path = pcbqs
 	url = https://github.com/lowprocess/pcbqs.git
 	branch = main
+[submodule "kicad2ems-fem"]
+	path = kicad2ems-fem
+	url = https://github.com/lowprocess/kicad2ems-fem.git
+	branch = main
