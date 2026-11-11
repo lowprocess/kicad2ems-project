@@ -9,7 +9,7 @@ submodule here, at the commit the others were last tested with.
 |---|---|
 | [kicad2ems](https://github.com/lowprocess/kicad2ems) | KiCad boards to EM solvers: the board model, the line model, the runs, the reports; `install.py` installs the stack |
 | [mom25d](https://github.com/lowprocess/mom25d) | a 2.5D method-of-moments solver (layered Green's functions, GPU LU) |
-| [pcbqs](https://github.com/lowprocess/pcbqs) | DC/PDN, MQS/PEEC fields and ngspice operational circuits; independent of mom25d |
+| [pcbqs](https://github.com/lowprocess/pcbqs) | DC/PDN, MQS/PEEC fields, ngspice circuits on the board's copper and a board's steady temperature; independent of mom25d |
 | [gfdtd](https://github.com/lowprocess/gfdtd) | a GPU-accelerated FDTD solver |
 | [kicad2ems-fdtd](https://github.com/lowprocess/kicad2ems-fdtd) | kicad2ems's openEMS and gfdtd solver plugins |
 | [kicad2ems-gui](https://github.com/lowprocess/kicad2ems-gui) | the window: a run's settings, the run and its results |
