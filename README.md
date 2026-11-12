@@ -38,3 +38,14 @@ git add -A && git commit -m "Submodules: ..."   # pin those commits here
 ```
 
 Work happens in each package's own repository; this one records which commits go together.
+
+kicad2ems installs the other packages by revision too (its `gui`, `mom` and `qs` extras name a commit), so that
+`pip install 'kicad2ems[qs]'` gets the stack that was tested together. Those have to be the commits pinned here:
+
+```bash
+python sync_pins.py             # each of kicad2ems's pins against its submodule; exit 1 when one is behind
+python sync_pins.py --write     # write the submodules' commits into kicad2ems/pyproject.toml
+```
+
+When packages change together: commit and push the others, `sync_pins.py --write`, commit and push kicad2ems,
+then pin the submodules here.
