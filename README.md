@@ -52,3 +52,20 @@ python sync_pins.py --write     # write the submodules' commits into kicad2ems/p
 
 When packages change together: commit and push the others, `sync_pins.py --write`, commit and push kicad2ems,
 then pin the submodules here.
+
+## Versions
+
+Every package is versioned `MAJOR.MINOR.PATCH` ([semantic versioning](https://semver.org/)), from 0.3.0 on
+2026-11-14 (the KiCad plugin keeps its own, 0.1.0, for KiCad's plugin manager). While the stack is at 0.x, MINOR
+goes up when what another package relies on changes (a `kicad2ems.api` version, gfdtd's engine API, a file format)
+and PATCH for anything else. A package's version goes up when another package needs the change, and a release tags
+each repository `vX.Y.Z`. The calendar versions before (`261013-r1` to `261114`) sort above 0.x in pip, so a
+floor such as `kicad2ems>=0.3.0` is met by them too; the installer pins commits, so that is only seen by hand.
+
+## Licence
+
+GPL-3.0-or-later (see [LICENSE](LICENSE)), as every package here. mom25d and pcbqs mesh with the `triangle`
+package (LGPL-3.0), which compiles in Jonathan Shewchuk's Triangle. Triangle keeps its own terms, which are not
+the GPL's: it "may not be sold or included in commercial products without a license" from its author
+([Triangle's page](https://www.cs.cmu.edu/~quake/triangle.html)). It is installed as a separate package; none of
+its code is in these repositories.
