@@ -39,7 +39,8 @@ def pins(text):
 
 
 TAGGED = re.compile(r'emsdev @ https://github\.com/lowprocess/emsdev/archive/refs/tags/(v[\w.]+)\.zip')
-USERS = ('kicad2ems', 'pcbqs', 'mom25d', 'gfdtd', 'kicad2ems-fdtd')    # the pyprojects that name emsdev
+USERS = ('kicad2ems', 'pcbqs', 'mom25d', 'gfdtd', 'kicad2ems-fdtd',    # the pyprojects that name emsdev, and
+         'kicad2ems/docs/requirements.txt')                       # the docs build's requirements
 
 
 def emsdev_pins():
@@ -47,10 +48,11 @@ def emsdev_pins():
     package): None when it is, else what is wrong. A release past the tag is said, not an error."""
     tags = {}
     for repo in USERS:
-        text = (ROOT / repo / 'pyproject.toml').read_text(encoding='utf-8')
+        path = ROOT / repo if repo.endswith('.txt') else ROOT / repo / 'pyproject.toml'
+        text = path.read_text(encoding='utf-8')
         found = TAGGED.findall(text)
         if 'lowprocess/emsdev' in text and not found:
-            return f"emsdev: {repo}/pyproject.toml does not pin it by a release tag (archive/refs/tags/vX.Y.Z.zip)"
+            return f"emsdev: {path.relative_to(ROOT)} does not pin it by a release tag (archive/refs/tags/vX.Y.Z.zip)"
         tags.update({repo: t for t in found})
     if len(set(tags.values())) != 1:
         return "emsdev: the pyprojects name different tags: " + ', '.join(f"{r} {t}" for r, t in sorted(tags.items()))
@@ -58,7 +60,7 @@ def emsdev_pins():
     if not git('emsdev', 'ls-remote', '--tags', 'origin', f'refs/tags/{tag}'):
         return f"emsdev: {tag} is not a tag on origin (tag and push it first)"
     ahead = git('emsdev', 'rev-list', '--count', f'{tag}..HEAD')
-    print(f"emsdev: {tag} in all {len(tags)} pyprojects" + (f" ({ahead} commit(s) on main since: a new tag pins them)"
+    print(f"emsdev: {tag} in all {len(tags)} of its pins" + (f" ({ahead} commit(s) on main since: a new tag pins them)"
                                                           if ahead not in ('', '0') else ''))
     return None
 
