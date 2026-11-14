@@ -9,6 +9,9 @@ extra once stayed 68 commits behind pcbqs, so the installer gave a pcbqs without
     python sync_pins.py            # check: each pin against its submodule's HEAD; exit 1 when one differs
     python sync_pins.py --write    # write the submodules' HEADs into kicad2ems/pyproject.toml
 
+emsdev changes seldom and is named by five packages, so it is pinned by its release tag
+(emsdev/archive/refs/tags/vX.Y.Z.zip), the same in all five: this checks that, and says when main is past it.
+
 A pin has to be a commit its repository has on GitHub, so one that is only here (not on a branch of origin) is
 refused. The order when packages change together: commit and push the other packages, `sync_pins.py --write`,
 commit and push kicad2ems, then pin the submodules in this repository.
@@ -35,8 +38,36 @@ def pins(text):
     return out
 
 
+TAGGED = re.compile(r'emsdev @ https://github\.com/lowprocess/emsdev/archive/refs/tags/(v[\w.]+)\.zip')
+USERS = ('kicad2ems', 'pcbqs', 'mom25d', 'gfdtd', 'kicad2ems-fdtd')    # the pyprojects that name emsdev
+
+
+def emsdev_pins():
+    """emsdev is pinned by release tag, the same in every pyproject that names it (pip refuses two URLs for one
+    package): None when it is, else what is wrong. A release past the tag is said, not an error."""
+    tags = {}
+    for repo in USERS:
+        text = (ROOT / repo / 'pyproject.toml').read_text(encoding='utf-8')
+        found = TAGGED.findall(text)
+        if 'lowprocess/emsdev' in text and not found:
+            return f"emsdev: {repo}/pyproject.toml does not pin it by a release tag (archive/refs/tags/vX.Y.Z.zip)"
+        tags.update({repo: t for t in found})
+    if len(set(tags.values())) != 1:
+        return "emsdev: the pyprojects name different tags: " + ', '.join(f"{r} {t}" for r, t in sorted(tags.items()))
+    tag = next(iter(tags.values()))
+    if not git('emsdev', 'ls-remote', '--tags', 'origin', f'refs/tags/{tag}'):
+        return f"emsdev: {tag} is not a tag on origin (tag and push it first)"
+    ahead = git('emsdev', 'rev-list', '--count', f'{tag}..HEAD')
+    print(f"emsdev: {tag} in all {len(tags)} pyprojects" + (f" ({ahead} commit(s) on main since: a new tag pins them)"
+                                                          if ahead not in ('', '0') else ''))
+    return None
+
+
 def main(argv):
     write = '--write' in argv
+    wrong = emsdev_pins()
+    if wrong:
+        print(wrong)
     text = PYPROJECT.read_text(encoding='utf-8')
     stale, refused = [], []
     for repo, shas in sorted(pins(text).items()):
@@ -59,7 +90,7 @@ def main(argv):
         PYPROJECT.write_text(text, encoding='utf-8')
         print(f"wrote {PYPROJECT.relative_to(ROOT)}: {', '.join(f'{r} {h[:7]}' for r, h in stale)}")
         stale = []
-    return 1 if stale or refused else 0
+    return 1 if stale or refused or wrong else 0
 
 
 if __name__ == '__main__':
