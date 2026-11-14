@@ -12,6 +12,7 @@ submodule here, at the commit the others were last tested with.
 | [pcbqs](https://github.com/lowprocess/pcbqs) | DC/PDN, MQS/PEEC fields, ngspice circuits on the board's copper and a board's steady temperature; independent of mom25d |
 | [gfdtd](https://github.com/lowprocess/gfdtd) | a GPU-accelerated FDTD solver |
 | [kicad2ems-fdtd](https://github.com/lowprocess/kicad2ems-fdtd) | kicad2ems's openEMS and gfdtd solver plugins |
+| [kicad2ems-fem](https://github.com/lowprocess/kicad2ems-fem) | Elmer and Palace as engines of kicad2ems's study: a rail's drop, temperature, capacitance, coils with ferrite, driven S-parameters |
 | [kicad2ems-gui](https://github.com/lowprocess/kicad2ems-gui) | the window: a run's settings, the run and its results |
 | [kicad2ems-ipc](https://github.com/lowprocess/kicad2ems-ipc) | the plugin for KiCad's PCB editor (KiCad's IPC API, KiCad 9 and later) |
 | [dfsynth](https://github.com/lowprocess/dfsynth) | distributed-element microstrip filter synthesis, checked with kicad2ems |
@@ -39,8 +40,10 @@ git add -A && git commit -m "Submodules: ..."   # pin those commits here
 
 Work happens in each package's own repository; this one records which commits go together.
 
-kicad2ems installs the other packages by revision too (its `gui`, `mom` and `qs` extras name a commit), so that
-`pip install 'kicad2ems[qs]'` gets the stack that was tested together. Those have to be the commits pinned here:
+kicad2ems installs the other packages by revision too (its `gui`, `mom`, `qs` and `fem` extras name a commit), so
+that `pip install 'kicad2ems[qs]'` gets the stack that was tested together. Those have to be the commits pinned here.
+(Not yet pinned: emsdev, taken from its main branch by every package, and the `openems` and `gfdtd` extras'
+kicad2ems-fdtd.)
 
 ```bash
 python sync_pins.py             # each of kicad2ems's pins against its submodule; exit 1 when one is behind

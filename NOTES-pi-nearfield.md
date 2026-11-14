@@ -1,3 +1,5 @@
+> **History (2026-11-07 to 2026-11-10), not the present state.** Much of it is superseded: the power tools moved from mom25d to pcbqs, Palace is an engine through kicad2ems-fem, and the near field, the DC maps and the KiCad path are built. What exists now: pcbqs's docs and CHANGELOG.md; what is left: kicad2ems's ROADMAP.md.
+
 # Power integrity and near field: where it stands, where it could go
 
 Notes from the work of 6–7 November 2026. All of it was merged into main on 7 November: mom25d's `pdn` and
