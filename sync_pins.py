@@ -79,7 +79,19 @@ def main(argv):
     bad = sync(PYPROJECT, PIN, write, 'kicad2ems')
     if PLUGIN_REQS.exists():
         bad = sync(PLUGIN_REQS, ARCHIVE, write, 'the KiCad plugin') or bad
+    gpu_report_line()
     return 1 if bad or wrong else 0
+
+
+def gpu_report_line():
+    """One line on the GPU pre-release report (tools/gpu_report.py, R-C7): for the commits pinned now, or older.
+    Said, not an error: CI cannot run the GPU paths, a release should."""
+    try:
+        sys.path.insert(0, str(ROOT / 'tools'))
+        import gpu_report
+        gpu_report.check()
+    except Exception as e:                                          # noqa: BLE001  (a note, never the pins' result)
+        print(f"GPU report: not checked ({type(e).__name__}: {e})")
 
 
 def sync(path, pattern, write, who):

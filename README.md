@@ -64,6 +64,19 @@ and PATCH for anything else. A package's version goes up when another package ne
 each repository `vX.Y.Z`. The calendar versions before (`261013-r1` to `261114`) sort above 0.x in pip, so a
 floor such as `kicad2ems>=0.3.0` is met by them too; the installer pins commits, so that is only seen by hand.
 
+## Before a release: the GPU report
+
+CI has no GPU, so the GPU paths (gfdtd's Vulkan and CuPy kernels, mom25d's GPU LU, pcbqs's CuPy kernels) are run
+on a machine that has them, before a release, and what they gave is committed in `gpu-report/` (R-C7):
+
+```bash
+python tools/gpu_report.py              # the GPU tests and two boards on each backend against the CPU
+python tools/gpu_report.py --check      # is gpu-report/latest.json for the commits pinned now?
+```
+
+`sync_pins.py` ends with the same check's line, so a report older than the pinned GPU packages is said each time
+the pins are synced.
+
 ## Licence
 
 GPL-3.0-or-later (see [LICENSE](LICENSE)), as every package here. mom25d and pcbqs mesh with the `triangle`
