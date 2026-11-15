@@ -1,0 +1,204 @@
+{
+ "date": "2026-11-15T11:27:47",
+ "commits": {
+  "superproject": "e2091a4",
+  "dfsynth": "b291bec",
+  "emsdev": "6da34bc",
+  "gfdtd": "9ce728f",
+  "kicad2ems": "4bbf2cf",
+  "kicad2ems-fdtd": "47bf714",
+  "kicad2ems-fem": "e924d5e",
+  "kicad2ems-gui": "061e7b6",
+  "kicad2ems-ipc": "d2dd1d3",
+  "mom25d": "3842ae4",
+  "pcbqs": "0cb3827"
+ },
+ "machine": {
+  "os": "Linux 7.2.13-200.fc44.x86_64",
+  "python": "3.14.8",
+  "cpu": "13th Gen Intel(R) Core(TM) i7-13700K",
+  "vulkan": [
+   {
+    "name": "AMD Radeon RX 7800 XT (RADV NAVI32)",
+    "kind": "discrete",
+    "driver": "radv Mesa 26.2.5",
+    "memory_GB": 17.2
+   },
+   {
+    "name": "NVIDIA GeForce GTX 980 Ti",
+    "kind": "discrete",
+    "driver": "NVIDIA 580.178.04",
+    "memory_GB": 6.4
+   }
+  ],
+  "cupy": {
+   "version": "14.2.0",
+   "devices": [
+    "AMD Radeon RX 7800 XT"
+   ]
+  }
+ },
+ "tests": [
+  {
+   "repo": "gfdtd",
+   "args": "tests/test_gfdtd.py -k gpu or vulkan or cupy",
+   "passed": 10,
+   "failed": 0,
+   "skipped": 0,
+   "deselected": 42,
+   "skips": [],
+   "failures": [],
+   "seconds": 5.8
+  },
+  {
+   "repo": "mom25d",
+   "args": "tests/test_gpu.py",
+   "passed": 15,
+   "failed": 0,
+   "skipped": 0,
+   "deselected": 0,
+   "skips": [],
+   "failures": [],
+   "seconds": 6.3
+  },
+  {
+   "repo": "pcbqs",
+   "args": "tests/test_static_backends.py",
+   "passed": 70,
+   "failed": 0,
+   "skipped": 0,
+   "deselected": 0,
+   "skips": [],
+   "failures": [],
+   "seconds": 1.5
+  },
+  {
+   "repo": "emsdev",
+   "args": "tests -k vulkan or gpu or cupy",
+   "passed": 5,
+   "failed": 0,
+   "skipped": 0,
+   "deselected": 19,
+   "skips": [],
+   "failures": [],
+   "seconds": 0.2
+  },
+  {
+   "repo": "kicad2ems-fdtd",
+   "args": "tests -k gpu",
+   "passed": 1,
+   "failed": 0,
+   "skipped": 0,
+   "deselected": 95,
+   "skips": [],
+   "failures": [],
+   "seconds": 0.6
+  }
+ ],
+ "boards": [
+  {
+   "board": "demo_lowpass",
+   "run": "gfdtd Vulkan",
+   "rc": 0,
+   "seconds": 2.5,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 3.867460795374344e-07
+  },
+  {
+   "board": "demo_lowpass",
+   "run": "gfdtd CuPy",
+   "rc": 0,
+   "seconds": 3.6,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 5.606083838205453e-07
+  },
+  {
+   "board": "demo_lowpass",
+   "run": "gfdtd CPU",
+   "rc": 0,
+   "seconds": 6.4,
+   "fallback": false,
+   "note": null
+  },
+  {
+   "board": "demo_lowpass",
+   "run": "mom25d Vulkan",
+   "rc": 0,
+   "seconds": 2.7,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 4.520971868992024e-07
+  },
+  {
+   "board": "demo_lowpass",
+   "run": "mom25d CuPy",
+   "rc": 0,
+   "seconds": 2.9,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 2.6804379661662857e-07
+  },
+  {
+   "board": "demo_lowpass",
+   "run": "mom25d CPU",
+   "rc": 0,
+   "seconds": 2.8,
+   "fallback": false,
+   "note": null
+  },
+  {
+   "board": "rf_coupler",
+   "run": "gfdtd Vulkan",
+   "rc": 0,
+   "seconds": 4.7,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 4.944253751599555e-07
+  },
+  {
+   "board": "rf_coupler",
+   "run": "gfdtd CuPy",
+   "rc": 0,
+   "seconds": 4.8,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 4.4316185632360043e-07
+  },
+  {
+   "board": "rf_coupler",
+   "run": "gfdtd CPU",
+   "rc": 0,
+   "seconds": 14.4,
+   "fallback": false,
+   "note": null
+  },
+  {
+   "board": "rf_coupler",
+   "run": "mom25d Vulkan",
+   "rc": 0,
+   "seconds": 12.8,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 0.000981709678318744
+  },
+  {
+   "board": "rf_coupler",
+   "run": "mom25d CuPy",
+   "rc": 0,
+   "seconds": 15.1,
+   "fallback": false,
+   "note": null,
+   "max_dS_vs_cpu": 0.0010716929299269605
+  },
+  {
+   "board": "rf_coupler",
+   "run": "mom25d CPU",
+   "rc": 0,
+   "seconds": 18.0,
+   "fallback": false,
+   "note": null
+  }
+ ]
+}
