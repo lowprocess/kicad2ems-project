@@ -79,8 +79,7 @@ the pins are synced.
 
 ## Licence
 
-GPL-3.0-or-later (see [LICENSE](LICENSE)), as every package here. mom25d and pcbqs mesh with the `triangle`
-package (LGPL-3.0), which compiles in Jonathan Shewchuk's Triangle. Triangle keeps its own terms, which are not
-the GPL's: it "may not be sold or included in commercial products without a license" from its author
-([Triangle's page](https://www.cs.cmu.edu/~quake/triangle.html)). It is installed as a separate package; none of
-its code is in these repositories.
+GPL-3.0-or-later (see [LICENSE](LICENSE)), as every package here. mom25d and pcbqs triangulate with CDT 2.0.1
+by Artem Amirkhanov, vendored unmodified in their compiled cores (`core/CDT`) under its MPL-2.0 (its
+`predicates.h` BSD-3-Clause, `portable_nth_element.hpp` Apache-2.0 with LLVM exceptions), all compatible with
+the GPL. (Until 2026-11-15 they meshed with Jonathan Shewchuk's Triangle, whose terms are not the GPL's.)
