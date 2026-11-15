@@ -1,4 +1,14 @@
-# Simulation and validation records
+# Simulation and validation records (an archive)
+
+**An archive, not a benchmark** (R-C17). These are the records of 2026-11-07 and 08 as they were made: their
+scripts import modules that have gone since (`mom25d.power_bridge`, `pcbqs.power_bridge`, `mom25d.mqs`,
+`mom25d.pdn`) and are kept to show how the results were got, not to run. The maintained benchmarks:
+
+- the RF solvers: `kicad2ems/tools/bench_solvers.py` (the critical boards, each solver 3 times, the median and
+  range, the fastest field solver marked, a mom25d GPU run that factored on the CPU marked, time and memory as
+  bars; `docs/benchmarks.md`);
+- pcbqs's tools: `pcbqs/tools/perf/workloads.py` (each tool's workload, profiled);
+- the solvers' accuracy against openEMS on every example: the Solver Matrix (kicad2ems-studies' suite).
 
 These directories preserve the scripts, configurations, measured results,
 reports and pictures from the QS/MQS, WPT and GUI work. Historical records retain
