@@ -140,7 +140,7 @@
       <!-- the one versioned door for solvers -->
       <rect class="port" x="40" y="464" width="680" height="6" rx="2"/>
       <text class="lab api" x="730" y="490">kicad2ems.api.solver</text>
-      <text class="lab api" x="730" y="505">and .analysis 2.11</text>
+      <text class="lab api" x="730" y="505">and .analysis 2.12</text>
 
       <!-- ===== Analysis plugins ===== -->
       <text class="lab" x="20" y="528">ANALYSIS PLUGINS</text>
