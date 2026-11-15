@@ -43,7 +43,7 @@ Work happens in each package's own repository; this one records which commits go
 kicad2ems installs the other packages by revision too (its `gui`, `mom`, `qs` and `fem` extras name a commit), so
 that `pip install 'kicad2ems[qs]'` gets the stack that was tested together. Those have to be the commits pinned here.
 emsdev, which changes seldom and is named by five packages, is pinned by its release tag
-(`emsdev/archive/refs/tags/v0.3.0.zip`), the same in all five; `sync_pins.py` checks that and says when emsdev's main
+(`emsdev/archive/refs/tags/v0.3.1.zip`), the same in all five; `sync_pins.py` checks that and says when emsdev's main
 has gone past the tag (tag a release and name it in the five). Not yet pinned: the `openems` and `gfdtd` extras'
 kicad2ems-fdtd.
 
